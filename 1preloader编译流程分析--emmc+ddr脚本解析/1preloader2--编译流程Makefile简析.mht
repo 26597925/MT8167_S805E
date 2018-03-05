@@ -1,0 +1,1877 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?MXByZWxvYWRlcjItLbHg0uvB97PMTWFrZWZpbGW88s72?=
+Date: Date: Mon, 23 Oct 2017 08:42:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0415260513.718"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0415260513.718
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0138420171.895"
+
+
+------=_Next_Part_0138420171.895
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0138420171.895
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A<title>1preloader=
+2--=B1=E0=D2=EB=C1=F7=B3=CCMakefile=BC=F2=CE=F6</title>=0A    =0A=
+<style id=3D"wiz_custom_css">html, body {            font-size: 1=
+5px;        }        body {            font-family: Helvetica, 'H=
+iragino Sans GB', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI=
+', SimSun, SimHei, arial, sans-serif;            line-height: 1.6=
+;            margin: 0;            padding: 20px 15px;          =20=
+ padding: 1.33rem 1rem;        }        h1, h2, h3, h4, h5, h6 {=20=
+           margin: 20px 0 10px;            margin: 1.33rem 0 0.66=
+7rem;            padding: 0;            font-weight: bold;      =20=
+ }        h1 {            font-size: 21px;            font-size:=20=
+1.4rem;        }        h2 {            font-size: 20px;        =20=
+   font-size: 1.33rem;        }        h3 {            font-size:=
+ 18px;            font-size: 1.2rem;        }        h4 {       =20=
+    font-size: 17px;            font-size: 1.13rem;        }    =20=
+   h5 {            font-size: 15px;            font-size: 1rem; =20=
+      }        h6 {            font-size: 15px;            font-s=
+ize: 1rem;            color: #777777;            margin: 1rem 0;=20=
+       }        div, p, ul, ol, dl, li {            margin: 0;  =20=
+     }        blockquote, table, pre, code {            margin: 8=
+px 0;        }        ul, ol {            padding-left: 32px;   =20=
+        padding-left: 2.13rem;        }        blockquote {     =20=
+      padding: 0 12px;            padding: 0 0.8rem;        }   =20=
+    blockquote > :first-child {            margin-top: 0;       =20=
+}        blockquote > :last-child {            margin-bottom: 0;=20=
+       }        img {            border: 0;            max-width:=
+ 100%;            height: auto !important;            margin: 2px=
+ 0;        }        table {            border-collapse: collapse;=
+            border: 1px solid #bbbbbb;        }        td, th { =20=
+          padding: 4px 8px;            border-collapse: collapse;=
+            border: 1px solid #bbbbbb;			        }        @media=20=
+only screen and (-webkit-max-device-width: 1024px), only screen a=
+nd (-o-max-device-width: 1024px), only screen and (max-device-wid=
+th: 1024px), only screen and (-webkit-min-device-pixel-ratio: 3),=
+ only screen and (-o-min-device-pixel-ratio: 3), only screen and=20=
+(min-device-pixel-ratio: 3) {            html, body {           =20=
+    font-size: 17px;            }            body {             =20=
+  line-height: 1.7;                padding: 0.75rem 0.9375rem;  =20=
+             color: #353c47;            }            h1 {       =20=
+        font-size: 2.125rem;            }            h2 {       =20=
+        font-size: 1.875rem;            }            h3 {       =20=
+        font-size: 1.625rem;            }            h4 {       =20=
+        font-size: 1.375rem;            }            h5 {       =20=
+        font-size: 1.125rem;            }            h6 {       =20=
+        color: inherit;            }            ul, ol {        =20=
+       padding-left: 2.5rem;            }            blockquote {=
+                padding: 0 0.9375rem;            }        }</styl=
+e></head>=0A=0A<body spellcheck=3D"false" class=3D"" ><div><font=20=
+color=3D"#0000ff"><span style=3D"font-size: 13.005px; line-height=
+: 20.808px;"><b><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem; background-color: rgb(255=
+, 0, 0);">=D3=C9Android.mk=CE=C4=BC=FE=BF=C9=D6=AA=A3=ACMakefile=B5=
+=C4=CA=B5=BC=CA=D6=B4=D0=D0=C1=F7=B3=CC=CE=AA=A3=BA</span></b></s=
+pan></font></div><div><span style=3D"font-size: 13.005px; line-he=
+ight: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(255, 0, 0);"><b><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 255); font-size: 0.867rem;">make -j24 -C=
+ vendor/mediatek/proprietary/bootable/bootloader/preloader -s -f=20=
+Makefile</span><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp;CROSS_COMPILE=3D/home/hexh/0study/roco_n=
+08167_6630/alps/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi=
+-4.9/bin/arm-linux-androideabi- PRELOADER_OUT=3D/home/hexh/0study=
+/roco_n08167_6630/alps/out/target/product/jasz8167_tb_n/obj/PRELO=
+ADER_OBJ MTK_PROJECT=3Djasz8167_tb_n TOOL_PATH=3D/home/hexh/0stud=
+y/roco_n08167_6630/alps/device/mediatek/build/build/tools ROOTDIR=
+=3D/home/hexh/0study/roco_n08167_6630/alps</span></b></span></spa=
+n><b><br></b></div><div><b><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">=BF=C9=D2=D4=BC=F2=BB=AF=CE=AA=D2=D4=
+=CF=C2=C3=FC=C1=EE=A3=AC=B7=BD=B1=E3=BD=F8=D0=D0=B7=D6=CE=F6=A3=BA=
+</span></b></div><div><span style=3D"color: rgb(255, 0, 0); font-=
+size: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">=
+make -j24 -C&nbsp;</span></span><span style=3D"color: rgb(255, 0,=
+ 0); font-size: 13.005px; line-height: 20.808px;"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">alps/</span></span><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem; line-height: 20.808px; color: rgb=
+(0, 0, 0);"><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize:0.867rem">vendor/mediatek/proprietary/bootable/bootloader/pre=
+loader -s -f Makefile&nbsp;</span><b><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">PRELOADER_OUT</span></b>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">=3Dalps/out/target/product/jasz8167_tb_n/obj/PRELOADER_OBJ </=
+span><b><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">MTK_PROJECT</span></b><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">=3Djasz8167_tb_n </span><b>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">TOOL_PATH</span></b><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">=3Dalps/device/mediatek/build/build/t=
+ools </span><b><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">ROOTDIR</span></b><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">=3Dalps</span></span></d=
+iv><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+0.867rem;line-height:20.808px;color:rgb(0, 0, 0)"><b><span data-w=
+iz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 255);">=CB=B5=
+=C3=F7=A3=BAmake -s=BB=F2=D5=DF--slient=CA=C7=C8=AB=C3=E6=BD=FB=D6=
+=B9=C3=FC=C1=EE=B5=C4=CF=D4=CA=BE=B5=C4=D2=E2=CB=BC=A3=ACmake -n=BB=
+=F2=D5=DF--just-print=D4=F2=CA=C7=D6=BB=CF=D4=CA=BE=C3=FC=C1=EE=B5=
+=AB=B2=BB=BB=E1=D6=B4=D0=D0=C3=FC=C1=EE=A3=A8=D5=E2=B8=F6=B9=A6=C4=
+=DC=D3=D0=C0=FB=D3=DA=CE=D2=C3=C7=B5=F7=CA=D4Makefile=A3=A9</span=
+></b></span></div><div><span style=3D"color: rgb(0, 0, 0); font-f=
+amily: Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, '=
+Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif; font-size=
+: 1rem; font-style: normal; text-align: start; text-indent: 0px;=20=
+display: inline !important;"><span style=3D"color: rgb(0, 0, 255)=
+; font-family: Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=
+=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif; fon=
+t-size: 1rem; font-style: normal; text-align: start; text-indent:=
+ 0px; display: inline !important;"><span style=3D"color: rgb(0, 0=
+, 0); font-family: Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=
+=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-seri=
+f; font-size: 1rem; font-style: normal; text-align: start; text-i=
+ndent: 0px; display: inline !important;"><span style=3D"color: rg=
+b(0, 0, 0); font-family: Helvetica, 'Hiragino Sans GB', =CE=A2=C8=
+=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, san=
+s-serif; font-size: 1rem; font-style: normal; text-align: start;=20=
+text-indent: 0px; display: inline !important;"><b><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; background-c=
+olor: rgb(255, 0, 0);">=C1=F7=B3=CC=B7=D6=CE=F6=A3=BA</span></b><=
+/span></span></span></span></div><div><span style=3D"text-align:=20=
+start; text-indent: 0px; display: inline !important;"><span style=
+=3D"text-align: start; text-indent: 0px; display: inline !importa=
+nt;"><span style=3D"text-align: start; text-indent: 0px; display:=
+ inline !important;"><span style=3D"text-align: start; text-inden=
+t: 0px; display: inline !important;"><b><span data-wiz-span=3D"da=
+ta-wiz-span"><span style=3D"font-size: 13.005px; line-height: 20.=
+808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb=
+(255, 0, 0);">vendor/mediatek/proprietary/bootable/bootloader/pre=
+loader/Makefile</span></span><br></span></b></span></span></span>=
+</span></div><div><span style=3D"color: rgb(0, 0, 0); font-family=
+: Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Micro=
+soft YaHei UI', SimSun, SimHei, arial, sans-serif; font-size: 1re=
+m; font-style: normal; text-align: start; text-indent: 0px; displ=
+ay: inline !important;"><span style=3D"color: rgb(0, 0, 255); fon=
+t-family: Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA=
+, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif; font-s=
+ize: 1rem; font-style: normal; text-align: start; text-indent: 0p=
+x; display: inline !important;"><span style=3D"color: rgb(0, 0, 0=
+); font-family: Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=
+=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;=20=
+font-size: 1rem; font-style: normal; text-align: start; text-inde=
+nt: 0px; display: inline !important;"><span style=3D"color: rgb(0=
+, 0, 0); font-family: Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=
+=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-s=
+erif; font-size: 1rem; font-style: normal; text-align: start; tex=
+t-indent: 0px; display: inline !important;"></span></span></span>=
+</span></div><div><span style=3D"text-align: start; text-indent:=20=
+0px; display: inline !important;"><span style=3D"text-align: star=
+t; text-indent: 0px; display: inline !important;"><span style=3D"=
+text-align: start; text-indent: 0px; display: inline !important;"=
+><span style=3D"text-align: start; text-indent: 0px; display: inl=
+ine !important;"><span style=3D"text-align: start; text-indent: 0=
+px; display: inline !important;"></span><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">SHELL :=3D /bin/ba=
+sh</span></div><div><br></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">.DELETE_ON_ERROR:</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;"><b><span data-wiz-span=3D"data-wiz-span" style=3D"ba=
+ckground-color: rgb(255, 0, 0);">all: &nbsp;--&gt;=B5=DA=D2=BB=B8=
+=F6=C4=BF=B1=EA=A3=AC=D5=E2=C0=EF=CF=C8=D5=BC=CE=BB=A3=AC=BE=DF=CC=
+=E5=D2=C0=C0=B5=D4=DA=BA=F3=C3=E6</span></b></span></div><div><br=
+></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">HOST_OS ?=3D $(shell uname | tr '[A-Z]' '[a-z]')=20=
+&nbsp;<b>--&gt;=D5=E2=C0=EF=CE=AA</b></span><span style=3D"font-s=
+ize: 13.005px; line-height: 20.808px;"><b>linux</b></span></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">#########################################################=
+#####</span></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;"># Including Neccesary Files</span></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">#</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">ifndef PRELOADER_O=
+UT &nbsp;<b>--&gt;=B2=BB=D7=DF=B8=C3=B7=D6=D6=A7</b></span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">&nbsp; PRELOADER_OUT :=3D .</span></div><div><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">endif</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; background-color: rgb(192, 192, 192);">ifnd=
+ef MTK_PROJECT &nbsp;</span><b><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem; background-color: rgb(192, 192,=
+ 192);">--&gt;=B2=BB=D7=DF=B8=C3=B7=D6=D6=A7=A3=AC</span></b></sp=
+an><span style=3D"font-size: 13.005px; line-height: 20.808px;"><b=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; background-color: rgb(192, 192, 192);">MTK_PROJECT=C4=AC=C8=CF=
+=D3=D0=B6=A8=D2=E5=A3=AC=B6=A8=D2=E5=C1=F7=B3=CC=C8=E7=CF=C2=A3=BA=
+</span></b></span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;"><b><span style=3D"font-size: 15p=
+x; line-height: 1.6;"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; background-color: rgb(192, 192, 192);">&=
+nbsp; &nbsp;&nbsp;</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; background-color: rgb(192, 192=
+, 192);">--&gt;=D4=DAvendor/mediatek/proprietary/bootable/bootloa=
+der/preloader/build.sh=D6=D0=B6=A8=D2=E5=CE=AA=A3=BAMTK_PROJECT=3D=
+${MTK_TARGET_PROJECT}</span></b></span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"><b><span st=
+yle=3D"font-size: 15px; line-height: 1.6;"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; background-color: r=
+gb(192, 192, 192);">&nbsp; &nbsp;&nbsp;</span></span><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; background-color=
+: rgb(192, 192, 192);">--&gt;=D4=DA</span></span><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem; background-co=
+lor: rgb(192, 192, 192);">device/joya_sz/jasz8167_tb_n/full_jasz8=
+167_tb_n.mk=D6=D0=B6=A8=D2=E5MTK_TARGET_PROJECT :=3D $(subst full=
+_,,$(TARGET_PRODUCT))</span><br></b></span></div><div><span data-=
+wiz-span=3D"data-wiz-span"><b><span style=3D"font-size: 15px; lin=
+e-height: 1.6;"><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem; background-color: rgb(192, 192, 192);">&nbsp;=20=
+&nbsp;&nbsp;</span></span><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; background-color: rgb(192, 192, 192);">--&g=
+t;=D4=DAbuild/envsetup.sh</span></span><span style=3D"font-size:=20=
+13.005px; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem; background-color: rgb(192, 1=
+92, 192);">=D6=D0=B6=A8=D2=E5</span></span><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; background-color: rgb(19=
+2, 192, 192);">TARGET_PRODUCT=3D</span></span><span style=3D"font=
+-size: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem; background-color: rgb=
+(192, 192, 192);">$product=A3=AC=CA=B5=BC=CA=C9=CF=BE=CD=CA=C7lun=
+ch&nbsp;full_jasz8167_tb_n-userdebug=BE=CD=CA=C7=A3=BA</span></sp=
+an><span style=3D"font-size: 13.005px; line-height: 20.808px;"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ background-color: rgb(192, 192, 192);">TARGET_PRODUCT=3D</span><=
+/span><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255, 0=
+, 0); font-size: 0.867rem; background-color: rgb(192, 192, 192);"=
+>full_jasz8167_tb_n</span></span></b></span></div><div><span data=
+-wiz-span=3D"data-wiz-span"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; background-color: rgb(192, 192, 19=
+2);">&nbsp; &nbsp; --&gt;=B8=F9=BE=DD=D2=D4=C9=CF=D0=C5=CF=A2=BF=C9=
+=D2=D4=CD=C6=B5=C3=A3=BA</span><b style=3D"font-size: 13.005px; l=
+ine-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem; background-color: rgb(192, 192, 192);">=
+MTK_PROJECT=3D</span></b><b style=3D"line-height: 1.6;"><span sty=
+le=3D"font-size: 13.005px; line-height: 20.808px;"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0); font-size=
+: 0.867rem; background-color: rgb(192, 192, 192);">jasz8167_tb_n<=
+/span></span></b><b><span style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(255, 0, 0); font-size: 0.867rem; background-color: rgb(19=
+2, 192, 192);"><br></span></span></b></span></div><div><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backgro=
+und-color: rgb(192, 192, 192);">&nbsp; $(error MTK_PROJECT is not=
+ defined)</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem; background-color: rgb(192, 192, 192=
+);">else</span></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">&nbsp; export MTK_PROJECT &nbsp;<b>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+);">--&gt;</span></b></span><b><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 0);">MTK_PROJECT=3D</span></span><span s=
+tyle=3D"line-height: 1.6;"><span style=3D"font-size: 13.005px; li=
+ne-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(255, 0, 0);">jasz8167_tb_n</span></span></span></b=
+></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem; background-color: rgb(192, 192, 192);">endif</span=
+></div><div><br></div><div><br></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">###################=
+###########################################</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+# Secure Library Building Control</span></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#</span></=
+div><div><br></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">export CREATE_SEC_LIB :=3D FALSE</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">export STANDALONE_SEC_DEVINFO :=3D TRUE</span></=
+div><div><br></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">#####################################=
+#########################</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;"># Variable Initial=
+ization</span></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">#</span></div><div><br></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">export D_ROOT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :=3D $(CURDIR)=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">export MTK_ROOT_OUT &nbsp; &nbsp; :=3D $(CU=
+RDIR)</span></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">export PWD &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp;:=3D $(CURDIR)</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backgroun=
+d-color: rgb(255, 0, 0);">ALL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ?=3D show_title show_internal_=
+feature show_feature</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 255);">=
+<b>ALL_PREGEN_FILE &nbsp; &nbsp; &nbsp; &nbsp; :=3D</b></span></d=
+iv><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">export MTK_ROOT_CUSTOM &nbsp;:=3D $(D_ROOT)/custom &n=
+bsp;<b><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+255, 0, 0);">--&gt;</span></b></span><b style=3D"line-height: 1.6=
+;"><span style=3D"font-size: 0.867rem; line-height: 1.6;"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);">v=
+endor/mediatek/proprietary/bootable/bootloader/preloader/custom</=
+span></span></b></div><div><br></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size:0.867rem">PROJECT_CONFIGS &nbsp=
+; &nbsp; &nbsp; &nbsp; :=3D $(MTK_ROOT_CUSTOM)/$(MTK_PROJECT)/$(M=
+TK_PROJECT).mk &nbsp;<b><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"color: rgb(255, 0, 0);">--&gt;</span></b></span><b><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);">PROJECT=
+_CONFIGS :=3D</span></span></b><b><span style=3D"font-size: 13.00=
+5px; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(255, 0, 0);">&nbsp;</span></span></b><b><sp=
+an style=3D"font-size: 0.867rem; line-height: 1.6;"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);">vendor/=
+mediatek/proprietary/bootable/bootloader/preloader/custom/jasz816=
+7_tb_n/jasz8167_tb_n.mk</span></span></b></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb=
+(0, 0, 255);"><b>include $(PROJECT_CONFIGS)</b></span></div><div>=
+<br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"background-color: rgb(192, 192, 192);">ifndef TARGET </span><b><=
+span data-wiz-span=3D"data-wiz-span" style=3D"background-color: r=
+gb(192, 192, 192);">&nbsp;--&gt;=D4=DAvendor/mediatek/proprietary=
+/bootable/bootloader/preloader/custom/jasz8167_tb_n/jasz8167_tb_n=
+.mk=D6=D0=B6=A8=D2=E5=CE=AA=A3=BATARGET=3Djasz8167_tb_n</span></b=
+></span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; background-color: rgb(192, 192, 192);">&nbs=
+p; $(error TARGET is not defined)</span></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; background-=
+color: rgb(192, 192, 192);">else</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; expo=
+rt TARGET</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem; background-color: rgb(192, 192, 192=
+);">endif</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">export MTK_PATH_CUSTOM &nbsp;:=3D=20=
+$(MTK_ROOT_CUSTOM)/$(TARGET) &nbsp;<span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(255, 0, 0);"><b>--&gt;</b></span></sp=
+an><b><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255, 0=
+, 0);">MTK_PATH_CUSTOM &nbsp;:=3D</span></span><span style=3D"fon=
+t-size: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(255, 0, 0);">&nbsp;</span></sp=
+an><span style=3D"line-height: 1.6;"><span style=3D"font-size: 0.=
+867rem; line-height: 1.6;"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(255, 0, 0);">vendor/mediatek/proprietary/boot=
+able/bootloader/preloader/custom/</span></span></span><span style=
+=3D"font-size: 13.005px; line-height: 20.808px;"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);">jasz8167_t=
+b_n</span></span></b></div><div><br></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem; background-colo=
+r: rgb(192, 192, 192);">ifndef MTK_PLATFORM &nbsp;</span><b style=
+=3D"font-size: 13.005px; line-height: 20.808px;"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"background-color: rgb(192, 192, 19=
+2);">--&gt;=D4=DAvendor/mediatek/proprietary/bootable/bootloader/=
+preloader/custom/jasz8167_tb_n/jasz8167_tb_n.mk=D6=D0=B6=A8=D2=E5=
+=CE=AA=A3=BA</span></b><span style=3D"font-size: 0.867rem; line-h=
+eight: 1.6;"><b><span data-wiz-span=3D"data-wiz-span" style=3D"ba=
+ckground-color: rgb(192, 192, 192);">MTK_PLATFORM=3DMT8167</span>=
+</b></span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; background-color: rgb(192, 192, 192);">&=
+nbsp; $(error MTK_PLATFORM is not defined)</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; ba=
+ckground-color: rgb(192, 192, 192);">else</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&n=
+bsp; export MTK_PLATFORM</span></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; PLATFORM :=3D=
+ $(shell echo $(MTK_PLATFORM) | tr A-Z a-z) &nbsp;<b>--&gt;</b></=
+span><b><span style=3D"font-size: 13.005px; line-height: 20.808px=
+;">PLATFORM</span><span style=3D"font-size: 13.005px; line-height=
+: 20.808px;">&nbsp;:=3D&nbsp;</span><span style=3D"line-height: 1=
+.6;"><span style=3D"font-size: 13.005px; line-height: 20.808px;">=
+mt8167</span></span></b></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; background-color: rgb(192,=20=
+192, 192);">endif</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">export MTK_PATH_PLATFORM :=
+=3D $(D_ROOT)/platform/$(PLATFORM) &nbsp;<b>--&gt;</b></span><b><=
+span style=3D"font-size: 13.005px; line-height: 20.808px;">MTK_PA=
+TH_PLATFORM :=3D</span><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp;vendor/mediatek/proprietary/bootable/boot=
+loader/preloader/platform/mt8167</span></b></div><div><br></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">export MTK_PATH_COMMON :=3D $(D_ROOT)/platform/common &nb=
+sp;<b>--&gt;</b></span><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;"><b>MTK_PATH_COMMON&nbsp;</b></span><b style=3D"=
+line-height: 1.6;"><span style=3D"font-size: 13.005px; line-heigh=
+t: 20.808px;">:=3D</span><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;">&nbsp;vendor/mediatek/proprietary/bootable/bo=
+otloader/preloader/platform/common</span></b></div><div><br></div=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">#</span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;"># Image Auth</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">#</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">CUSTOM_PATH &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; :=3D $(MTK_PATH_CUSTOM)/security</span></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>IMAGE_AUTH_CFG_FILE &nbsp; &nbsp; :=3D ${PRELOADER_OUT}/inc/KEY_=
+IMAGE_AUTH.h</span></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">#IMAGE_AUTH_CONFIG_PATH &nbsp;:=
+=3D ${CUSTOM_PATH}/image_auth</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">IMAGE_AUTH_CON=
+FIG_PATH &nbsp;:=3D ${CUSTOM_PATH}/image_auth</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">IMAGE_AUTH_KEY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:=3D ${IMAGE_A=
+UTH_CONFIG_PATH}/IMG_AUTH_KEY.ini</span></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">IMAGE_AUTH=
+_CFG &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:=3D ${IMAGE_AUTH_CONFIG_P=
+ATH}/IMG_AUTH_CFG.ini</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">IMAGE_AUTH_KEY_EXIST &=
+nbsp; &nbsp;:=3D $(if $(wildcard $(IMAGE_AUTH_KEY)),TRUE,FALSE)</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">ifeq ("$(IMAGE_AUTH_KEY_EXIST)","TRUE")</span=
+></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">ALL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; +=3D img_auth_info</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+<b><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 255);">ALL_PREGEN_FILE &nbsp; &nbsp; &nbsp; &nbsp; +=3D $(IMAGE=
+_AUTH_CFG_FILE)</span></b></span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">endif</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">CHIP_CONFIG_PATH &nbsp; &nbsp; &nbsp; &nbsp;:=3D $(CUSTO=
+M_PATH)/chip_config</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">GFH_PATH &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:=3D $(CHIP_CONFIG_PATH)/=
+s/gfh</span></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">CONFIG_PATH &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; :=3D $(CHIP_CONFIG_PATH)/s/cfg</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">KEY_PATH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p;:=3D $(CHIP_CONFIG_PATH)/s/key</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">PADDING_TYP=
+E &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:=3D $(shell cat $(CON=
+FIG_PATH)/PADDING_TYPE.ini)</span></div><div><br></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;"># preloader extension</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+#</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">PRELOADER_EXT_BIN &nbsp; &nbsp; &nbsp; :=3D=
+ $(MTK_ROOT_CUSTOM)/$(PLATFORM)/preloader/preloader_ext.bin</span=
+></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">PRELOADER_EXT_BIN_EXIST :=3D $(if $(wildcard $(PR=
+ELOADER_EXT_BIN)),TRUE,FALSE)</span></div><div><br></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>#</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;"># Tool</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">EFUSE_PY_FILE</span><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">			</span></span><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">:=3D tools/efuse/efus=
+e_bingen_v2.py</span></div><div><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">EFUSE_PY_DEF</span><span clas=
+s=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">			</span></sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">:=3D tools/efuse/$(MTK_PLATFORM)/efuse_definition.xml</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">EFUSE_INPUT_FILE</span><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">		</span></span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">:=3D $(D_=
+ROOT)/../../../../../../vendor/mediatek/proprietary/custom/$(TARG=
+ET)/security/efuse/input.xml</span></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">EFUSE_IMAGE_NAM=
+E &nbsp; &nbsp; &nbsp; &nbsp;:=3D efuse_$(MTK_PROJECT).img</span>=
+</div><div><br></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">TOOL_PATH &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; ?=3D $(D_ROOT)/../../../../../../device/m=
+ediatek/build/build/tools</span></div><div><br></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">ife=
+q ($(HOST_OS),darwin)</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">SIGN_TOOL &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :=3D tools/signtool/SignTool=
+_PL.darwin</span></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">CIPHER_TOOL &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; :=3D tools/ciphertool/CipherTool.darwin</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">else</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">SIGN_TOOL &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :=3D tools/signtool/SignTool=
+_PL</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">CIPHER_TOOL &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; :=3D tools/ciphertool/CipherTool</span></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>endif</span></div><div><br></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">ifdef PL_MODE</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">PL_IMAGE_NAME &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :=3D=
+ preloader_$(MTK_PROJECT)_$(PL_MODE)</span></div><div><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">else</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">PL_IMAGE_NAME &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; :=3D preloader_$(MTK_PROJECT)</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">endif</span=
+></div><div><br></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">SEC_DEVINFO_LIB_DEBUG &nbsp; :=3D=20=
+$(MTK_PATH_PLATFORM)/src/SecDevinfo_Debug.a</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+SEC_DEVINFO_LIB &nbsp; &nbsp; </span><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">:=3D $(MTK_PA=
+TH_PLATFORM)/src/SecDevinfo.a</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">SECURITY_LIB &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:=3D $(MTK_PATH_PLATFORM)=
+/src/SecLib.a</span></div><div><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">DA_VERIFY_LIB &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; :=3D $(MTK_PATH_PLATFORM)/src/security/auth/Da=
+VerifyLib.a</span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">SEC_PLAT_LIB &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp;:=3D $(MTK_PATH_PLATFORM)/src/SecPlat.a</sp=
+an></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">HW_CRYPTO_LIB &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; :=3D $(MTK_PATH_PLATFORM)/src/HwCryptoLib.a</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">PICACHU_LIB &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :=3D $(MT=
+K_PATH_PLATFORM)/src/PicachuLib.a</span></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; background-=
+color: rgb(255, 0, 0);">ALL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; +=3D build_info project_info</sp=
+an></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;"><b><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 255);">ALL_PREGEN_FILE &nbsp; &nbsp; &nbsp; &nb=
+sp; +=3D $(PRELOADER_OUT)/inc/preloader.h $(PRELOADER_OUT)/inc/pr=
+oj_cfg.h</span></b></span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">COMMON_DIR_MK &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; :=3D $(D_ROOT)/build/common-dir.mak</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">COMMON_FILE_MK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;:=3D $(D_ROOT)/build/common.mak</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">export COMM=
+ON_DIR_MK COMMON_FILE_MK</span></div><div><br></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">SUBD=
+IRS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :=3D=20=
+$(MTK_PATH_PLATFORM)/src/ $(MTK_PATH_CUSTOM)/ $(MTK_PATH_COMMON)/=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"background-color: rgb(192, 192, 192);">ifeq ($(CREATE_SEC_LIB=
+),TRUE) &nbsp;</span><b><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"background-color: rgb(192, 192, 192);">--&gt;</span></b></s=
+pan><span style=3D"font-size: 13.005px; line-height: 20.808px;"><=
+b><span data-wiz-span=3D"data-wiz-span" style=3D"background-color=
+: rgb(192, 192, 192);">CREATE_SEC_LIB=D4=DA=B1=BE=CE=C4=BC=FE=D6=D0=
+=C7=B0=C3=E6=B6=A8=D2=E5=CE=AAfalse=A3=AC=B2=BB=D7=DF=B8=C3=B7=D6=
+=D6=A7</span></b></span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; background-color: rgb(192,=20=
+192, 192);">&nbsp; &nbsp; ALL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; +=3D $(SECURITY_LIB) $(DA_VERIFY_LIB) $(SEC_=
+PLAT_LIB)</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem; background-color: rgb(192, 192, 192=
+);">ifeq ($(STANDALONE_SEC_DEVINFO),TRUE)</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; bac=
+kground-color: rgb(192, 192, 192);">&nbsp; &nbsp; ALL &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +=3D &nbsp;$(SEC_DEV=
+INFO_LIB) $(SEC_DEVINFO_LIB_DEBUG)</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; background=
+-color: rgb(192, 192, 192);">endif</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; background=
+-color: rgb(192, 192, 192);">endif</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; background=
+-color: rgb(255, 0, 0);">ALL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +=3D preloader_bin</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; background-color: rgb(255, 0, 0);">ALL &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +=3D dump_bui=
+ld_info</span></div><div><br></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 255);=
+"><b>include build/debug.in build/setting.in</b></span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;"><b><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb=
+(0, 0, 255);">include $(MTK_PATH_PLATFORM)/makefile.mak</span></b=
+></span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">export EMIGEN_OUT :=3D $(PRELOADER_OUT)</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">export DRVGEN_OUT :=3D $(PRELOADER_OUT)</span>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">export PTGEN_OUT :=3D $(PRELOADER_OUT)</span></div=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;"><b><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 255);">-include tools/emigen/emigen.mk &nbsp;--&gt;</=
+span></b></span><font color=3D"#0000ff"><span style=3D"font-size:=
+ 13.005px; line-height: 20.808px;"><b>=CA=B9=D3=C3=D5=E2=D6=D6=B7=
+=BD=CA=BDinclude=CA=B1=A3=AC=B5=B1=CB=F9=D2=AA=B0=FC=BA=AC=B5=C4=CE=
+=C4=BC=FE=B2=BB=B4=E6=D4=DA=CA=B1=B2=BB=BB=E1=D3=D0=B4=ED=CE=F3=CC=
+=E1=CA=BE=A1=A2make=D2=B2=B2=BB=BB=E1=CD=CB=B3=F6</b></span></fon=
+t></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;"><b><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 255);">-include tools/drvgen/drvgen.mk</span></=
+b></span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;"><b><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 255);">-include tools/ptgen/$(MTK_PLATFO=
+RM)/ptgen.mk</span></b></span></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem; background-color: rgb=
+(255, 0, 0);">ALL_PREGEN_FILE +=3D $(EMIGEN_FILE_LIST)</span></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem; background-color: rgb(255, 0, 0);">ALL_PREGEN_FILE +=3D=
+ $(DRVGEN_FILE_LIST)</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; background-color: rgb(25=
+5, 0, 0);">ALL_PREGEN_FILE +=3D $(PTGEN_FILE_LIST)</span></div><d=
+iv><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">export ALL_DEPENDENCY_FILE :=3D $(foreach m,$(MAKEFILE_LIS=
+T),$(if $(filter /% ~%,$(m)),$(m),$(D_ROOT)/$(m)))</span></div><d=
+iv><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">.PHONY: clean</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backgroun=
+d-color: rgb(255, 0, 0);">.PHONY: $(ALL)</span></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; back=
+ground-color: rgb(255, 0, 0);">all: $(ALL)</span></div><div><br><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">#########</span></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;"># recursive</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">#</span></div><div><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;"># $(1): subdir</span></div><d=
+iv><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;"># $(2): target flag</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;"># $(3): dependency=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">define build-topdirs</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$=
+(2): $(3) FORCE</span></div><div><span class=3D"Apple-tab-span" s=
+tyle=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">@mkdir -p $$(dir $=
+$@)</span></div><div><span class=3D"Apple-tab-span" style=3D"whit=
+e-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">$$(MAKE) -C $(1) --no-print-d=
+irectory</span></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">endef</span></div><div><br></div><d=
+iv><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">.PHONY: FORCE</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">FORCE:</span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">SUBDIRS_FLAGS :=3D</span></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">$(foreach d,$(SUBDIR=
+S),\</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; $(eval r :=3D $(patsubst $(D_ROO=
+T)/%,%,$(patsubst %/,%,$(if $(filter /%,$(d)),,$(CURDIR)/)$(d))))=
+\</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; $(eval t :=3D $(PRELOADER_OUT)/obj/=
+$(subst /,_,$(r)).flag)\</span></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; $(eval $(cal=
+l build-topdirs,$(d),$(t),<span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 255);"><b>$(ALL_PREGEN_FILE)</b></span>)=
+)\</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; $(eval SUBDIRS_FLAGS +=3D $(t))\</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">)</span></div><div><br></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">########=
+######################################################</span></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;"># ELF Generation</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">#</span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">ifeq ($(CFG_PRELOADER_DRAM_USE), 1)</span></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nb=
+sp; PL_IMG_SECOND_PARTION_SECTION :=3D.pl_dram.text .pl_dram.data=
+ .pl_dram.rodata .pl_dram.start</span></div><div><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; OBJON=
+CHIP_FLAG :=3D $(addprefix -R , $(PL_IMG_SECOND_PARTION_SECTION))=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">&nbsp; OBJSECOND_FLAG :=3D $(addprefix -j ,=
+ $(PL_IMG_SECOND_PARTION_SECTION))</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; PL=
+_DRAM_IMAGE_NAME :=3D $(PL_IMAGE_NAME)_dram</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+&nbsp; PL_DRAM_HDRBIN_PATH :=3D $(D_BIN)/hd_$(PL_DRAM_IMAGE_NAME)=
+.bin</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; LDSCRIPT :=3D $(D_BIN)/$(MTK_PRO=
+JECT)_gen.ld</span></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">else</span></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp=
+; OBJONCHIP_FLAG :=3D</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; OBJSECOND_FLAG=20=
+:=3D</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; PL_DRAM_IMAGE_NAME :=3D</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">&nbsp; PL_DRAM_HDRBIN_PATH :=3D</span></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>endif</span></div><div><br></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">ifdef CFG_TEE_DRAM_SIZ=
+E</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">PL_DRAM_RESERVE_SIZE :=3D $(CFG_TEE_DRAM_S=
+IZE)</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">else</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">PL_DRAM_RESER=
+VE_SIZE :=3D 0</span></div><div><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">endif</span></div><div><br></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">ifdef CFG_PRELOADER_DRAM_USE</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">if=
+eq ($(CFG_PRELOADER_DRAM_USE), 1)</span></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(LDSCRIPT=
+): $(LDSCRIPT_DRAM)</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">$(LDSCRIPT): $(ALL_DEPEN=
+DENCY_FILE)</span></div><div><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">@echo generating $@</sp=
+an></div><div><span class=3D"Apple-tab-span" style=3D"white-space=
+:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">$(MKDIR)</span></div><div><span clas=
+s=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">sed "s/%CFG_DRAM_SIZE%/$(CFG_DRAM_SIZE)/;s/%EXT_PRELOAER_DRA=
+MSIZE%/$(EXT_PRELOAER_DRAMSIZE)/;s/%PL_DRAM_RESERVE_SIZE%/$(PL_DR=
+AM_RESERVE_SIZE)/" &lt; $&lt; &gt; $@</span></div><div><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">endif<=
+/span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">endif</span></div><div><br></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">if=
+neq ($(wildcard $(CONFIG_PATH)/PBP_PY_SUPPORT),)</span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">PBP_TOOL :=3D tools/pbp/pbp.py</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">BIN_TO_T=
+XT_TOOL :=3D tools/pbp/bin2txt.py</span></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">CHIP_KEY :=
+=3D $(KEY_PATH)/pl_key.ini</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">else</span></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">ifeq ($(HOST_OS),darwin)</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">PBP_TOOL :=3D=
+ tools/pbp/PBP.darwin</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">else</span></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">PBP_TOOL :=3D tools/pbp/PBP</span></div><div><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">endif</span>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">CHIP_CONFIG :=3D $(CONFIG_PATH)/CHIP_CONFIG.ini</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">CHIP_KEY :=3D $(KEY_PATH)/CHIP_TEST_KEY.ini</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">endif</span></div><div><br></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">prel=
+oader_bin: $(D_BIN)/$(PL_IMAGE_NAME).bin $(PRELOADER_OUT)/report-=
+codesize.csv $(PRELOADER_OUT)/codesize_profiling.csv</span></div>=
+<div><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">ifeq ($(MTK_EFUSE_WRITER_SUPPORT),yes)</sp=
+an></div><div><span class=3D"Apple-tab-span" style=3D"white-space=
+:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">rm -rf $(PRELOADER_OUT)/../../efuse.=
+img</span></div><div><span class=3D"Apple-tab-span" style=3D"whit=
+e-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">rm -rf $(PRELOADER_OUT)/efuse=
+_bingen.log</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">ifneq ($(wildcard=20=
+$(CONFIG_PATH)/PBP_PY_SUPPORT),)</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">ifneq (,$(f=
+indstring legacy,$(PADDING_TYPE)))</span></div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>python $(PBP_TOOL) -j $(KEY_PATH)/root_prvk.pem -func keyhash_le=
+gacy -o $(D_BIN)/keyhash.bin</span></div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">pyth=
+on $(BIN_TO_TXT_TOOL) $(D_BIN)/keyhash.bin $(D_BIN)/keyhash.txt</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">else</span></div><div><span class=3D"Apple-ta=
+b-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">	</span></span><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">python $=
+(PBP_TOOL) -j $(KEY_PATH)/root_prvk.pem -func keyhash_pss -o $(D_=
+BIN)/keyhash.bin</span></div><div><span class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">python $(BIN_TO_TX=
+T_TOOL) $(D_BIN)/keyhash.bin $(D_BIN)/keyhash.txt</span></div><di=
+v><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">endif</span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">else</span></div><div><span clas=
+s=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">$(PBP_TOOL) -func keyhash -i $(CHIP_KEY) -o $(D_BIN)/keyhash=
+.txt</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">endif</span></div><div><span class=3D"A=
+pple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">p=
+ython $(EFUSE_PY_FILE) -f $(EFUSE_INPUT_FILE) -d $(EFUSE_PY_DEF)=20=
+-k $(D_BIN)/keyhash.txt -o $(D_BIN)/$(EFUSE_IMAGE_NAME) -l $(PREL=
+OADER_OUT)/efuse_bingen.log</span></div><div><span class=3D"Apple=
+-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">rm -r=
+f $(D_BIN)/keyhash.txt</span></div><div><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">cp -f $(D_=
+BIN)/$(EFUSE_IMAGE_NAME) $(PRELOADER_OUT)/../../efuse.img</span><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">endif</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">$(D_BIN)/$(PL_IMAGE_NAME=
+).elf: $(SUBDIRS_FLAGS) $(LDSCRIPT)</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(D_BIN)=
+/$(PL_IMAGE_NAME).elf: $(wildcard $(PICACHU_LIB)) $(SECURITY_LIB)=
+ $(DA_VERIFY_LIB) $(SEC_PLAT_LIB) $(wildcard $(HW_CRYPTO_LIB)) $(=
+wildcard $(SEC_DEVINFO_LIB)) $(wildcard $(SEC_DEVINFO_LIB_DEBUG))=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">$(D_BIN)/$(PL_IMAGE_NAME).elf: $(ALL_DEPEND=
+ENCY_FILE)</span></div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">@mkdir -p $(dir $@)</spa=
+n></div><div><span class=3D"Apple-tab-span" style=3D"white-space:=
+pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">$(LD) --gc-sections -Bstatic -T$(LDSC=
+RIPT) \</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">`cat $(PRELOADER_OUT)/obj=
+/*.flag | tr ' ' '\n' | grep "\.o$$" | LC_COLLATE=3DC sort` \</sp=
+an></div><div><span class=3D"Apple-tab-span" style=3D"white-space=
+:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">$(wildcard $(PICACHU_LIB)) \</span><=
+/div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">--start-group \</span></div><div><span cla=
+ss=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">$(SECURITY_LIB) \</span></div><div><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">	</span></span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(DA_VERI=
+FY_LIB) \</span></div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">$(SEC_PLAT_LIB) \</span>=
+</div><div><span class=3D"Apple-tab-span" style=3D"white-space:pr=
+e"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">$(wildcard $(SEC_DEVINFO_LIB)) \</span>=
+</div><div><span class=3D"Apple-tab-span" style=3D"white-space:pr=
+e"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">$(wildcard $(SEC_DEVINFO_LIB_DEBUG)) \<=
+/span></div><div><span class=3D"Apple-tab-span" style=3D"white-sp=
+ace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">$(wildcard $(HW_CRYPTO_LIB)) \</s=
+pan></div><div><span class=3D"Apple-tab-span" style=3D"white-spac=
+e:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">--end-group \</span></div><div><spa=
+n class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span>=
+</span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">-Map $(PRELOADER_OUT)/system.map -o $(D_BIN)/$(PL_IMAG=
+E_NAME).elf</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">$(D_BIN)/preloader=
+.elf: $(D_BIN)/$(PL_IMAGE_NAME).elf</span></div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>$(OBJCOPY) -R .dram $(D_BIN)/$(PL_IMAGE_NAME).elf -O elf32-littl=
+earm $(D_BIN)/preloader.elf</span></div><div><br></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">i=
+feq ($(CFG_PRELOADER_DRAM_USE), 1)</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">preloader=
+_bin: $(D_BIN)/$(PL_DRAM_IMAGE_NAME).bin</span></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(D=
+_BIN)/$(PL_DRAM_IMAGE_NAME).bin: $(D_BIN)/$(PL_IMAGE_NAME).elf</s=
+pan></div><div><span class=3D"Apple-tab-span" style=3D"white-spac=
+e:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">$(hide) $(OBJCOPY) $(OBJCFLAGS) $(O=
+BJSECOND_FLAG) $(D_BIN)/$(PL_IMAGE_NAME).elf -O binary $(D_BIN)/$=
+(PL_DRAM_IMAGE_NAME).bin</span></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">endif</span></div><=
+div><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">$(D_BIN)/$(PL_IMAGE_NAME)_LINKED.bin: $(D_=
+BIN)/$(PL_IMAGE_NAME).elf</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">ifeq ($(PRELOADER_=
+EXT_BIN_EXIST),TRUE)</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">$(D_BIN)/$(PL_IMAGE_NAM=
+E)_LINKED.bin: $(PRELOADER_EXT_BIN)</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">endif</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">$(D_BIN)/$(PL_IMAGE_NAME)_LINKED.bin: $(PRELOA=
+DER_OUT)/MTK_Loader_Info.tag</span></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(D_BIN)/$(PL_I=
+MAGE_NAME)_LINKED.bin: zero_padding.sh</span></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(D_B=
+IN)/$(PL_IMAGE_NAME)_LINKED.bin: $(PRELOADER_OUT)/report-objsize.=
+txt</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">$(D_BIN)/$(PL_IMAGE_NAME)_LINKED.bin: $(PR=
+ELOADER_OUT)/report-codesize.txt</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(D_BIN)/$(=
+PL_IMAGE_NAME)_LINKED.bin: $(PRELOADER_OUT)/function.map</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">ifeq ($(CFG_PRELOADER_DRAM_USE), 1)</span></div><div=
+><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</=
+span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">$(hide) $(OBJCOPY) $(OBJCFLAGS) $(OBJONCHIP_FLAG)=
+ $(D_BIN)/$(PL_IMAGE_NAME).elf -O binary $@</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+else</span></div><div><span class=3D"Apple-tab-span" style=3D"whi=
+te-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">$(hide) $(OBJCOPY) $(OBJCFLA=
+GS) $(D_BIN)/$(PL_IMAGE_NAME).elf -O binary $@</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">endif</span></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">ifeq ("$(PRELOADER_EXT_BIN_EXIST)",=
+"TRUE")</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">cat $(PRELOADER_EXT_BIN)=20=
+&gt;&gt; $@</span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">endif</span></div><div><span cla=
+ss=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">./zero_padding.sh $@ 4</span></div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">./al=
+ignment_check.sh $(PRELOADER_OUT)/MTK_Loader_Info.tag 4</span></d=
+iv><div><span class=3D"Apple-tab-span" style=3D"white-space:pre">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">cat $(PRELOADER_OUT)/MTK_Loader_Info.tag &=
+gt;&gt; $@</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">$(PRELOADER_OUT)/r=
+eport-codesize.txt: $(D_BIN)/$(PL_IMAGE_NAME).elf</span></div><di=
+v><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">$(CROSS_COMPILE)readelf -s $(D_BIN)/$(PL_IMAGE_N=
+AME).elf | awk -F':' '/Num/ {print $$2}' &gt; $@</span></div><div=
+><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</=
+span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">$(CROSS_COMPILE)readelf -s $(D_BIN)/$(PL_IMAGE_NA=
+ME).elf | awk -F':' '{if ($$1&gt;0) print $$2}' | awk -F' ' '{if=20=
+($$2&gt;0) print $$0}' | sort -k1 &gt;&gt; $@</span></div><div><b=
+r></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">$(PRELOADER_OUT)/report-codesize.csv: $(PRELOADE=
+R_OUT)/report-codesize.txt</span></div><div><span class=3D"Apple-=
+tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">	</span></span><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">cat $(=
+PRELOADER_OUT)/report-codesize.txt | sed 's/[ ]+/,/g' &gt; $@</sp=
+an></div><div><br></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">$(PRELOADER_OUT)/report-objsize.=
+txt: $(D_BIN)/$(PL_IMAGE_NAME).elf</span></div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>$(CROSS_COMPILE)size `ls $(PRELOADER_OUT)/obj/*.o` &gt; $@</span=
+></div><div><br></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">$(PRELOADER_OUT)/codesize_profilin=
+g.csv: $(D_BIN)/$(PL_IMAGE_NAME).elf</span></div><div><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(PRELO=
+ADER_OUT)/codesize_profiling.csv: codesize_profiling.sh</span></d=
+iv><div><span class=3D"Apple-tab-span" style=3D"white-space:pre">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">./codesize_profiling.sh $(PRELOADER_OUT)/s=
+ystem.map $@</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">##################=
+############################################</span></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+># Security Library Generation</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#</span></div=
+><div><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">ifeq ($(CREATE_SEC_LIB),TRUE)</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">$(SECURITY_LIB): $(SUBDIRS_FLAGS)</span></div><div><span=
+ class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span><=
+/span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">rm -rf $@</span></div><div><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo AR $(PR=
+ELOADER_OUT)/out/*</span></div><div><span class=3D"Apple-tab-span=
+" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(AR) -r $@ $(=
+PRELOADER_OUT)/out/*</span></div><div><span class=3D"Apple-tab-sp=
+an" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo =3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span><=
+/div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">@echo Security Library</span></div><div><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</spa=
+n></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">@echo '$@' built at</span></div><div><span class=3D"=
+Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+@echo time : $(shell date)</span></div><div><span class=3D"Apple-=
+tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">	</span></span><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo=20=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</=
+span></div><div><br></div><div><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">$(DA_VERIFY_LIB): $(SUBDIRS_FL=
+AGS)</span></div><div><span class=3D"Apple-tab-span" style=3D"whi=
+te-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">rm -rf $@</span></div><div><=
+span class=3D"Apple-tab-span" style=3D"white-space:pre"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</sp=
+an></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">@echo AR $(PRELOADER_OUT)/out_da_verify/*</span></d=
+iv><div><span class=3D"Apple-tab-span" style=3D"white-space:pre">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">$(AR) -r $@ $(PRELOADER_OUT)/out_da_verify=
+/*</span></div><div><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">@echo =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span></div><div><span cl=
+ass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">@echo DA Verify Library</span></div><div><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@e=
+cho '$@' built at</span></div><div><span class=3D"Apple-tab-span"=
+ style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo time : $(=
+shell date)</span></div><div><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">@echo =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span></div><div><b=
+r></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">$(SEC_PLAT_LIB): $(SUBDIRS_FLAGS)</span></div><d=
+iv><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=09=
+</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">rm -rf $@</span></div><div><span class=3D"Apple=
+-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo=
+ AR $(PRELOADER_OUT)/out_plat/*</span></div><div><span class=3D"A=
+pple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$=
+(AR) -r $@ $(PRELOADER_OUT)/out_plat/*</span></div><div><span cla=
+ss=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">@echo =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D</span></div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">@echo Security Library</=
+span></div><div><span class=3D"Apple-tab-span" style=3D"white-spa=
+ce:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">@echo '$@' built at</span></div><d=
+iv><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=09=
+</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">@echo time : $(shell date)</span></div><div><sp=
+an class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span=
+></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">@echo =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D</span></div><div><br></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(SEC_DEVINFO=
+_LIB): $(SUBDIRS_FLAGS)</span></div><div><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">	</span></span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">rm -rf $@=
+</span></div><div><span class=3D"Apple-tab-span" style=3D"white-s=
+pace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">@echo AR $(PRELOADER_OUT)/out_de=
+vinfo/*</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">$(AR) -r $@ $(PRELOADER_O=
+UT)/out_devinfo/*</span></div><div><span class=3D"Apple-tab-span"=
+ style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo =3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span></di=
+v><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">@echo Devinfo Security Library</span></div>=
+<div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">@echo '$@' built at</span></div><div><span cl=
+ass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">@echo time : $(shell date)</span></div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>@echo =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D</span></div><div><br></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">$(SEC_DEVINFO_LIB_DEBUG):=
+ $(SUBDIRS_FLAGS)</span></div><div><span class=3D"Apple-tab-span"=
+ style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">rm -rf $@</span=
+></div><div><span class=3D"Apple-tab-span" style=3D"white-space:p=
+re"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">@echo AR $(PRELOADER_OUT)/out_devinfo_=
+debug/*</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">$(AR) -r $@ $(PRELOADER_O=
+UT)/out_devinfo_debug/*</span></div><div><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">	</span></span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo =3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</spa=
+n></div><div><span class=3D"Apple-tab-span" style=3D"white-space:=
+pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">@echo Devinfo Security Library Debug=20=
+Version</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">@echo '$@' built at</span=
+></div><div><span class=3D"Apple-tab-span" style=3D"white-space:p=
+re"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">@echo time : $(shell date)</span></div=
+><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">@echo =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D</span></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">endif</span></div><=
+div><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">##########################################=
+####################</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;"># File for Debugging</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">#</span></div><div><br></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(PRELOA=
+DER_OUT)/function.map: $(D_BIN)/$(PL_IMAGE_NAME).elf</span></div>=
+<div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">$(NM) $&lt; | grep -v '\(compiled\)\|\(\.o$$\=
+)\|\( [aUw] \)\|\(\.\.ng$$\)\|\(LASH[RL]DI\)' | sort &gt; $@</spa=
+n></div><div><br></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">#################################=
+#############################</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;"># Dump Configu=
+rations</span></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">#</span></div><div><br></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">show_title:</span></div><div><span class=3D"Apple-tab-span" sty=
+le=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">@echo =3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span></div><div=
+><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</=
+span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">@echo Building Configuration:</span></div><div><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</spa=
+n></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">@echo Project &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp;=3D $(MTK_PROJECT)</span></div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@ech=
+o Platform &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =3D $(MTK_PL=
+ATFORM)</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">@echo Buildspec &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp;=3D buildspec.mak</span></div><di=
+v><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">@echo Create SecLib &nbsp; &nbsp; &nbsp; &nbsp;=3D=
+ $(CREATE_SEC_LIB)</span></div><div><span class=3D"Apple-tab-span=
+" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo Image Au=
+th key exist =3D $(IMAGE_AUTH_KEY_EXIST)</span></div><div><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></s=
+pan><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">@echo Preloader EXT exist &nbsp;=3D $(PRELOADER_EXT_BIN_E=
+XIST)</span></div><div><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">@echo SECRO AC support &nbs=
+p; &nbsp; =3D $(MTK_SEC_SECRO_AC_SUPPORT)</span></div><div><span=20=
+class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">@echo =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">show_internal_feat=
+ure:</span></div><div><span class=3D"Apple-tab-span" style=3D"whi=
+te-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">@echo =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span></div><div><span cl=
+ass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">@echo Internal Feature:</span></div><div><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@e=
+cho HW_INIT_ONLY &nbsp; &nbsp; &nbsp; &nbsp; =3D $(HW_INIT_ONLY)<=
+/span></div><div><span class=3D"Apple-tab-span" style=3D"white-sp=
+ace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">@echo CFG_MDJTAG_SWITCH=3D $(CFG_=
+MDJTAG_SWITCH)</span></div><div><span class=3D"Apple-tab-span" st=
+yle=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">@echo CFG_MDMETA_D=
+ETECT=3D $(CFG_MDMETA_DETECT)</span></div><div><span class=3D"App=
+le-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@ec=
+ho CFG_HW_WATCHDOG=3D $(CFG_HW_WATCHDOG)</span></div><div><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></s=
+pan><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">@echo CFG_APWDT_DISABLE=3D $(CFG_APWDT_DISABLE)</span></d=
+iv><div><span class=3D"Apple-tab-span" style=3D"white-space:pre">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">@echo CFG_MDWDT_DISABLE=3D $(CFG_MDWDT_DIS=
+ABLE)</span></div><div><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">@echo CFG_SYS_STACK_SZ=3D $=
+(CFG_SYS_STACK_SZ)</span></div><div><span class=3D"Apple-tab-span=
+" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo CFG_MMC_=
+ADDR_TRANS=3D $(CFG_MMC_ADDR_TRANS)</span></div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>@echo CFG_BOOT_ARGUMENT=3D $(CFG_BOOT_ARGUMENT)</span></div><div=
+><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</=
+span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">@echo CFG_RAM_CONSOLE=3D $(CFG_RAM_CONSOLE)</span=
+></div><div><span class=3D"Apple-tab-span" style=3D"white-space:p=
+re"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">@echo =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span></div><div><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@e=
+cho MTK_PATH_PLATFORM=3D $(MTK_PATH_PLATFORM)</span></div><div><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</spa=
+n></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">@echo MTK_PATH_CUSTOM=3D $(MTK_PATH_CUSTOM)</span></=
+div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">@echo MTK_ROOT_CUSTOM=3D $(MTK_ROOT_CUSTOM=
+)</span></div><div><span class=3D"Apple-tab-span" style=3D"white-=
+space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">@echo CUSTOM_PATH=3D $(CUSTOM_P=
+ATH)</span></div><div><span class=3D"Apple-tab-span" style=3D"whi=
+te-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">@echo =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span></div><div><br></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">show_feature:</span></div><div><span class=3D"Apple-ta=
+b-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">	</span></span><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@if [ -e=
+ "$(MTK_PATH_CUSTOM)/cust_bldr.mak" ]; then \</span></div><div><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</spa=
+n></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">echo &nbsp;=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D ; \</span></div><div><span class=3D"Apple-t=
+ab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">	</span></span><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo Pl=
+atform Feature: ; \</span></div><div><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_FPG=
+A_PLATFORM'=3D $(CFG_FPGA_PLATFORM) ; \</span></div><div><span cl=
+ass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">echo 'CFG_EVB_PLATFORM'=3D $(CFG_EVB_PLATFORM) ; \</span><=
+/div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">echo 'CFG_BATTERY_DETECT'=3D $(CFG_BATTERY=
+_DETECT) ; \</span></div><div><span class=3D"Apple-tab-span" styl=
+e=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_PMT_SUPPOR=
+T'=3D $(CFG_PMT_SUPPORT) ; \</span></div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo=
+ &nbsp;=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D ; \</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">echo Communication Featur=
+e: ; \</span></div><div><span class=3D"Apple-tab-span" style=3D"w=
+hite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">echo 'CFG_UART_TOOL_HANDSH=
+AKE'=3D $(CFG_UART_TOOL_HANDSHAKE) ; \</span></div><div><span cla=
+ss=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">echo 'CFG_USB_TOOL_HANDSHAKE'=3D $(CFG_USB_TOOL_HANDSHAKE)=20=
+; \</span></div><div><span class=3D"Apple-tab-span" style=3D"whit=
+e-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">echo 'CFG_USB_DOWNLOAD'=3D $(=
+CFG_USB_DOWNLOAD) ; \</span></div><div><span class=3D"Apple-tab-s=
+pan" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_L=
+OG_BAUDRATE'=3D $(CFG_LOG_BAUDRATE) ; \</span></div><div><span cl=
+ass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">echo 'CFG_META_BAUDRATE'=3D $(CFG_META_BAUDRATE) ; \</span=
+></div><div><span class=3D"Apple-tab-span" style=3D"white-space:p=
+re"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">echo 'CFG_UART_LOG'=3D $(CFG_UART_LOG)=
+ ; \</span></div><div><span class=3D"Apple-tab-span" style=3D"whi=
+te-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">echo 'CFG_UART_META'=3D $(CF=
+G_UART_META) ; \</span></div><div><span class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_EMERGENC=
+Y_DL_SUPPORT'=3D $(CFG_EMERGENCY_DL_SUPPORT) ; \</span></div><div=
+><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</=
+span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">echo 'CFG_EMERGENCY_DL_TIMEOUT_MS'=3D $(CFG_EMERG=
+ENCY_DL_TIMEOUT_MS) ; \</span></div><div><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">	</span></span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG=
+_USB_UART_SWITCH'=3D $(CFG_USB_UART_SWITCH) ; \</span></div><div>=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</s=
+pan></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">echo &nbsp;=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D ; \</span></div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo=
+ Image Loading: ; \</span></div><div><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_LOA=
+D_UBOOT'=3D $(CFG_LOAD_UBOOT) ; \</span></div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>echo 'CFG_LOAD_AP_ROM'=3D $(CFG_LOAD_AP_ROM) ; \</span></div><di=
+v><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">echo 'CFG_LOAD_MD_ROM'=3D $(CFG_LOAD_MD_ROM) ; \=
+</span></div><div><span class=3D"Apple-tab-span" style=3D"white-s=
+pace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">echo 'CFG_LOAD_MD_RAMDISK'=3D $(=
+CFG_LOAD_MD_RAMDISK) ; \</span></div><div><span class=3D"Apple-ta=
+b-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">	</span></span><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CF=
+G_LOAD_CONN_SYS'=3D $(CFG_LOAD_CONN_SYS) ; \</span></div><div><sp=
+an class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span=
+></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">echo 'CFG_UBOOT_MEMADDR'=3D $(CFG_UBOOT_MEMADDR) ; \<=
+/span></div><div><span class=3D"Apple-tab-span" style=3D"white-sp=
+ace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">echo 'CFG_AP_ROM_MEMADDR'=3D $(CF=
+G_AP_ROM_MEMADDR) ; \</span></div><div><span class=3D"Apple-tab-s=
+pan" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_M=
+D1_ROM_MEMADDR'=3D $(CFG_MD1_ROM_MEMADDR) ; \</span></div><div><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</spa=
+n></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">echo 'CFG_MD1_RAMDISK_MEMADDR'=3D $(CFG_MD1_RAMDISK_=
+MEMADDR) ; \</span></div><div><span class=3D"Apple-tab-span" styl=
+e=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_MD2_ROM_ME=
+MADDR'=3D $(CFG_MD2_ROM_MEMADDR) ; \</span></div><div><span class=
+=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">echo 'CFG_MD2_RAMDISK_MEMADDR'=3D $(CFG_MD2_RAMDISK_MEMADDR)=20=
+; \</span></div><div><span class=3D"Apple-tab-span" style=3D"whit=
+e-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">echo 'CFG_CONN_SYS_MEMADDR'=3D=
+ $(CFG_CONN_SYS_MEMADDR) ; \</span></div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo=
+ 'ONEKEY_REBOOT_NORMAL_MODE_PL'=3D $(ONEKEY_REBOOT_NORMAL_MODE_PL=
+) ; \</span></div><div><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">echo 'KPD_USE_EXTEND_TYPE'=3D=
+ $(KPD_USE_EXTEND_TYPE) ; \</span></div><div><span class=3D"Apple=
+-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">echo=20=
+'KPD_PMIC_LPRST_TD'=3D $(KPD_PMIC_LPRST_TD) ; \</span></div><div>=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</s=
+pan></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">echo 'MTK_PMIC_RST_KEY'=3D $(MTK_PMIC_RST_KEY) ; \=
+</span></div><div><span class=3D"Apple-tab-span" style=3D"white-s=
+pace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">echo 'CFG_ATF_SUPPORT'=3D $(CFG_=
+ATF_SUPPORT) ; \</span></div><div><span class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_ATF_LOG_=
+SUPPORT'=3D $(CFG_ATF_LOG_SUPPORT) ; \</span></div><div><span cla=
+ss=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">echo 'CFG_TEE_SUPPORT'=3D $(CFG_TEE_SUPPORT) ; \</span></di=
+v><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">echo 'CFG_RPMB_SET_KEY'=3D $(CFG_RPMB_SET_K=
+EY) ; \</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">echo 'CFG_TRUSTONIC_TEE_S=
+UPPORT'=3D $(CFG_TRUSTONIC_TEE_SUPPORT) ; \</span></div><div><spa=
+n class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span>=
+</span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">echo 'CFG_MICROTRUST_TEE_SUPPORT'=3D $(CFG_MICROTRUST_=
+TEE_SUPPORT) ; \</span></div><div><span class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">echo 'CFG_TEE_SECU=
+RE_MEM_PROTECTED'=3D $(CFG_TEE_SECURE_MEM_PROTECTED) ; \</span></=
+div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">echo 'CFG_TEE_TRUSTED_APP_HEAP_SIZE'=3D $(=
+CFG_TEE_TRUSTED_APP_HEAP_SIZE) ; \</span></div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>echo 'MTK_EFUSE_WRITER_SUPPORT'=3D $(MTK_EFUSE_WRITER_SUPPORT) ;=
+ \</span></div><div><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">echo 'CFG_GOOGLE_TRUSTY_SUPPOR=
+T'=3D $(CFG_GOOGLE_TRUSTY_SUPPORT) ; \</span></div><div><span cla=
+ss=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">fi</span></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">###################################=
+###########################</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;"># Adding Build Tim=
+e</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">#</span></div><div><br></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">buil=
+d_info: $(PRELOADER_OUT)/inc/preloader.h</span></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(P=
+RELOADER_OUT)/inc/preloader.h: $(ALL_DEPENDENCY_FILE)</span></div=
+><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">@mkdir -p $(dir $@)</span></div><div><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></s=
+pan><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">@echo // Auto generated. Build Time Information &gt; $@</=
+span></div><div><span class=3D"Apple-tab-span" style=3D"white-spa=
+ce:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">@echo '#'define BUILD_TIME '"'$(sh=
+ell date +%Y%m%d-%H%M%S)'"' &gt;&gt; $@</span></div><div><br></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">######################################################=
+########</span></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;"># Adding Project Configuration</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">#</span></div><div><br></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">project_in=
+fo: $(PRELOADER_OUT)/inc/proj_cfg.h</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(PRELOA=
+DER_OUT)/inc/proj_cfg.h: $(MTK_PATH_PLATFORM)/default.mak $(MTK_P=
+ATH_CUSTOM)/cust_bldr.mak $(PROJECT_CONFIGS)</span></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>$(PRELOADER_OUT)/inc/proj_cfg.h: $(ALL_DEPENDENCY_FILE)</span></=
+div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">@mkdir -p $(dir $@)</span></div><div><span=
+ class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span><=
+/span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">@echo // Auto generated. Import ProjectConfig.mk &gt; $=
+@</span></div><div><span class=3D"Apple-tab-span" style=3D"white-=
+space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">@echo '#'define CUSTOM_SUSBDL_C=
+FG $(MTK_SEC_USBDL) &gt;&gt; $@</span></div><div><span class=3D"A=
+pple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@=
+echo '#'define CUSTOM_SBOOT_CFG $(MTK_SEC_BOOT) &gt;&gt; $@</span=
+></div><div><span class=3D"Apple-tab-span" style=3D"white-space:p=
+re"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">@echo '#'define MTK_SEC_MODEM_AUTH $(M=
+TK_SEC_MODEM_AUTH) &gt;&gt; $@</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">ifdef MTK_SEC=
+_SECRO_AC_SUPPORT</span></div><div><span class=3D"Apple-tab-span"=
+ style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo '#'define=
+ MTK_SEC_SECRO_AC_SUPPORT $(MTK_SEC_SECRO_AC_SUPPORT) &gt;&gt; $@=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">endif</span></div><div><br></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#=
+#############################################################</sp=
+an></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;"># Generate Key Info File</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#=
+</span></div><div><br></div><div><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">img_auth_info: $(IMAGE_AUTH_=
+CFG_FILE)</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">$(IMAGE_AUTH_CFG_FILE): $(SIGN_TOO=
+L) $(IMAGE_AUTH_KEY) $(IMAGE_AUTH_CFG)</span></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">$(IMA=
+GE_AUTH_CFG_FILE): $(ALL_DEPENDENCY_FILE)</span></div><div><span=20=
+class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">@mkdir -p $(dir $@)</span></div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@tou=
+ch $@</span></div><div><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">@chmod 777 $@</span></div><=
+div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">$(SIGN_TOOL) $(IMAGE_AUTH_KEY) $(IMAGE_AUTH_CF=
+G) $@ IMG</span></div><div><br></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">###################=
+###########################################</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+# Clean</span></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">#</span></div><div><br></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">clean:</span></div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">@rm -rf $(PRELOADER_OUT)=
+/obj</span></div><div><span class=3D"Apple-tab-span" style=3D"whi=
+te-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">@rm -rf $(PRELOADER_OUT)/inc=
+</span></div><div><span class=3D"Apple-tab-span" style=3D"white-s=
+pace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">@rm -rf $(PRELOADER_OUT)/bin</sp=
+an></div><div><span class=3D"Apple-tab-span" style=3D"white-space=
+:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">@rm -rf $(PRELOADER_OUT)/out_da_veri=
+fy</span></div><div><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">@rm -rf $(PRELOADER_OUT)/out_p=
+lat</span></div><div><span class=3D"Apple-tab-span" style=3D"whit=
+e-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">@rm -rf $(PRELOADER_OUT)/out_=
+devinfo</span></div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">@rm -rf $(PRELOADER_OUT)/=
+out_devinfo_debug</span></div><div><span class=3D"Apple-tab-span"=
+ style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@rm -rf $(PRELO=
+ADER_OUT)/out_hw_crypto_lib</span></div><div><br></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;"># Encode Key</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#</span><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">ifeq ($(HOST_OS),darwin)</span></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">KEY_E=
+NCODE_TOOL :=3D tools/ke/KeyEncode.darwin</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">el=
+se</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">KEY_ENCODE_TOOL :=3D tools/ke/KeyEncode</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">endif</span></div><div><br></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#key=
+_encode</span></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">$(D_BIN)/KEY_ENCODED_PL: $(D_BIN)/$(=
+PL_IMAGE_NAME)_LINKED.bin | $(KEY_ENCODE_TOOL)</span></div><div><=
+span class=3D"Apple-tab-span" style=3D"white-space:pre"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</sp=
+an></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">$(KEY_ENCODE_TOOL) $&lt; $@</span></div><div><span=20=
+class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">@echo "$(KEY_ENCODE_TOOL) pass !!!!"</span></div><div><b=
+r></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">$(D_BIN)/$(PL_IMAGE_NAME)_NO_GFH.bin: $(D_BIN)/K=
+EY_ENCODED_PL</span></div><div><span class=3D"Apple-tab-span" sty=
+le=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">@echo "[ Load Chip=20=
+Config. ]"</span></div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">@echo "=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D"</span></div><di=
+v><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">@echo " : MTK_SEC_CHIP_SUPPORT - $(MTK_SEC_CHIP_=
+SUPPORT)"</span></div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">cp -f $&lt; $@</span></d=
+iv><div><br></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">ifneq ($(wildcard $(CONFIG_PATH)/PBP_P=
+Y_SUPPORT),)</span></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">include bl_sign_v21.mak</span><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">else</span></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">ifneq ($(wildcard $(GFH_P=
+ATH)/GFH_CONFIG.ini),)</span></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">include bl_sign_v11.m=
+ak</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">else</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">include bl_sign_v1=
+0.mak</span></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">endif</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">endif</span=
+></div><div><br></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">dump_build_info: $(D_BIN)/$(PL_IMA=
+GE_NAME)_LINKED.bin $(D_BIN)/$(PL_IMAGE_NAME).elf</span></div><di=
+v><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">@echo "=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D"</span></div><div><span class=3D"Apple-t=
+ab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">	</span></span><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo "=
+${MTK_PROJECT} preloader load"</span></div><div><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@e=
+cho "$(D_BIN)/$(PL_IMAGE_NAME)_LINKED.bin built at"</span></div><=
+div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">@echo "time : $(shell date)"</span></div><div>=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</s=
+pan></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">@echo "img &nbsp;size : `wc -c &lt; $(D_BIN)/$(PL_=
+IMAGE_NAME)_LINKED.bin` byte"</span></div><div><span class=3D"App=
+le-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@ec=
+ho "bss &nbsp;size : 0x`$(CROSS_COMPILE)readelf -SW $(D_BIN)/$(PL=
+_IMAGE_NAME).elf | grep bss | awk '{if (NF=3D=3D11) print $$6; el=
+se print $$7;}'` byte"</span></div><div><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">@echo "dra=
+m size : 0x`$(CROSS_COMPILE)readelf -SW $(D_BIN)/$(PL_IMAGE_NAME)=
+.elf | grep dram | awk '{if (NF=3D=3D11) print $$6; else print $$=
+7;}'` byte"</span></div><div><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">@echo =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</span></div></sp=
+an></span></span></span></div><blockquote style=3D"margin: 0 0 0=20=
+40px; border: none; padding: 0px;"><br></blockquote><div><br></di=
+v><div><b style=3D"color:rgb(0, 0, 0);font-family:Helvetica, 'Hir=
+agino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', S=
+imSun, SimHei, arial, sans-serif;font-size:1rem;font-style:normal=
+;text-align:start;text-indent:0px;"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color:rgb(255, 0, 0);"><span style=3D"color:rgb=
+(0, 0, 0);font-family:Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=
+=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-s=
+erif;font-size:1rem;font-style:normal;font-weight:normal;text-ali=
+gn:start;text-indent:0px;display:inline !important;"><br></span><=
+/span></b></div><div><b style=3D"color:rgb(0, 0, 0);font-family:H=
+elvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsof=
+t YaHei UI', SimSun, SimHei, arial, sans-serif;font-size:1rem;fon=
+t-style:normal;text-align:start;text-indent:0px;"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color:rgb(255, 0, 0);"><span styl=
+e=3D"color:rgb(0, 0, 0);font-family:Helvetica, 'Hiragino Sans GB'=
+, =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei,=
+ arial, sans-serif;font-size:1rem;font-style:normal;font-weight:n=
+ormal;text-align:start;text-indent:0px;display:inline !important;=
+"><br></span></span></b></div><div><b style=3D"color:rgb(0, 0, 0)=
+;font-family:Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=
+=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;font=
+-size:1rem;font-style:normal;text-align:start;text-indent:0px;"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color:rgb(255, 0, 0=
+);"><span style=3D"color:rgb(0, 0, 0);font-family:Helvetica, 'Hir=
+agino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', S=
+imSun, SimHei, arial, sans-serif;font-size:1rem;font-style:normal=
+;font-weight:normal;text-align:start;text-indent:0px;display:inli=
+ne !important;"><br></span></span></b></div><div><b style=3D"colo=
+r:rgb(0, 0, 0);font-family:Helvetica, 'Hiragino Sans GB', =CE=A2=C8=
+=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, san=
+s-serif;font-size:1rem;font-style:normal;text-align:start;text-in=
+dent:0px;"><span data-wiz-span=3D"data-wiz-span" style=3D"color:r=
+gb(255, 0, 0);"><span style=3D"color:rgb(0, 0, 0);font-family:Hel=
+vetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsoft=20=
+YaHei UI', SimSun, SimHei, arial, sans-serif;font-size:1rem;font-=
+style:normal;font-weight:normal;text-align:start;text-indent:0px;=
+display:inline !important;"><br></span></span></b></div><div><b s=
+tyle=3D"color:rgb(0, 0, 0);font-family:Helvetica, 'Hiragino Sans=20=
+GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimH=
+ei, arial, sans-serif;font-size:1rem;font-style:normal;text-align=
+:start;text-indent:0px;"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"color:rgb(255, 0, 0);"><span style=3D"color:rgb(0, 0, 0);f=
+ont-family:Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA=
+, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;font-si=
+ze:1rem;font-style:normal;font-weight:normal;text-align:start;tex=
+t-indent:0px;display:inline !important;"><br></span></span></b></=
+div><div><br></div><div><span style=3D"color:rgb(0, 0, 0);font-fa=
+mily:Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Mi=
+crosoft YaHei UI', SimSun, SimHei, arial, sans-serif;font-size:1r=
+em;font-style:normal;font-weight:normal;text-align:start;text-ind=
+ent:0px;display:inline !important;"><span style=3D"color:rgb(0, 0=
+, 255);font-family:Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=
+=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-seri=
+f;font-size:1rem;font-style:normal;font-weight:normal;text-align:=
+start;text-indent:0px;display:inline !important;"><span style=3D"=
+color:rgb(0, 0, 0);font-family:Helvetica, 'Hiragino Sans GB', =CE=
+=A2=C8=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun, SimHei, aria=
+l, sans-serif;font-size:1rem;font-style:normal;font-weight:normal=
+;text-align:start;text-indent:0px;display:inline !important;"><sp=
+an style=3D"color:rgb(0, 0, 0);font-family:Helvetica, 'Hiragino S=
+ans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun,=20=
+SimHei, arial, sans-serif;font-size:1rem;font-style:normal;font-w=
+eight:normal;text-align:start;text-indent:0px;display:inline !imp=
+ortant;"><span style=3D"color:rgb(0, 0, 0);font-family:Helvetica,=
+ 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsoft YaHei U=
+I', SimSun, SimHei, arial, sans-serif;font-size:1rem;font-style:n=
+ormal;font-weight:normal;text-align:start;text-indent:0px;display=
+:inline !important;"><br></span></span></span></span></span></div=
+></body></html>
+
+------=_Next_Part_0138420171.895--
+
+------=_Next_Part_0415260513.718--
+

@@ -1,0 +1,685 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?NXN5c3RlbTItLWFwcF9tYWluLmNwcLfWzvYtLXp5Z290ZbXExvS2rw==?=
+Date: Date: Mon, 23 Oct 2017 08:44:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0415567968.084"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0415567968.084
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0138522656.954"
+
+
+------=_Next_Part_0138522656.954
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0138522656.954
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A<title>5system2--=
+app_main.cpp=B7=D6=CE=F6--zygote=B5=C4=C6=F4=B6=AF</title>=0A   =20=
+<!--mark |wiz_custom_css| for wizeditor replace it-->=0A<style id=
+=3D"wiz_custom_css">html, body {            font-size: 15px;    =20=
+   }        body {            font-family: Helvetica, 'Hiragino S=
+ans GB', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun=
+, SimHei, arial, sans-serif;            line-height: 1.6;       =20=
+    margin: 0;            padding: 20px 15px;            padding:=
+ 1.33rem 1rem;        }        h1, h2, h3, h4, h5, h6 {         =20=
+  margin: 20px 0 10px;            margin: 1.33rem 0 0.667rem;   =20=
+        padding: 0;            font-weight: bold;        }      =20=
+ h1 {            font-size: 21px;            font-size: 1.4rem; =20=
+      }        h2 {            font-size: 20px;            font-s=
+ize: 1.33rem;        }        h3 {            font-size: 18px;  =20=
+         font-size: 1.2rem;        }        h4 {            font-=
+size: 17px;            font-size: 1.13rem;        }        h5 { =20=
+          font-size: 15px;            font-size: 1rem;        } =20=
+      h6 {            font-size: 15px;            font-size: 1rem=
+;            color: #777777;            margin: 1rem 0;        }=20=
+       div, p, ul, ol, dl, li {            margin: 0;        }  =20=
+     blockquote, table, pre, code {            margin: 8px 0;   =20=
+    }        ul, ol {            padding-left: 32px;            p=
+adding-left: 2.13rem;        }        blockquote {            pad=
+ding: 0 12px;            padding: 0 0.8rem;        }        block=
+quote > :first-child {            margin-top: 0;        }       =20=
+blockquote > :last-child {            margin-bottom: 0;        }=20=
+       img {            border: 0;            max-width: 100%;  =20=
+         height: auto !important;            margin: 2px 0;     =20=
+  }        table {            border-collapse: collapse;        =20=
+   border: 1px solid #bbbbbb;        }        td, th {          =20=
+ padding: 4px 8px;            border-collapse: collapse;        =20=
+   border: 1px solid #bbbbbb;			        }        @media only scre=
+en and (-webkit-max-device-width: 1024px), only screen and (-o-ma=
+x-device-width: 1024px), only screen and (max-device-width: 1024p=
+x), only screen and (-webkit-min-device-pixel-ratio: 3), only scr=
+een and (-o-min-device-pixel-ratio: 3), only screen and (min-devi=
+ce-pixel-ratio: 3) {            html, body {                font-=
+size: 17px;            }            body {                line-he=
+ight: 1.7;                padding: 0.75rem 0.9375rem;           =20=
+    color: #353c47;            }            h1 {                f=
+ont-size: 2.125rem;            }            h2 {                f=
+ont-size: 1.875rem;            }            h3 {                f=
+ont-size: 1.625rem;            }            h4 {                f=
+ont-size: 1.375rem;            }            h5 {                f=
+ont-size: 1.125rem;            }            h6 {                c=
+olor: inherit;            }            ul, ol {                pa=
+dding-left: 2.5rem;            }            blockquote {        =20=
+       padding: 0 0.9375rem;            }        }</style></head>=
+=0A=0A<body spellcheck=3D"false" ><div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(255, 0, 0);"><b><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=CE=C4=BC=
+=FE=C2=B7=BE=B6=A3=BAframeworks/base/cmds/app_process/app_main.cp=
+p</span></b></span></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">/*</span></div><div><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp;*=
+ Main entry of app process.</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp;*</span></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">&nbsp;* Starts the interpreted runtime, then starts up=
+ the application.</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">&nbsp;*</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">&nbsp;*/</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">#define LOG_TAG "a=
+ppproc"</span></div><div><br></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">#include &lt;binder/I=
+PCThreadState.h&gt;</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">#include &lt;binder/Proc=
+essState.h&gt;</span></div><div><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">#include &lt;utils/Log.h&gt;<=
+/span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">#include &lt;cutils/memory.h&gt;</span></div=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">#include &lt;cutils/process_name.h&gt;</span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">#include &lt;cutils/properties.h&gt;</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#i=
+nclude &lt;cutils/trace.h&gt;</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#include &lt;a=
+ndroid_runtime/AndroidRuntime.h&gt;</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#include=
+ &lt;private/android_filesystem_config.h&gt; &nbsp;// for AID_SYS=
+TEM</span></div><div><br></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">#include &lt;stdlib.h&gt;=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">#include &lt;stdio.h&gt;</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">#include &lt;unistd.h&gt;</span></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#include &lt;sy=
+s/prctl.h&gt;</span></div><div><br></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">namespace andro=
+id {</span></div><div><br></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">void app_usage()</span><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">{</span></div><div><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; fprintf(stderr=
+,</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; "Usage: app_pr=
+ocess [java-options] cmd-dir start-class-name [options]\n");</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">}</span></div><div><br></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">class AppR=
+untime : public AndroidRuntime</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">{</span></div=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">public:</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; AppRuntime(c=
+har* argBlockStart, const size_t argBlockLength)</span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">&nbsp; &nbsp; &nbsp; &nbsp; : AndroidRuntime(argBlockStart,=20=
+argBlockLength)</span></div><div><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp;=20=
+, mClass(NULL)</span></div><div><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; {</span></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">&nbsp; &nbsp; }</span></div><div><br></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp=
+; &nbsp; void setClassNameAndArgs(const String8&amp; className, i=
+nt argc, char * const *argv) {</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; mClassName =3D className;</span></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nb=
+sp; &nbsp; &nbsp; &nbsp; for (int i =3D 0; i &lt; argc; ++i) {</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p;mArgs.add(String8(argv[i]));</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; }</span></div><div><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; }</span></div=
+><div><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; virtual void onVmCreated(JNI=
+Env* env)</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">&nbsp; &nbsp; {</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">&nbsp; &nbsp; &nbsp; &nbsp; if (mClassName.isEmpty()) {</span>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return;=20=
+// Zygote. Nothing to do here.</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; }</span></div><div><br></div><div><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp=
+; &nbsp; &nbsp; /*</span></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp;* This is a little awkward because the JNI FindClass cal=
+l uses the</span></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;* class loader associated with the native method we're executing=
+ in.</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;* If=20=
+called in onStarted (from RuntimeInit.finishInit because we're</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;* launching=20=
+"am", for example), FindClass would see that we're calling</span>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;* from a boot cl=
+ass' native method, and so wouldn't look for the class</span></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;* we're trying to lo=
+ok up in CLASSPATH. Unfortunately it needs to,</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;* because the "am" classes a=
+re not boot classes.</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp;*</span></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp;* The easiest fix is to call FindClass here, early on before w=
+e start</span></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*=20=
+executing boot class Java code and thereby deny ourselves access=20=
+to</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;* non-bo=
+ot classes.</span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p;*/</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; char* slash=
+ClassName =3D toSlashClassName(mClassName.string());</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">&nbsp; &nbsp; &nbsp; &nbsp; mClass =3D env-&gt;FindClass=
+(slashClassName);</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp=
+; if (mClass =3D=3D NULL) {</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; ALOGE("ERROR: could not find class '%s'\n=
+", mClassName.string());</span></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp=
+; &nbsp; }</span></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; free(=
+slashClassName);</span></div><div><br></div><div><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp=
+; &nbsp; &nbsp; mClass =3D reinterpret_cast&lt;jclass&gt;(env-&gt=
+;NewGlobalRef(mClass));</span></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; }</spa=
+n></div><div><br></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">&nbsp; &nbsp; virtual void onStar=
+ted()</span></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">&nbsp; &nbsp; {</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&=
+nbsp; &nbsp; &nbsp; &nbsp; sp&lt;ProcessState&gt; proc =3D Proces=
+sState::self();</span></div><div><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp;=20=
+ALOGV("App process: starting thread pool.\n");</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">&nbsp; &nbsp; &nbsp; &nbsp; proc-&gt;startThreadPool();</span>=
+</div><div><br></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; Android=
+Runtime* ar =3D AndroidRuntime::getRuntime();</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">&nbsp; &nbsp; &nbsp; &nbsp; ar-&gt;callMain(mClassName, mClass,=
+ mArgs);</span></div><div><br></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp;=
+ &nbsp; IPCThreadState::self()-&gt;stopProcess();</span></div><di=
+v><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">&nbsp; &nbsp; }</span></div><div><br></div><div><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp;=20=
+&nbsp; virtual void onZygoteInit()</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &n=
+bsp; {</span></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; // Re-ena=
+ble tracing now that we're no longer in Zygote.</span></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">&nbsp; &nbsp; &nbsp; &nbsp; atrace_set_tracing_enabled(true);=
+</span></div><div><br></div><div><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp;=20=
+sp&lt;ProcessState&gt; proc =3D ProcessState::self();</span></div=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; ALOGV("App process: startin=
+g thread pool.\n");</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nb=
+sp; proc-&gt;startThreadPool();</span></div><div><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp=
+; }</span></div><div><br></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; virtual voi=
+d onExit(int code)</span></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; {</span></d=
+iv><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; //[2015/04/17] M: when pr=
+ocess exits, force close binder driver</span></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp=
+; &nbsp; &nbsp; &nbsp; //if (mClassName.isEmpty()) {&nbsp;</span>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // if zy=
+gote</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; IPCThreadState::self()-&gt;stopProcess();</span></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>&nbsp; &nbsp; &nbsp; &nbsp; //}</span></div><div><br></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">&nbsp; &nbsp; &nbsp; &nbsp; //AndroidRuntime::onExit(code);</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; }</span></div><div><br></div><d=
+iv><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">&nbsp; &nbsp; String8 mClassName;</span></d=
+iv><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">&nbsp; &nbsp; Vector&lt;String8&gt; mArgs;</span></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">&nbsp; &nbsp; jclass mClass;</span></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">};</=
+span></div><div><br></div><div><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">}</span></div><div><br></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">using namespace android;</span></div><div><br></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">static size_t computeArgBlockSize(int argc, char* const argv[=
+]) {</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; // TODO: This assumes tha=
+t all arguments are allocated in</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbs=
+p; // contiguous memory. There isn't any documented guarantee</sp=
+an></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">&nbsp; &nbsp; // that this is the case, but thi=
+s is how the kernel does it</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // (=
+see fs/exec.c).</span></div><div><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; //</span></div=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">&nbsp; &nbsp; // Also note that this is a constant for=20=
+"normal" android apps.</span></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // Sinc=
+e they're forked from zygote, the size of their command line</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">&nbsp; &nbsp; // is the size of the zygote comma=
+nd line.</span></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">&nbsp; &nbsp; //</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">&nbsp; &nbsp; // We change the process name of the process by=20=
+over-writing</span></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // the start of t=
+he argument block (argv[0]) with the new name of</span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">&nbsp; &nbsp; // the process, so we'd mysteriously start get=
+ting truncated process</span></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // name=
+s if the zygote command line decreases in size.</span></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">&nbsp; &nbsp; uintptr_t start =3D reinterpret_cast&lt;uintptr=
+_t&gt;(argv[0]);</span></div><div><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; uintptr_t end=
+ =3D reinterpret_cast&lt;uintptr_t&gt;(argv[argc - 1]);</span></d=
+iv><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">&nbsp; &nbsp; end +=3D strlen(argv[argc - 1]) + 1;</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp; &nbsp; return (end - start);</span></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem;">}</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">static void maybeC=
+reateDalvikCache() {</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">#if defined(__aarch64__=
+)</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; static const char kInstructi=
+onSet[] =3D "arm64";</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">#elif defined(__x86_64_=
+_)</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; static const char kInstructi=
+onSet[] =3D "x86_64";</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">#elif defined(__arm__)=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">&nbsp; &nbsp; static const char kInstructio=
+nSet[] =3D "arm";</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">#elif defined(__i386__)</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp; &nbsp; static const char kInstructionSe=
+t[] =3D "x86";</span></div><div><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">#elif defined (__mips__)</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">&nbsp; &nbsp; static const char kInstructionSet[=
+] =3D "mips";</span></div><div><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">#else</span></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#er=
+ror "Unknown instruction set"</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#endif</span><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">&nbsp; &nbsp; const char* androidRoot =3D getenv("A=
+NDROID_DATA");</span></div><div><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; LOG_ALWAYS_FATA=
+L_IF(androidRoot =3D=3D NULL, "ANDROID_DATA environment variable=20=
+unset");</span></div><div><br></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; char d=
+alvikCacheDir[PATH_MAX];</span></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; const=
+ int numChars =3D snprintf(dalvikCacheDir, PATH_MAX,</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "%s/dalvik-cac=
+he/%s", androidRoot, kInstructionSet);</span></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp=
+; &nbsp; LOG_ALWAYS_FATAL_IF((numChars &gt;=3D PATH_MAX || numCha=
+rs &lt; 0),</span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; "Error constructing dalvik cache : %s", strerror(errno)=
+);</span></div><div><br></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; int result =3D=
+ mkdir(dalvikCacheDir, 0711);</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=20=
+LOG_ALWAYS_FATAL_IF((result &lt; 0 &amp;&amp; errno !=3D EEXIST),=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "=
+Error creating cache dir %s : %s", dalvikCacheDir, strerror(errno=
+));</span></div><div><br></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // We alway=
+s perform these steps because the directory might</span></div><di=
+v><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">&nbsp; &nbsp; // already exist, with wider permissions and=20=
+a different owner</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // than we'd=
+ like.</span></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">&nbsp; &nbsp; result =3D chown(dalvik=
+CacheDir, AID_ROOT, AID_ROOT);</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ LOG_ALWAYS_FATAL_IF((result &lt; 0), "Error changing dalvik-cach=
+e ownership : %s", strerror(errno));</span></div><div><br></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">&nbsp; &nbsp; result =3D chmod(dalvikCacheDir, 0711);</sp=
+an></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">&nbsp; &nbsp; LOG_ALWAYS_FATAL_IF((result &lt;=20=
+0),</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+"Error changing dalvik-cache permissions : %s", strerror(errno));=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">}</span></div><div><br></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#if d=
+efined(__LP64__)</span></div><div><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">static const char ABI_LIST_=
+PROPERTY[] =3D "ro.product.cpu.abilist64";</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">s=
+tatic const char ZYGOTE_NICE_NAME[] =3D "zygote64";</span></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">#else</span></div><div><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">static const char ABI_LIST_PRO=
+PERTY[] =3D "ro.product.cpu.abilist32";</span></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">stat=
+ic const char ZYGOTE_NICE_NAME[] =3D "zygote";</span></div><div><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+;">#endif</span></div><div><br></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">int main(int argc,=20=
+char* const argv[])</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">{</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&=
+nbsp; &nbsp; if (prctl(PR_SET_NO_NEW_PRIVS, 1, 0, 0, 0) &lt; 0) {=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; // Older kernel=
+s don't understand PR_SET_NO_NEW_PRIVS and return</span></div><di=
+v><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">&nbsp; &nbsp; &nbsp; &nbsp; // EINVAL. Don't die on such ke=
+rnels.</span></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; if (errno=
+ !=3D EINVAL) {</span></div><div><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; LOG_ALWAYS_FATAL("PR_SET_NO_NEW_PRIVS failed: %s",=20=
+strerror(errno));</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; return 12;</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbs=
+p; &nbsp; }</span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; }</span></div><div=
+><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; AppRuntime runtime(argv[0], com=
+puteArgBlockSize(argc, argv));</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ // Process command line arguments</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &n=
+bsp; // ignore argv[0]</span></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; argc--;=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">&nbsp; &nbsp; argv++;</span></div><div><br>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">&nbsp; &nbsp; // Everything up to '--' or first no=
+n '-' arg goes to the vm.</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; //</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; // The first argument after the=
+ VM args is the "parent dir", which</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &=
+nbsp; // is currently unused.</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=20=
+//</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; // After the parent dir, we=20=
+expect one or more the following internal</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&n=
+bsp; &nbsp; // arguments :</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; //</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; // --zygote : Start in zygote m=
+ode</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; // --start-system-server : S=
+tart the system server.</span></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // --a=
+pplication : Start in application (stand alone, non zygote) mode.=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem;">&nbsp; &nbsp; // --nice-name : The nice nam=
+e for this process.</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; //</span><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">&nbsp; &nbsp; // For non zygote starts, these argum=
+ents will be followed by</span></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // th=
+e main class name. All remaining arguments are passed to</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">&nbsp; &nbsp; // the main method of this class.</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">&nbsp; &nbsp; //</span></div><div><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nb=
+sp; // For zygote starts, all remaining arguments are passed to t=
+he zygote.</span></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // main function.</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; //</span></div><div><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp;=20=
+&nbsp; // Note that we must copy argument string values since we=20=
+will rewrite the</span></div><div><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; // entire arg=
+ument block when we apply the nice name to argv0.</span></div><di=
+v><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">&nbsp; &nbsp; int i;</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&n=
+bsp; &nbsp; for (i =3D 0; i &lt; argc; i++) {</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">&nbsp; &nbsp; &nbsp; &nbsp; if (argv[i][0] !=3D '-') {</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; break;</sp=
+an></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; }</span></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">&nbsp; &nbsp; &nbsp; &nbsp; if (argv[i][1] =3D=3D '-' &amp;&a=
+mp; argv[i][2] =3D=3D 0) {</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; ++i; // Skip --.</span></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; break;</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">&nbsp; &nbsp; &nbsp; &nbsp; }</span></div><div><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp=
+; &nbsp; &nbsp; runtime.addOption(strdup(argv[i]));</span></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">&nbsp; &nbsp; }</span></div><div><br></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp=
+; &nbsp; // Parse runtime arguments. &nbsp;Stop at first unrecogn=
+ized option.</span></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; bool zygote =3D f=
+alse;</span></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">&nbsp; &nbsp; bool startSystemServer =3D=
+ false;</span></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">&nbsp; &nbsp; bool application =3D f=
+alse;</span></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">&nbsp; &nbsp; String8 niceName;</span>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">&nbsp; &nbsp; String8 className;</span></div><div>=
+<br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp; &nbsp; ++i; &nbsp;// Skip unused "paren=
+t dir" argument.</span></div><div><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; while (i &lt;=
+ argc) {</span></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; const c=
+har* arg =3D argv[i++];</span></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp;=
+ &nbsp; if (strcmp(arg, "--zygote") =3D=3D 0) {</span></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; zygote =3D true;</s=
+pan></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; nice=
+Name =3D ZYGOTE_NICE_NAME;</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbs=
+p; &nbsp; } else if (strcmp(arg, "--start-system-server") =3D=3D=20=
+0) {</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; startSystemServer =3D true;</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; } else if (strcmp(arg, "--application") =3D=3D 0)=20=
+{</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+application =3D true;</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &=
+nbsp; } else if (strncmp(arg, "--nice-name=3D", 12) =3D=3D 0) {</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; nic=
+eName.setTo(arg + 12);</span></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp;=20=
+&nbsp; } else if (strncmp(arg, "--", 2) !=3D 0) {</span></div><di=
+v><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; className.setTo(a=
+rg);</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; break;</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; } else=
+ {</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+--i;</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; break;</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; }</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">&nbsp; &nbsp; }</span></div><div><br></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">&nbsp; &nbsp; Vector&lt;String8&gt; args;</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">&nbsp; &nbsp; if (!className.isEmpty()) {</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+&nbsp; &nbsp; &nbsp; &nbsp; // We're not in zygote mode, the only=
+ argument we need to pass</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbs=
+p; &nbsp; // to RuntimeInit is the application argument.</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; //</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+&nbsp; &nbsp; &nbsp; &nbsp; // The Remainder of args get passed t=
+o startup class main(). Make</span></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &=
+nbsp; &nbsp; // copies of them before we overwrite them with the=20=
+process name.</span></div><div><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; ar=
+gs.add(application ? String8("application") : String8("tool"));</=
+span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; runtime.setClassN=
+ameAndArgs(className, argc - i, argv + i);</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&=
+nbsp; &nbsp; } else {</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &=
+nbsp; // We're in zygote mode.</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; maybeCreateDalvikCache();</span></div><div><br></d=
+iv><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; if (startSystemServer) {<=
+/span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ar=
+gs.add(String8("start-system-server"));</span></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbs=
+p; &nbsp; &nbsp; &nbsp; }</span></div><div><br></div><div><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nb=
+sp; &nbsp; &nbsp; &nbsp; char prop[PROP_VALUE_MAX];</span></div><=
+div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">&nbsp; &nbsp; &nbsp; &nbsp; if (property_get(ABI_LIST_PRO=
+PERTY, prop, NULL) =3D=3D 0) {</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; LOG_ALWAYS_FATAL("app_process: Unabl=
+e to determine ABI list from property %s.",</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ABI_LIST_=
+PROPERTY);</span></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; return 11;</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nb=
+sp; }</span></div><div><br></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &n=
+bsp; String8 abiFlag("--abi-list=3D");</span></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp=
+; &nbsp; &nbsp; &nbsp; abiFlag.append(prop);</span></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>&nbsp; &nbsp; &nbsp; &nbsp; args.add(abiFlag);</span></div><div>=
+<br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; // In zygote mode,=
+ pass all remaining arguments to the zygote</span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+&nbsp; &nbsp; &nbsp; &nbsp; // main() method.</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">&nbsp; &nbsp; &nbsp; &nbsp; for (; i &lt; argc; ++i) {</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; args.add(S=
+tring8(argv[i]));</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp=
+; }</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; }</span></div><div><br></div=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">&nbsp; &nbsp; if (!niceName.isEmpty()) {</span></div><d=
+iv><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem;">&nbsp; &nbsp; &nbsp; &nbsp; runtime.setArgv0(niceName.stri=
+ng());</span></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; set_proce=
+ss_name(niceName.string());</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; }</s=
+pan></div><div><br></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; if (zygote) {</sp=
+an></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; runtime.start("com.=
+android.internal.os.ZygoteInit", args, zygote);</span></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">&nbsp; &nbsp; } else if (className) {</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&n=
+bsp; &nbsp; &nbsp; &nbsp; runtime.start("com.android.internal.os.=
+RuntimeInit", args, zygote);</span></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; }=
+ else {</span></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; fprintf(=
+stderr, "Error: no class name or --zygote supplied.\n");</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; app_usage();</span></div=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; LOG_ALWAYS_FATAL("app_proce=
+ss: no class name or --zygote supplied.");</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&=
+nbsp; &nbsp; &nbsp; &nbsp; return 10;</span></div><div><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp;=
+ &nbsp; }</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">}</span></div><div><br></div></div=
+></body></html>
+
+------=_Next_Part_0138522656.954--
+
+------=_Next_Part_0415567968.084--
+

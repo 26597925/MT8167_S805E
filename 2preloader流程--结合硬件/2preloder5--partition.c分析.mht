@@ -1,0 +1,695 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?MnByZWxvZGVyNS0tcGFydGl0aW9uLmO31s72?=
+Date: Date: Mon, 23 Oct 2017 08:42:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0415373625.529"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0415373625.529
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0138457875.778"
+
+
+------=_Next_Part_0138457875.778
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0138457875.778
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A<title>2preloder5=
+--partition.c=B7=D6=CE=F6</title>=0A    <!--mark |wiz_custom_css|=
+ for wizeditor replace it-->=0A<style id=3D"wiz_custom_css">html,=
+ body {            font-size: 15px;        }        body {      =20=
+     font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=
+=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-ser=
+if;            line-height: 1.6;            margin: 0;          =20=
+ padding: 20px 15px;            padding: 1.33rem 1rem;        } =20=
+      h1, h2, h3, h4, h5, h6 {            margin: 20px 0 10px;  =20=
+         margin: 1.33rem 0 0.667rem;            padding: 0;     =20=
+      font-weight: bold;        }        h1 {            font-siz=
+e: 21px;            font-size: 1.4rem;        }        h2 {     =20=
+      font-size: 20px;            font-size: 1.33rem;        }  =20=
+     h3 {            font-size: 18px;            font-size: 1.2re=
+m;        }        h4 {            font-size: 17px;            fo=
+nt-size: 1.13rem;        }        h5 {            font-size: 15px=
+;            font-size: 1rem;        }        h6 {            fon=
+t-size: 15px;            font-size: 1rem;            color: #7777=
+77;            margin: 1rem 0;        }        div, p, ul, ol, dl=
+, li {            margin: 0;        }        blockquote, table, p=
+re, code {            margin: 8px 0;        }        ul, ol {   =20=
+        padding-left: 32px;            padding-left: 2.13rem;   =20=
+    }        blockquote {            padding: 0 12px;           =20=
+padding: 0 0.8rem;        }        blockquote > :first-child {  =20=
+         margin-top: 0;        }        blockquote > :last-child=20=
+{            margin-bottom: 0;        }        img {            b=
+order: 0;            max-width: 100%;            height: auto !im=
+portant;            margin: 2px 0;        }        table {      =20=
+     border-collapse: collapse;            border: 1px solid #bbb=
+bbb;        }        td, th {            padding: 4px 8px;      =20=
+     border-collapse: collapse;            border: 1px solid #bbb=
+bbb;			        }        @media only screen and (-webkit-max-devic=
+e-width: 1024px), only screen and (-o-max-device-width: 1024px),=20=
+only screen and (max-device-width: 1024px), only screen and (-web=
+kit-min-device-pixel-ratio: 3), only screen and (-o-min-device-pi=
+xel-ratio: 3), only screen and (min-device-pixel-ratio: 3) {    =20=
+       html, body {                font-size: 17px;            }=20=
+           body {                line-height: 1.7;              =20=
+ padding: 0.75rem 0.9375rem;                color: #353c47;     =20=
+      }            h1 {                font-size: 2.125rem;     =20=
+      }            h2 {                font-size: 1.875rem;     =20=
+      }            h3 {                font-size: 1.625rem;     =20=
+      }            h4 {                font-size: 1.375rem;     =20=
+      }            h5 {                font-size: 1.125rem;     =20=
+      }            h6 {                color: inherit;          =20=
+ }            ul, ol {                padding-left: 2.5rem;     =20=
+      }            blockquote {                padding: 0 0.9375r=
+em;            }        }</style></head>=0A=0A<body spellcheck=3D=
+"false" ><div></div><div><b><span style=3D"font-size: 13.005px; l=
+ine-height: 20.808px; background-color: rgb(255, 255, 255);"></sp=
+an></b></div><div style=3D"background-color: rgb(255, 255, 255);"=
+><span data-wiz-span=3D"data-wiz-span"><font color=3D"#ff0000"><s=
+pan style=3D"font-size: 13.005px; line-height: 20.808px;"><span d=
+ata-wiz-span=3D"data-wiz-span">vendor/mediatek/proprietary/bootab=
+le/bootloader/preloader/platform/mt8167/src/core/partition.c</spa=
+n></span></font></span></div><div style=3D"background-color: rgb(=
+255, 255, 255);"><span data-wiz-span=3D"data-wiz-span"><font colo=
+r=3D"#ff0000"><span style=3D"font-size: 13.005px; line-height: 20=
+.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rg=
+b(0, 0, 0);"><strike><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(255, 0, 0);">vendor/mediatek/proprietary/bootable/boo=
+tloader/preloader/platform/mt8167/src/core/part.c</span></strike>=
+</span></span><br></font></span></div><div style=3D"background-co=
+lor: rgb(255, 255, 255);"><span data-wiz-span=3D"data-wiz-span"><=
+div><span style=3D"font-size: 13.005px; line-height: 20.808px;">/=
+* Copyright Statement:</span></div><div><span style=3D"font-size:=
+ 13.005px; line-height: 20.808px;">&nbsp;*</span></div><div><span=
+ style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;* Th=
+is software/firmware and related documentation ("MediaTek Softwar=
+e") are</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;">&nbsp;* protected under relevant copyright la=
+ws. The information contained herein is</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;* confi=
+dential and proprietary to MediaTek Inc. and/or its licensors. Wi=
+thout</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp;* the prior written permission of MediaTe=
+k inc. and/or its licensors, any</span></div><div><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;">&nbsp;* reproduction=
+, modification, use or disclosure of MediaTek Software, and</span=
+></div><div><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;">&nbsp;* information contained herein, in whole or in part,=
+ shall be strictly</span></div><div><span style=3D"font-size: 13.=
+005px; line-height: 20.808px;">&nbsp;* prohibited.</span></div><d=
+iv><span style=3D"font-size: 13.005px; line-height: 20.808px;">&n=
+bsp;*</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp;* MediaTek Inc. (C) 2010. All rights rese=
+rved.</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp;*</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp;* BY OPENING THIS FIL=
+E, RECEIVER HEREBY UNEQUIVOCALLY ACKNOWLEDGES AND AGREES</span></=
+div><div><span style=3D"font-size: 13.005px; line-height: 20.808p=
+x;">&nbsp;* THAT THE SOFTWARE/FIRMWARE AND ITS DOCUMENTATIONS ("M=
+EDIATEK SOFTWARE")</span></div><div><span style=3D"font-size: 13.=
+005px; line-height: 20.808px;">&nbsp;* RECEIVED FROM MEDIATEK AND=
+/OR ITS REPRESENTATIVES ARE PROVIDED TO RECEIVER</span></div><div=
+><span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbs=
+p;* ON AN "AS-IS" BASIS ONLY. MEDIATEK EXPRESSLY DISCLAIMS ANY AN=
+D ALL</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp;* WARRANTIES, EXPRESS OR IMPLIED, INCLUDI=
+NG BUT NOT LIMITED TO THE IMPLIED</span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;">&nbsp;* WARRANTIES=20=
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR</span></d=
+iv><div><span style=3D"font-size: 13.005px; line-height: 20.808px=
+;">&nbsp;* NONINFRINGEMENT. NEITHER DOES MEDIATEK PROVIDE ANY WAR=
+RANTY WHATSOEVER WITH</span></div><div><span style=3D"font-size:=20=
+13.005px; line-height: 20.808px;">&nbsp;* RESPECT TO THE SOFTWARE=
+ OF ANY THIRD PARTY WHICH MAY BE USED BY,</span></div><div><span=20=
+style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;* INC=
+ORPORATED IN, OR SUPPLIED WITH THE MEDIATEK SOFTWARE, AND RECEIVE=
+R AGREES</span></div><div><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;">&nbsp;* TO LOOK ONLY TO SUCH THIRD PARTY FOR=
+ ANY WARRANTY CLAIM RELATING THERETO.</span></div><div><span styl=
+e=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;* RECEIVE=
+R EXPRESSLY ACKNOWLEDGES THAT IT IS RECEIVER'S SOLE RESPONSIBILIT=
+Y TO</span></div><div><span style=3D"font-size: 13.005px; line-he=
+ight: 20.808px;">&nbsp;* OBTAIN FROM ANY THIRD PARTY ALL PROPER L=
+ICENSES CONTAINED IN MEDIATEK</span></div><div><span style=3D"fon=
+t-size: 13.005px; line-height: 20.808px;">&nbsp;* SOFTWARE. MEDIA=
+TEK SHALL ALSO NOT BE RESPONSIBLE FOR ANY MEDIATEK SOFTWARE</span=
+></div><div><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;">&nbsp;* RELEASES MADE TO RECEIVER'S SPECIFICATION OR TO CO=
+NFORM TO A PARTICULAR</span></div><div><span style=3D"font-size:=20=
+13.005px; line-height: 20.808px;">&nbsp;* STANDARD OR OPEN FORUM.=
+ RECEIVER'S SOLE AND EXCLUSIVE REMEDY AND MEDIATEK'S</span></div>=
+<div><span style=3D"font-size: 13.005px; line-height: 20.808px;">=
+&nbsp;* ENTIRE AND CUMULATIVE LIABILITY WITH RESPECT TO THE MEDIA=
+TEK SOFTWARE</span></div><div><span style=3D"font-size: 13.005px;=
+ line-height: 20.808px;">&nbsp;* RELEASED HEREUNDER WILL BE, AT M=
+EDIATEK'S OPTION, TO REVISE OR REPLACE THE</span></div><div><span=
+ style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;* ME=
+DIATEK SOFTWARE AT ISSUE, OR REFUND ANY SOFTWARE LICENSE FEES OR=20=
+SERVICE</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;">&nbsp;* CHARGE PAID BY RECEIVER TO MEDIATEK F=
+OR SUCH MEDIATEK SOFTWARE AT ISSUE.</span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;">&nbsp;*</span></div=
+><div><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+>&nbsp;* The following software/firmware and/or related documenta=
+tion ("MediaTek</span></div><div><span style=3D"font-size: 13.005=
+px; line-height: 20.808px;">&nbsp;* Software") have been modified=
+ by MediaTek Inc. All revisions are subject to</span></div><div><=
+span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;=
+* any receiver's applicable license agreements with MediaTek Inc.=
+</span></div><div><span style=3D"font-size: 13.005px; line-height=
+: 20.808px;">&nbsp;*/</span></div><div><span style=3D"font-size:=20=
+13.005px; line-height: 20.808px;"><br></span></div><div><span sty=
+le=3D"font-size: 13.005px; line-height: 20.808px;">#include "type=
+defs.h"</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;">#include "platform.h"</span></div><div><span=20=
+style=3D"font-size: 13.005px; line-height: 20.808px;">#include "b=
+lkdev.h"</span></div><div><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;">#include "partition.h"</span></div><div><spa=
+n style=3D"font-size: 13.005px; line-height: 20.808px;">#include=20=
+"gfh.h"</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;">#include "dram_buffer.h"</span></div><div><sp=
+an style=3D"font-size: 13.005px; line-height: 20.808px;">#include=
+ "sec_boot.h"</span></div><div><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;"><br></span></div><div><span style=3D"fo=
+nt-size: 13.005px; line-height: 20.808px;">#define MOD "PART"</sp=
+an></div><div><span style=3D"font-size: 13.005px; line-height: 20=
+.808px;"><br></span></div><div><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;">#define TO_BLKS_ALIGN(size, blksz) &nbs=
+p;(((size) + (blksz) - 1) / (blksz))</span></div><div><span style=
+=3D"font-size: 13.005px; line-height: 20.808px;"><br></span></div=
+><div><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+>u8 g_cur_part_name[32] =3D {0};</span></div><div><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;">typedef union {</spa=
+n></div><div><span style=3D"font-size: 13.005px; line-height: 20.=
+808px;">&nbsp; &nbsp; part_hdr_t &nbsp; &nbsp; &nbsp;part_hdr;</s=
+pan></div><div><span style=3D"font-size: 13.005px; line-height: 2=
+0.808px;">&nbsp; &nbsp; gfh_file_info_t file_info_hdr;</span></di=
+v><div><span style=3D"font-size: 13.005px; line-height: 20.808px;=
+">} img_hdr_t;</span></div><div><span style=3D"font-size: 13.005p=
+x; line-height: 20.808px;"><br></span></div><div><span style=3D"f=
+ont-size: 13.005px; line-height: 20.808px;">#define IMG_HDR_BUF_S=
+IZE 512</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;"><br></span></div><div><span style=3D"font-siz=
+e: 13.005px; line-height: 20.808px;">#define img_hdr_buf (g_dram_=
+buf-&gt;img_hdr_buf)</span></div><div><span style=3D"font-size: 1=
+3.005px; line-height: 20.808px;">#define part_num (g_dram_buf-&gt=
+;part_num)</span></div><div><span style=3D"font-size: 13.005px; l=
+ine-height: 20.808px;">#define part_info (g_dram_buf-&gt;part_inf=
+o)</span></div><div><span style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px;"><br></span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;">#define partition_info &nbsp;(g_d=
+ram_buf-&gt;partition_info)</span></div><div><span style=3D"font-=
+size: 13.005px; line-height: 20.808px;">#define meta_info &nbsp;=20=
+&nbsp; &nbsp; (g_dram_buf-&gt;meta_info)</span></div><div><span s=
+tyle=3D"font-size: 13.005px; line-height: 20.808px;"><br></span><=
+/div><div><span style=3D"font-size: 13.005px; line-height: 20.808=
+px;">extern int read_gpt(part_t *part);</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;"><br></span></=
+div><div><span style=3D"font-size: 13.005px; line-height: 20.808p=
+x;">static int (*read_partition[])(part_t *) =3D {</span></div><d=
+iv><span style=3D"font-size: 13.005px; line-height: 20.808px;">&n=
+bsp; &nbsp; read_gpt,</span></div><div><span style=3D"font-size:=20=
+13.005px; line-height: 20.808px;">&nbsp; &nbsp; NULL</span></div>=
+<div><span style=3D"font-size: 13.005px; line-height: 20.808px;">=
+};</span></div><div><span style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px;"><br></span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;"><br></span></div><div><span style=
+=3D"font-size: 13.005px; line-height: 20.808px;">int part_init(vo=
+id)</span></div><div><span style=3D"font-size: 13.005px; line-hei=
+ght: 20.808px;">{</span></div><div><span style=3D"font-size: 13.0=
+05px; line-height: 20.808px;">&nbsp; &nbsp; int err, i;</span></d=
+iv><div><span style=3D"font-size: 13.005px; line-height: 20.808px=
+;">&nbsp; &nbsp; part_num =3D 0;</span></div><div><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; memset=
+(part_info, 0x00, sizeof(part_info));</span></div><div><span styl=
+e=3D"font-size: 13.005px; line-height: 20.808px;"><br></span></di=
+v><div><span style=3D"font-size: 13.005px; line-height: 20.808px;=
+">&nbsp; &nbsp; memset(partition_info, 0x0, sizeof(partition_info=
+));</span></div><div><span style=3D"font-size: 13.005px; line-hei=
+ght: 20.808px;">&nbsp; &nbsp; memset(meta_info, 0x0, sizeof(meta_=
+info));</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;"><br></span></div><div><span style=3D"font-siz=
+e: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; err =3D 0;</sp=
+an></div><div><span style=3D"font-size: 13.005px; line-height: 20=
+.808px;">&nbsp; &nbsp; i =3D 0;</span></div><div><span style=3D"f=
+ont-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; while (=
+read_partition[i]) {</span></div><div><span style=3D"font-size: 1=
+3.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; err=20=
+=3D read_partition[i](partition_info);</span></div><div><span sty=
+le=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=20=
+&nbsp; &nbsp; if (!err) {</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; break;</span></div><div><span style=3D"font-size:=20=
+13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; }</=
+span></div><div><span style=3D"font-size: 13.005px; line-height:=20=
+20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; i++;</span></div><div><spa=
+n style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &n=
+bsp; }</span></div><div><span style=3D"font-size: 13.005px; line-=
+height: 20.808px;"><br></span></div><div><span style=3D"font-size=
+: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; return 0;</span=
+></div><div><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;">}</span></div><div><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;"><br></span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;"><br></span></div><div><span=
+ style=3D"font-size: 13.005px; line-height: 20.808px;">static par=
+t_t tempart;</span></div><div><span style=3D"font-size: 13.005px;=
+ line-height: 20.808px;">static struct part_meta_info temmeta;</s=
+pan></div><div><span style=3D"font-size: 13.005px; line-height: 2=
+0.808px;"><br></span></div><div><span style=3D"font-size: 13.005p=
+x; line-height: 20.808px;">part_t *get_part(char *name)</span></d=
+iv><div><span style=3D"font-size: 13.005px; line-height: 20.808px=
+;">{</span></div><div><span style=3D"font-size: 13.005px; line-he=
+ight: 20.808px;">&nbsp; &nbsp; part_t *part =3D partition_info;</=
+span></div><div><span style=3D"font-size: 13.005px; line-height:=20=
+20.808px;">&nbsp; &nbsp; part_t *ret =3D NULL;</span></div><div><=
+span style=3D"font-size: 13.005px; line-height: 20.808px;"><br></=
+span></div><div><span style=3D"font-size: 13.005px; line-height:=20=
+20.808px;">&nbsp; &nbsp; while (part-&gt;nr_sects) {</span></div>=
+<div><span style=3D"font-size: 13.005px; line-height: 20.808px;">=
+&nbsp; &nbsp; &nbsp; &nbsp; if (part-&gt;info) {</span></div><div=
+><span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if (!strcmp(name, part-&gt;=
+info-&gt;name)) {</span></div><div><span style=3D"font-size: 13.0=
+05px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; memcpy(&amp;tempart, part, sizeof(part_t));<=
+/span></div><div><span style=3D"font-size: 13.005px; line-height:=
+ 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; memcpy(&amp;temmeta, part-&gt;info, sizeof(struct part_meta_in=
+fo));</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; tempart.info =3D &amp;temmeta;</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ret =3D &amp;tempart;<=
+/span></div><div><span style=3D"font-size: 13.005px; line-height:=
+ 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; break;</span></div><div><span style=3D"font-size: 13.005px; li=
+ne-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }=
+</span></div><div><span style=3D"font-size: 13.005px; line-height=
+: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; }</span></div><div><span=
+ style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nb=
+sp; &nbsp; &nbsp; part++;</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; }</span></div=
+><div><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+><br></span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp; &nbsp; return ret;</span></div><div><spa=
+n style=3D"font-size: 13.005px; line-height: 20.808px;">}</span><=
+/div><div><span style=3D"font-size: 13.005px; line-height: 20.808=
+px;"><br></span></div><div><span style=3D"font-size: 13.005px; li=
+ne-height: 20.808px;">part_t *part_get(char *name)</span></div><d=
+iv><span style=3D"font-size: 13.005px; line-height: 20.808px;">{<=
+/span></div><div><span style=3D"font-size: 13.005px; line-height:=
+ 20.808px;">&nbsp; &nbsp; /* this api corrupts if length of name=20=
+is &gt; 32 */</span></div><div><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;">&nbsp; &nbsp; memcpy(g_cur_part_name, n=
+ame, 32);</span></div><div><span style=3D"font-size: 13.005px; li=
+ne-height: 20.808px;">&nbsp; &nbsp; return get_part(name);</span>=
+</div><div><span style=3D"font-size: 13.005px; line-height: 20.80=
+8px;">}</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;"><br></span></div><div><span style=3D"font-siz=
+e: 13.005px; line-height: 20.808px;">void put_part(part_t *part)<=
+/span></div><div><span style=3D"font-size: 13.005px; line-height:=
+ 20.808px;">{</span></div><div><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;">&nbsp; &nbsp; return;</span></div><div>=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;">}</sp=
+an></div><div><span style=3D"font-size: 13.005px; line-height: 20=
+.808px;"><br></span></div><div><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;">/* return &gt; 0 if active bit exist, r=
+eturn =3D 0 if active bit is not existed*/</span></div><div><span=
+ style=3D"font-size: 13.005px; line-height: 20.808px;">unsigned l=
+ong mt_part_get_active_bit(part_t *part)</span></div><div><span s=
+tyle=3D"font-size: 13.005px; line-height: 20.808px;">{</span></di=
+v><div><span style=3D"font-size: 13.005px; line-height: 20.808px;=
+"><span class=3D"Apple-tab-span" style=3D"white-space:pre">	</spa=
+n>return (part-&gt;part_attr &amp; PART_ATTR_LEGACY_BIOS_BOOTABLE=
+);</span></div><div><span style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px;">}</span></div><div><span style=3D"font-size: 13.00=
+5px; line-height: 20.808px;"><br></span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;">int get_part_info(u=
+8 *buf, u32 *maddr, u32 *dsize, u32 *mode, u8 bMsg)</span></div><=
+div><span style=3D"font-size: 13.005px; line-height: 20.808px;">{=
+</span></div><div><span style=3D"font-size: 13.005px; line-height=
+: 20.808px;">&nbsp; &nbsp; int ret =3D 0;</span></div><div><span=20=
+style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbs=
+p; part_hdr_t *part_hdr =3D buf;</span></div><div><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;"><br></span></div><di=
+v><span style=3D"font-size: 13.005px; line-height: 20.808px;">&nb=
+sp; &nbsp; if (part_hdr-&gt;info.magic =3D=3D PART_MAGIC) {</span=
+></div><div><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;"><br></span></div><div><span style=3D"font-size: 13.005px;=20=
+line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; /* load image=
+ with partition header */</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp;=
+ part_hdr-&gt;info.name[31] =3D '\0';</span></div><div><span styl=
+e=3D"font-size: 13.005px; line-height: 20.808px;"><br></span></di=
+v><div><span style=3D"font-size: 13.005px; line-height: 20.808px;=
+">&nbsp; &nbsp; &nbsp; &nbsp; if (bMsg) {</span></div><div><span=20=
+style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; print("[%s] partition hdr (1)\n",=20=
+MOD);</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; print=
+("[%s] Image with part header\n", MOD);</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; print("[%s] name : %s\n", MOD, part_=
+hdr-&gt;info.name);</span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; print("[%s] addr : %xh mode : %d\n", MOD, part_hdr-&gt;i=
+nfo.maddr, part_hdr-&gt;info.mode);</span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; print("[%s] size : %d\n", MOD, part_hdr-&g=
+t;info.dsize);</span></div><div><span style=3D"font-size: 13.005p=
+x; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; print("[%s] magic: %xh\n", MOD, part_hdr-&gt;info.magic);</sp=
+an></div><div><span style=3D"font-size: 13.005px; line-height: 20=
+.808px;">&nbsp; &nbsp; &nbsp; &nbsp; }</span></div><div><span sty=
+le=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;&=
+nbsp;</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; *maddr =3D part_hdr=
+-&gt;info.maddr;</span></div><div><span style=3D"font-size: 13.00=
+5px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; *dsize =3D=
+ part_hdr-&gt;info.dsize;</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp;=
+ *mode =3D part_hdr-&gt;info.mode;</span></div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space: pre; font-size: 13.005px;=20=
+line-height: 20.808px;">	</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; } else {</spa=
+n></div><div><span style=3D"font-size: 13.005px; line-height: 20.=
+808px;">&nbsp; &nbsp; &nbsp; &nbsp; if (bMsg) {</span></div><div>=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; print("[%s] partition hdr (0=
+)\n", MOD);</span></div><div><span style=3D"font-size: 13.005px;=20=
+line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; }</span></div=
+><div><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+>&nbsp; &nbsp; &nbsp; &nbsp; return -1;</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=
+ }</span></div><div><span style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px;"><br></span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;">&nbsp; &nbsp; return ret;</span><=
+/div><div><span style=3D"font-size: 13.005px; line-height: 20.808=
+px;">}</span></div><div><span style=3D"font-size: 13.005px; line-=
+height: 20.808px;"><br></span></div><div><span style=3D"font-size=
+: 13.005px; line-height: 20.808px;">int part_load(blkdev_t *bdev,=
+ part_t *part, u32 *addr, u32 offset, u32 *size)</span></div><div=
+><span style=3D"font-size: 13.005px; line-height: 20.808px;">{</s=
+pan></div><div><span style=3D"font-size: 13.005px; line-height: 2=
+0.808px;">&nbsp; &nbsp; int ret;</span></div><div><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; img_hd=
+r_t *hdr =3D (img_hdr_t *)img_hdr_buf;</span></div><div><span sty=
+le=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=20=
+part_hdr_t *part_hdr =3D &amp;hdr-&gt;part_hdr;</span></div><div>=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp=
+; &nbsp; gfh_file_info_t *file_info_hdr =3D &amp;hdr-&gt;file_inf=
+o_hdr;</span></div><div><span style=3D"font-size: 13.005px; line-=
+height: 20.808px;">&nbsp; &nbsp; unsigned int sec_policy_idx =3D=20=
+0;</span></div><div><span style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px;">&nbsp; &nbsp; unsigned int img_auth_required =3D 0=
+;</span></div><div><span style=3D"font-size: 13.005px; line-heigh=
+t: 20.808px;">&nbsp; &nbsp; unsigned int sec_feature_mask =3D 0;<=
+/span></div><div><span style=3D"font-size: 13.005px; line-height:=
+ 20.808px;"><br></span></div><div><span style=3D"font-size: 13.00=
+5px; line-height: 20.808px;">&nbsp; &nbsp; /* specify the read of=
+fset */</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;">&nbsp; &nbsp; u64 src =3D (u64)(part-&gt;star=
+t_sect * bdev-&gt;blksz) + offset;</span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; u32 d=
+size =3D 0, maddr =3D 0, mode =3D 0;</span></div><div><span style=
+=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; u3=
+2 ms;</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">#ifdef MTK_SECURITY_SW_SUPPORT</span></div><div=
+><span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbs=
+p; &nbsp; /* get security policy of current partition */</span></=
+div><div><span style=3D"font-size: 13.005px; line-height: 20.808p=
+x;">&nbsp; &nbsp; print("[%s] partition name =3D %s\n", MOD, g_cu=
+r_part_name);</span></div><div><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;">&nbsp; &nbsp; sec_policy_idx =3D get_po=
+licy_entry_idx(g_cur_part_name);</span></div><div><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; img_au=
+th_required =3D get_vfy_policy(sec_policy_idx);</span></div><div>=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp=
+; &nbsp; print("[%s] img_auth_required =3D %x\n", MOD, img_auth_r=
+equired);</span></div><div><span style=3D"font-size: 13.005px; li=
+ne-height: 20.808px;">#endif</span></div><div><span style=3D"font=
+-size: 13.005px; line-height: 20.808px;"><br></span></div><div><s=
+pan style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;=20=
+&nbsp; /* retrieve partition header. */</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=
+ if (blkdev_read(bdev, src, sizeof(img_hdr_t), (u8*)hdr, part-&gt=
+;part_id) !=3D 0) {</span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; //pri=
+nt("[%s] bdev(%d) read error (%s)\n", MOD, bdev-&gt;type, part-&g=
+t;name);</span></div><div><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; return -1;</span=
+></div><div><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;">&nbsp; &nbsp; }</span></div><div><span style=3D"font-size:=
+ 13.005px; line-height: 20.808px;"><br></span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=
+ ret =3D get_part_info((u8 *)part_hdr, &amp;maddr, &amp;dsize, &a=
+mp;mode, 1);</span></div><div><span style=3D"font-size: 13.005px;=
+ line-height: 20.808px;">&nbsp; &nbsp; if (ret) {</span></div><di=
+v><span style=3D"font-size: 13.005px; line-height: 20.808px;">&nb=
+sp; &nbsp; &nbsp; &nbsp; print("[%s] image doesn't exist\n", MOD)=
+;</span></div><div><span style=3D"font-size: 13.005px; line-heigh=
+t: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; return ret;</span></div=
+><div><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+>&nbsp; &nbsp; }</span></div><div><span style=3D"font-size: 13.00=
+5px; line-height: 20.808px;"><br></span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;">#ifdef MTK_SECURITY=
+_SW_SUPPORT</span></div><div><span style=3D"font-size: 13.005px;=20=
+line-height: 20.808px;">&nbsp; &nbsp; ms =3D get_timer(0);</span>=
+</div><div><span style=3D"font-size: 13.005px; line-height: 20.80=
+8px;">&nbsp; &nbsp; if (img_auth_required) {</span></div><div><sp=
+an style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &=
+nbsp; &nbsp; &nbsp; sec_malloc_buf_reset();</span></div><div><spa=
+n style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &n=
+bsp; &nbsp; &nbsp; #ifdef MTK_SECURITY_ANTI_ROLLBACK</span></div>=
+<div><span style=3D"font-size: 13.005px; line-height: 20.808px;">=
+&nbsp; &nbsp; &nbsp; &nbsp; sec_feature_mask |=3D SEC_FEATURE_MAS=
+K_ANTIROLLBACK;</span></div><div><span style=3D"font-size: 13.005=
+px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; #endif</s=
+pan></div><div><span style=3D"font-size: 13.005px; line-height: 2=
+0.808px;">&nbsp; &nbsp; &nbsp; &nbsp; ret =3D sec_img_auth_init(g=
+_cur_part_name, part_hdr-&gt;info.name, sec_feature_mask);</span>=
+</div><div><span style=3D"font-size: 13.005px; line-height: 20.80=
+8px;">&nbsp; &nbsp; &nbsp; &nbsp; if (ret) {</span></div><div><sp=
+an style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; print("[%s] cert chain vfy fail=
+...\n", MOD);</span></div><div><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; ASSERT(0);</span></div><div><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; }</span></d=
+iv><div><span style=3D"font-size: 13.005px; line-height: 20.808px=
+;">&nbsp; &nbsp; &nbsp; &nbsp; /*add anti roll back hook*/</span>=
+</div><div><span style=3D"font-size: 13.005px; line-height: 20.80=
+8px;">&nbsp; &nbsp; &nbsp; &nbsp; #ifdef MTK_SECURITY_ANTI_ROLLBA=
+CK</span></div><div><span style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; ret =3D sec_rollback_c=
+heck(0);</span></div><div><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; if (ret) {</span=
+></div><div><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; print("[%s] img=20=
+ver check fail...\n", MOD);</span></div><div><span style=3D"font-=
+size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; ASSERT(0);</span></div><div><span style=3D"font-=
+size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbs=
+p; }</span></div><div><span style=3D"font-size: 13.005px; line-he=
+ight: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; #endif</span></div><=
+div><span style=3D"font-size: 13.005px; line-height: 20.808px;">&=
+nbsp; &nbsp; }</span></div><div><span style=3D"font-size: 13.005p=
+x; line-height: 20.808px;">&nbsp; &nbsp; ms =3D get_timer(ms);</s=
+pan></div><div><span style=3D"font-size: 13.005px; line-height: 2=
+0.808px;">&nbsp; &nbsp; print("[%s] part: %s img: %s cert vfy(%d=20=
+ms)\n", MOD, g_cur_part_name, part_hdr-&gt;info.name, ms);</span>=
+</div><div><span style=3D"font-size: 13.005px; line-height: 20.80=
+8px;">#endif</span></div><div><span style=3D"font-size: 13.005px;=
+ line-height: 20.808px;">&nbsp; &nbsp; /* discard partition heaed=
+er */</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp; &nbsp; src +=3D sizeof(part_hdr_t);</spa=
+n></div><div><span style=3D"font-size: 13.005px; line-height: 20.=
+808px;"><br></span></div><div><span style=3D"font-size: 13.005px;=
+ line-height: 20.808px;"><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre">	</span>memcpy(part_info + part_num, part_hdr, s=
+izeof(part_hdr_t));</span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;"><span class=3D"Apple-tab-span" st=
+yle=3D"white-space:pre">	</span>part_num++;</span></div><div><spa=
+n style=3D"font-size: 13.005px; line-height: 20.808px;"><br></spa=
+n></div><div><span style=3D"font-size: 13.005px; line-height: 20.=
+808px;">&nbsp; &nbsp; if (maddr =3D=3D PART_HEADER_DEFAULT_ADDR)=20=
+{</span></div><div><span style=3D"font-size: 13.005px; line-heigh=
+t: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; maddr =3D *addr;</span>=
+</div><div><span style=3D"font-size: 13.005px; line-height: 20.80=
+8px;">#if CFG_ATF_SUPPORT</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; } else if (mo=
+de =3D=3D LOAD_ADDR_MODE_BACKWARD) {</span></div><div><span style=
+=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &n=
+bsp; &nbsp; maddr =3D tee_get_load_addr(maddr);</span></div><div>=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;">#endi=
+f</span></div><div><span style=3D"font-size: 13.005px; line-heigh=
+t: 20.808px;">&nbsp; &nbsp; }</span></div><div><span style=3D"fon=
+t-size: 13.005px; line-height: 20.808px;"><br></span></div><div><=
+span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;=
+ &nbsp; ms =3D get_timer(0);</span></div><div><span style=3D"font=
+-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; if (0 =3D=3D=
+ (ret =3D blkdev_read(bdev, src, dsize, (u8*)maddr, part-&gt;part=
+_id))) {</span></div><div><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; if (addr) *addr=20=
+=3D maddr;</span></div><div><span style=3D"font-size: 13.005px; l=
+ine-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; if (size) *siz=
+e =3D dsize;</span></div><div><span style=3D"font-size: 13.005px;=
+ line-height: 20.808px;">&nbsp; &nbsp; }</span></div><div><span s=
+tyle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp=
+; ms =3D get_timer(ms);</span></div><div><span style=3D"font-size=
+: 13.005px; line-height: 20.808px;"><br></span></div><div><span s=
+tyle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp=
+; print("\n[%s] load \"%s\" from 0x%llx (dev) to 0x%x (mem) [%s]\=
+n", MOD,</span></div><div><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; part-&gt;info-&g=
+t;name, src, maddr, (ret =3D=3D 0) ? "SUCCESS" : "FAILED");</span=
+></div><div><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;"><br></span></div><div><span style=3D"font-size: 13.005px;=20=
+line-height: 20.808px;">&nbsp; &nbsp; ms =3D (ms =3D=3D 0) ? 1 :=20=
+ms;</span></div><div><span style=3D"font-size: 13.005px; line-hei=
+ght: 20.808px;"><br></span></div><div><span style=3D"font-size: 1=
+3.005px; line-height: 20.808px;">&nbsp; &nbsp; print("[%s] load s=
+peed: %dKB/s, %d bytes, %dms\n", MOD, ((dsize / ms) * 1000) / 102=
+4, dsize, ms);</span></div><div><span style=3D"font-size: 13.005p=
+x; line-height: 20.808px;">#ifdef MTK_SECURITY_SW_SUPPORT</span><=
+/div><div><span style=3D"font-size: 13.005px; line-height: 20.808=
+px;">&nbsp; &nbsp; ms =3D get_timer(0);</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=
+ if (img_auth_required) {</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp;=
+ unsigned int cert_chain_sz =3D 0;</span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp=
+; &nbsp; unsigned int padding_sz =3D 0;</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=
+ &nbsp; &nbsp; print("[%s] img vfy...", MOD);</span></div><div><s=
+pan style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;=20=
+&nbsp; &nbsp; &nbsp; ret =3D sec_img_auth(maddr, dsize);</span></=
+div><div><span style=3D"font-size: 13.005px; line-height: 20.808p=
+x;">&nbsp; &nbsp; &nbsp; &nbsp; if (ret) {</span></div><div><span=
+ style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; print("fail\n");</span></div><div=
+><span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ASSERT(0);</span></div><div=
+><span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbs=
+p; &nbsp; &nbsp; &nbsp; }</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp;=
+ else {</span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; pri=
+nt("ok\n");</span></div><div><span style=3D"font-size: 13.005px;=20=
+line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; }</span></div=
+><div><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+>&nbsp; &nbsp; }</span></div><div><span style=3D"font-size: 13.00=
+5px; line-height: 20.808px;">&nbsp; &nbsp; ms =3D get_timer(ms);<=
+/span></div><div><span style=3D"font-size: 13.005px; line-height:=
+ 20.808px;">&nbsp; &nbsp; print("[%s] part: %s img: %s vfy(%d ms)=
+\n", MOD, g_cur_part_name, part_hdr-&gt;info.name, ms);</span></d=
+iv><div><span style=3D"font-size: 13.005px; line-height: 20.808px=
+;"><br></span></div><div><span style=3D"font-size: 13.005px; line=
+-height: 20.808px;">&nbsp; &nbsp; ret =3D sec_get_img_size(g_cur_=
+part_name, part_hdr-&gt;info.name, size);</span></div><div><span=20=
+style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbs=
+p; if (ret)</span></div><div><span style=3D"font-size: 13.005px;=20=
+line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; return ret;</=
+span></div><div><span style=3D"font-size: 13.005px; line-height:=20=
+20.808px;">#endif</span></div><div><span style=3D"font-size: 13.0=
+05px; line-height: 20.808px;"><br></span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; retur=
+n ret;</span></div><div><span style=3D"font-size: 13.005px; line-=
+height: 20.808px;">}</span></div><div><span style=3D"font-size: 1=
+3.005px; line-height: 20.808px;"><br></span></div><div><span styl=
+e=3D"font-size: 13.005px; line-height: 20.808px;">int part_load_r=
+aw_part(blkdev_t *bdev, part_t *part, u32 *addr, u32 offset, u32=20=
+*size)</span></div><div><span style=3D"font-size: 13.005px; line-=
+height: 20.808px;">{</span></div><div><span style=3D"font-size: 1=
+3.005px; line-height: 20.808px;">&nbsp; &nbsp; int ret;</span></d=
+iv><div><span style=3D"font-size: 13.005px; line-height: 20.808px=
+;">&nbsp; &nbsp; img_hdr_t *hdr =3D (img_hdr_t *)img_hdr_buf;</sp=
+an></div><div><span style=3D"font-size: 13.005px; line-height: 20=
+.808px;">&nbsp; &nbsp; part_hdr_t *part_hdr =3D &amp;hdr-&gt;part=
+_hdr;</span></div><div><span style=3D"font-size: 13.005px; line-h=
+eight: 20.808px;">&nbsp; &nbsp; gfh_file_info_t *file_info_hdr =3D=
+ &amp;hdr-&gt;file_info_hdr;</span></div><div><span style=3D"font=
+-size: 13.005px; line-height: 20.808px;"><br></span></div><div><s=
+pan style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;=20=
+&nbsp; /* specify the read offset */</span></div><div><span style=
+=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; u6=
+4 src =3D (u64)(part-&gt;start_sect * bdev-&gt;blksz) + offset;</=
+span></div><div><span style=3D"font-size: 13.005px; line-height:=20=
+20.808px;">&nbsp; &nbsp; u32 dsize =3D 0, maddr =3D 0;</span></di=
+v><div><span style=3D"font-size: 13.005px; line-height: 20.808px;=
+">&nbsp; &nbsp; u32 ms;</span></div><div><span style=3D"font-size=
+: 13.005px; line-height: 20.808px;"><br></span></div><div><span s=
+tyle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp=
+; ret =3D 0;</span></div><div><span style=3D"font-size: 13.005px;=
+ line-height: 20.808px;">&nbsp; &nbsp; /* retrieve partition head=
+er. */</span></div><div><span style=3D"font-size: 13.005px; line-=
+height: 20.808px;">&nbsp; &nbsp; if (blkdev_read(bdev, src, *size=
+, (u8*)(*addr), part-&gt;part_id) !=3D 0) {</span></div><div><spa=
+n style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &n=
+bsp; &nbsp; &nbsp; //print("[%s] bdev(%d) read error (%s)\n", MOD=
+, bdev-&gt;type, part-&gt;name);</span></div><div><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp;=
+ &nbsp; ret =3D -1;</span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;">&nbsp; &nbsp; }</span></div><div>=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;"><br><=
+/span></div><div><span style=3D"font-size: 13.005px; line-height:=
+ 20.808px;">&nbsp; &nbsp; return ret;</span></div><div><span styl=
+e=3D"font-size: 13.005px; line-height: 20.808px;">}</span></div><=
+div><span style=3D"font-size: 13.005px; line-height: 20.808px;"><=
+br></span></div><div><span style=3D"font-size: 13.005px; line-hei=
+ght: 20.808px;"><br></span></div><div><span style=3D"font-size: 1=
+3.005px; line-height: 20.808px;">void part_dump(void)</span></div=
+><div><span style=3D"font-size: 13.005px; line-height: 20.808px;"=
+>{</span></div><div><span style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px;">&nbsp; &nbsp; blkdev_t *bdev;</span></div><div><sp=
+an style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &=
+nbsp; part_t *part;</span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;">&nbsp; &nbsp; u32 blksz;</span></=
+div><div><span style=3D"font-size: 13.005px; line-height: 20.808p=
+x;">&nbsp; &nbsp; u64 start, end;</span></div><div><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;"><br></span></div><d=
+iv><span style=3D"font-size: 13.005px; line-height: 20.808px;">&n=
+bsp; &nbsp; bdev =3D blkdev_get(CFG_BOOT_DEV);</span></div><div><=
+span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp;=
+ &nbsp; part =3D partition_info;</span></div><div><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; blksz=20=
+=3D bdev-&gt;blksz;</span></div><div><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;"><br></span></div><div><span style=
+=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; pr=
+int("\n[%s] blksz: %dB\n", MOD, blksz);</span></div><div><span st=
+yle=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp;=
+ while (part-&gt;nr_sects) {</span></div><div><span style=3D"font=
+-size: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nb=
+sp; start =3D (u64)part-&gt;start_sect * blksz;</span></div><div>=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;">&nbsp=
+; &nbsp; &nbsp; &nbsp; end =3D (u64)(part-&gt;start_sect + part-&=
+gt;nr_sects) * blksz - 1;</span></div><div><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp;=
+ print("[%s] [0x%llx-0x%llx] \"%s\" (%d blocks) \n", MOD, start,=20=
+end,</span></div><div><span style=3D"font-size: 13.005px; line-he=
+ight: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (part-=
+&gt;info) ? (char *)part-&gt;info-&gt;name : "unknown", part-&gt;=
+nr_sects);</span></div><div><span style=3D"font-size: 13.005px; l=
+ine-height: 20.808px;">&nbsp; &nbsp; &nbsp; &nbsp; part++;</span>=
+</div><div><span style=3D"font-size: 13.005px; line-height: 20.80=
+8px;">&nbsp; &nbsp; }</span></div><div><span style=3D"font-size:=20=
+13.005px; line-height: 20.808px;">}</span></div><div style=3D"col=
+or: rgb(0, 0, 0); font-size: 13.005px; line-height: 20.808px;"><b=
+r></div></span></div></body></html>
+
+------=_Next_Part_0138457875.778--
+
+------=_Next_Part_0415373625.529--
+

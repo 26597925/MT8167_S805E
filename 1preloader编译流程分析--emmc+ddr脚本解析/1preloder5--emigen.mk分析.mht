@@ -1,0 +1,323 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?MXByZWxvZGVyNS0tZW1pZ2VuLm1rt9bO9g==?=
+Date: Date: Mon, 23 Oct 2017 08:42:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0415271343.333"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0415271343.333
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0138423781.673"
+
+
+------=_Next_Part_0138423781.673
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0138423781.673
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A<title>1preloder5=
+--emigen.mk=B7=D6=CE=F6</title>=0A    <!--mark |wiz_custom_css| f=
+or wizeditor replace it-->=0A<style id=3D"wiz_custom_css">html, b=
+ody {            font-size: 15px;        }        body {        =20=
+   font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=C5=
+=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;=
+            line-height: 1.6;            margin: 0;            pa=
+dding: 20px 15px;            padding: 1.33rem 1rem;        }    =20=
+   h1, h2, h3, h4, h5, h6 {            margin: 20px 0 10px;     =20=
+      margin: 1.33rem 0 0.667rem;            padding: 0;        =20=
+   font-weight: bold;        }        h1 {            font-size:=20=
+21px;            font-size: 1.4rem;        }        h2 {        =20=
+   font-size: 20px;            font-size: 1.33rem;        }     =20=
+  h3 {            font-size: 18px;            font-size: 1.2rem;=20=
+       }        h4 {            font-size: 17px;            font-=
+size: 1.13rem;        }        h5 {            font-size: 15px; =20=
+          font-size: 1rem;        }        h6 {            font-s=
+ize: 15px;            font-size: 1rem;            color: #777777;=
+            margin: 1rem 0;        }        div, p, ul, ol, dl, l=
+i {            margin: 0;        }        blockquote, table, pre,=
+ code {            margin: 8px 0;        }        ul, ol {      =20=
+     padding-left: 32px;            padding-left: 2.13rem;      =20=
+ }        blockquote {            padding: 0 12px;            pad=
+ding: 0 0.8rem;        }        blockquote > :first-child {     =20=
+      margin-top: 0;        }        blockquote > :last-child { =20=
+          margin-bottom: 0;        }        img {            bord=
+er: 0;            max-width: 100%;            height: auto !impor=
+tant;            margin: 2px 0;        }        table {         =20=
+  border-collapse: collapse;            border: 1px solid #bbbbbb=
+;        }        td, th {            padding: 4px 8px;         =20=
+  border-collapse: collapse;            border: 1px solid #bbbbbb=
+;			        }        @media only screen and (-webkit-max-device-w=
+idth: 1024px), only screen and (-o-max-device-width: 1024px), onl=
+y screen and (max-device-width: 1024px), only screen and (-webkit=
+-min-device-pixel-ratio: 3), only screen and (-o-min-device-pixel=
+-ratio: 3), only screen and (min-device-pixel-ratio: 3) {       =20=
+    html, body {                font-size: 17px;            }   =20=
+        body {                line-height: 1.7;                pa=
+dding: 0.75rem 0.9375rem;                color: #353c47;        =20=
+   }            h1 {                font-size: 2.125rem;        =20=
+   }            h2 {                font-size: 1.875rem;        =20=
+   }            h3 {                font-size: 1.625rem;        =20=
+   }            h4 {                font-size: 1.375rem;        =20=
+   }            h5 {                font-size: 1.125rem;        =20=
+   }            h6 {                color: inherit;            }=20=
+           ul, ol {                padding-left: 2.5rem;        =20=
+   }            blockquote {                padding: 0 0.9375rem;=
+            }        }</style></head>=0A=0A<body spellcheck=3D"fa=
+lse" ><div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">ifndef EMIGEN_OUT</span></div><div><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">EMIGEN=
+_OUT :=3D $(PRELOADER_OUT)</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">endif</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">export EMIGEN_OUT</span></div><div><br></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">AL=
+L_EMIGEN_FILE :=3D \</span></div><div><span class=3D"Apple-tab-sp=
+an" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">	</span></span><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">inc/custom_e=
+mi.h \</span></div><div><span class=3D"Apple-tab-span" style=3D"w=
+hite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">MTK_Loader_Info.tag</span>=
+</div><div><br></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">ifeq ($(MTK_PLATFORM),MT2601)</span=
+></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">ALL_EMIGEN_FILE +=3D \</span></div><div><span cla=
+ss=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">custom_emi.c</span></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">endif</span></div><div><b=
+r></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size:0.867rem">EMIGEN_FILE_LIST :=3D $(addprefix $(EMIGEN_OUT)/,$=
+(ALL_EMIGEN_FILE)) &nbsp;<span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"color: rgb(0, 0, 255);"><b><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">--&gt;=D5=E2=C0=EF=CE=AA</s=
+pan></b></span></span><span style=3D"font-size: 13.005px; line-he=
+ight: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 255);"><b><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">EMIGEN_FILE_LIST :=3D&nbsp;out/targ=
+et/product/jasz8167_tb_n/obj/PRELOADER_OBJ/inc/custom_emi.h &nbsp=
+; &nbsp;...../</span></b></span></span><b style=3D"color: rgb(0,=20=
+0, 255); font-size: 13.005px; line-height: 20.808px;"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">PRELOA<=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 25=
+5);">DER_OBJ/</span></span></b><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 255);"><b>MTK_Loader_Info.tag</b></span>=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size:0.867rem"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(255, 0, 0);"><b>CUSTOM_MEMORY_HDR </b></span>:=3D $(M=
+TK_PATH_CUSTOM)/inc/custom_MemoryDevice.h &nbsp;<b><span data-wiz=
+-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 255); font-size=
+: 0.867rem;">--&gt;=D5=E2=C0=EF=CE=AA</span></b></span><b><span s=
+tyle=3D"font-size: 13.005px; line-height: 20.808px;"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 255); font-si=
+ze: 0.867rem;">CUSTOM_MEMORY_HDR :=3D&nbsp;</span></span><span st=
+yle=3D"line-height: 1.6;"><span style=3D"font-size: 0.867rem; lin=
+e-height: 1.6;"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 255); font-size: 0.867rem;">vendor/mediatek/propri=
+etary/bootable/bootloader/preloader/custom/jasz8167_tb_n</span></=
+span></span><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 255); font-size: 0.867rem;">/inc/custom_MemoryDevice.h</spa=
+n></span></b></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem; background-color: rgb(192, 192, 192);"=
+>ifeq ($(MACH_TYPE),mt6735m)</span></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; background-color=
+: rgb(192, 192, 192);">MEMORY_DEVICE_XLS :=3D $(D_ROOT)/tools/emi=
+gen/MT6735/MemoryDeviceList_MT6735M.xls</span></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backg=
+round-color: rgb(192, 192, 192);">else ifeq ($(MACH_TYPE),mt6753)=
+</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; background-color: rgb(192, 192, 192);">MEMOR=
+Y_DEVICE_XLS :=3D $(D_ROOT)/tools/emigen/MT6735/MemoryDeviceList_=
+MT6753.xls</span></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; background-color: rgb(192, 192, 19=
+2);">else ifeq ($(MACH_TYPE),mt6737t)</span></div><div><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backgro=
+und-color: rgb(192, 192, 192);">MEMORY_DEVICE_XLS :=3D $(D_ROOT)/=
+tools/emigen/MT6735/MemoryDeviceList_MT6737T.xls</span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; background-color: rgb(192, 192, 192);">else ifeq ($(MACH_TYPE=
+),mt6737m)</span></div><div><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; background-color: rgb(192, 192, 19=
+2);">MEMORY_DEVICE_XLS :=3D $(D_ROOT)/tools/emigen/MT6735/MemoryD=
+eviceList_MT6737M.xls</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem; background-color: rgb(1=
+92, 192, 192);">else</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;"><b>MEMORY_DEVICE_XLS </=
+b>:=3D $(D_ROOT)/tools/emigen/$(MTK_PLATFORM)/MemoryDeviceList_$(=
+MTK_PLATFORM).xls</span></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size:0.867rem;color:rgb(0, 0, 255)"><b>=
+--&gt;=D5=E2=C0=EF=CE=AA</b></span><b style=3D"font-size: 15px; l=
+ine-height: 24px;"><span style=3D"font-size: 13.005px; line-heigh=
+t: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r: rgb(0, 0, 255);">MEMORY_DEVICE_XLS :=3D</span></span><span sty=
+le=3D"font-size: 13.005px; line-height: 20.808px;"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 255);">&nbsp;ve=
+ndor/mediatek/proprietary/bootable/bootloader/preloader/tools/emi=
+gen/MT8167/MemoryDeviceList_MT8167.xls</span></span></b><br></spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; background-color: rgb(192, 192, 192);">endif</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; background-color: rgb(192, 192, 192);">ifeq ($(PL=
+ATFORM), mt2601)</span></div><div><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem; background-color: rgb(192, 1=
+92, 192);">MEMORY_DEVICE_XLS :=3D $(TOOL_PATH)/emigen/$(MTK_PLATF=
+ORM)/MemoryDeviceList_$(MTK_PLATFORM).xls</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; bac=
+kground-color: rgb(192, 192, 192);">EMIGEN_SCRIPT :=3D $(TOOL_PAT=
+H)/emigen/$(MTK_PLATFORM)/emigen.pl</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backgroun=
+d-color: rgb(192, 192, 192);">else</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);"><b>=
+EMIGEN_SCRIPT </b></span>:=3D $(D_ROOT)/tools/emigen/$(MTK_PLATFO=
+RM)/emigen.pl &nbsp;<b><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 255);">--&gt;=D5=E2=C0=EF=CE=AA</span></b><=
+/span><b><span style=3D"font-size: 13.005px; line-height: 20.808p=
+x;"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 255);">EMIGEN_SCRIPT :=3D</span></span><span style=3D"font-siz=
+e: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 255);">&nbsp;</span></span><s=
+pan style=3D"line-height: 1.6;"><span style=3D"font-size: 13.005p=
+x; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 255);">vendor/mediatek/proprietary/boot=
+able/bootloader/preloader/tools/emigen/MT8167/</span></span></spa=
+n><font color=3D"#0000ff"><span style=3D"font-size: 13.005px; lin=
+e-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 255);">emigen.pl</span></span></font></b></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; background-color: rgb(192, 192, 192);">endif</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:0.8=
+67rem">EMIGEN_PREBUILT_PATH :=3D $(MTK_PATH_CUSTOM) &nbsp;<b><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 255);=
+ font-size: 0.867rem;">--&gt;</span></b></span><b><span style=3D"=
+font-size: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 255); font-size: 0.867r=
+em;">EMIGEN_PREBUILT_PATH :=3D&nbsp;</span></span><span style=3D"=
+font-size: 0.867rem; line-height: 1.6;"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 255); font-size: 0.867rem;=
+">vendor/mediatek/proprietary/bootable/bootloader/preloader/custo=
+m/jasz8167_tb_n</span></span></b></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size:0.867rem">EMIGEN_PREBUILT_CHEC=
+K :=3D $(filter-out $(wildcard $(addprefix $(EMIGEN_PREBUILT_PATH=
+)/,$(ALL_EMIGEN_FILE))),$(addprefix $(EMIGEN_PREBUILT_PATH)/,$(AL=
+L_EMIGEN_FILE))) &nbsp;<b><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 255); font-size: 0.867rem;">--&gt;</span=
+></b></span><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;"><b><span data-wiz-span=3D"data-wiz-span" style=3D"color:rg=
+b(0, 0, 255);font-size:0.867rem">=D5=E2=C0=EF=B5=C4=B7=B5=BB=D8=D6=
+=B5=CE=AA$</span></b></span><b><span style=3D"font-size: 13.005px=
+; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 255); font-size: 0.867rem;">ALL_EMIGEN_F=
+ILE</span></span><span style=3D"font-size: 13.005px; line-height:=
+ 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"color:=
+ rgb(0, 0, 255); font-size: 0.867rem;">&nbsp;</span></span></b></=
+div><div><br></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">#####################################=
+#########################</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;"># Emigen generate=20=
+parameter for header and tag files</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">#</span><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">BUILD_EMI_H :=3D 0</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">BUILD_LOADE=
+R_TAG :=3D 1</span></div><div><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">export EMIGEN_TAG_OUT :=3D $(EM=
+IGEN_OUT) &nbsp;<span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 255);"><b>--&gt;</b></span></span><b><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 255);">EMIGEN_TAG_OU=
+T :=3D&nbsp;</span></span><span style=3D"color: rgb(0, 0, 255); f=
+ont-size: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 25=
+5);">out/target/product/jasz8167_tb_n/obj/PRELOADER_OBJ</span></s=
+pan></b></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">export EMIGEN_H_OUT :=3D $(EMIGEN_OUT)/inc=
+ &nbsp;<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 255);"><b>--&gt;</b></span></span><b><span style=3D"font-si=
+ze: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 255);">EMIGEN_H_OUT</span></=
+span><span style=3D"font-size: 13.005px; line-height: 20.808px;">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 2=
+55);">&nbsp; :=3D&nbsp;</span></span><span style=3D"color: rgb(0,=
+ 0, 255); font-size: 13.005px; line-height: 20.808px;"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=20=
+rgb(0, 0, 255);">out/target/product/jasz8167_tb_n/obj/PRELOADER_O=
+BJ/inc</span></span></b></div><div><br></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; background-c=
+olor: rgb(255, 0, 0);">.PHONY: emigen</span></div><div><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backgro=
+und-color: rgb(255, 0, 0);">emigen: $(EMIGEN_FILE_LIST)</span></d=
+iv><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; background-color: rgb(192, 192, 192);"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">ifneq ($(EM=
+IGEN_PREBUILT_CHECK),) &nbsp;</span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color: rgb(0, 0, 255);"><b><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">--&gt;=D5=E2=C0=EF=
+=B2=BB=CE=AA=BF=D5=A3=AC=D7=DF=B8=C3=B7=D6=D6=A7</span></b></span=
+></span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;"><b><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(255, 0, 0);">$(EMIGEN_H_OUT)/custom_emi.h: $(E=
+MIGEN_SCRIPT) $(CUSTOM_MEMORY_HDR) $(MEMORY_DEVICE_XLS)</span></b=
+></span></div><div><span class=3D"Apple-tab-span" style=3D"white-=
+space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">	</span></span><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem;">@mkdir -p $(dir $@)</span></div=
+><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;"><b><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"color: rgb(255, 0, 0);">perl $(EMIGEN_SCRIPT) $(CUSTOM_MEMO=
+RY_HDR) $(MEMORY_DEVICE_XLS) $(MTK_PLATFORM) $(MTK_PROJECT) $(EMI=
+GEN_H_OUT) $(BUILD_EMI_H) $(MACH_TYPE)</span></b></span></div><di=
+v><br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">$(EMIGEN_TAG_OUT)/MTK_Loader_Info.tag: $(EMI=
+GEN_SCRIPT) $(CUSTOM_MEMORY_HDR) $(MEMORY_DEVICE_XLS)</span></div=
+><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem;">@mkdir -p $(dir $@)</span></div><div><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">	</span></s=
+pan><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem;">perl $(EMIGEN_SCRIPT) $(CUSTOM_MEMORY_HDR) $(MEMORY_DEVIC=
+E_XLS) $(MTK_PLATFORM) $(MTK_PROJECT) $(EMIGEN_TAG_OUT) $(BUILD_L=
+OADER_TAG) $(MACH_TYPE)</span></div><div><br></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backgr=
+ound-color: rgb(192, 192, 192);">else</span></div><div><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; backgro=
+und-color: rgb(192, 192, 192);">$(EMIGEN_FILE_LIST): $(EMIGEN_OUT=
+)/% : $(EMIGEN_PREBUILT_PATH)/%</span></div><div><span class=3D"A=
+pple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem; background-color: rgb=
+(192, 192, 192);">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem; background-color: rgb(192, 19=
+2, 192);">@mkdir -p $(dir $@)</span></div><div><span class=3D"App=
+le-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem; background-color: rgb(1=
+92, 192, 192);">	</span></span><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem; background-color: rgb(192, 192,=
+ 192);">cp -f $&lt; $@</span></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; background-color: rgb(=
+192, 192, 192);">endif</span></div><div><br></div></div></body></=
+html>
+
+------=_Next_Part_0138423781.673--
+
+------=_Next_Part_0415271343.333--
+

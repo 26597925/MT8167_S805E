@@ -1,0 +1,1089 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?M2xrMS0tyOu/2s7EvP5pbml0LnM=?=
+Date: Date: Mon, 23 Oct 2017 08:43:14 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0415423218.035"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0415423218.035
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0138474406.190"
+
+
+------=_Next_Part_0138474406.190
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0138474406.190
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A<title>3lk1--=C8=EB=
+=BF=DA=CE=C4=BC=FEinit.s</title>=0A    <!--mark |wiz_custom_css|=20=
+for wizeditor replace it-->=0A<style id=3D"wiz_custom_css">html,=20=
+body {            font-size: 15px;        }        body {       =20=
+    font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=C5=
+=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;=
+            line-height: 1.6;            margin: 0;            pa=
+dding: 20px 15px;            padding: 1.33rem 1rem;        }    =20=
+   h1, h2, h3, h4, h5, h6 {            margin: 20px 0 10px;     =20=
+      margin: 1.33rem 0 0.667rem;            padding: 0;        =20=
+   font-weight: bold;        }        h1 {            font-size:=20=
+21px;            font-size: 1.4rem;        }        h2 {        =20=
+   font-size: 20px;            font-size: 1.33rem;        }     =20=
+  h3 {            font-size: 18px;            font-size: 1.2rem;=20=
+       }        h4 {            font-size: 17px;            font-=
+size: 1.13rem;        }        h5 {            font-size: 15px; =20=
+          font-size: 1rem;        }        h6 {            font-s=
+ize: 15px;            font-size: 1rem;            color: #777777;=
+            margin: 1rem 0;        }        div, p, ul, ol, dl, l=
+i {            margin: 0;        }        blockquote, table, pre,=
+ code {            margin: 8px 0;        }        ul, ol {      =20=
+     padding-left: 32px;            padding-left: 2.13rem;      =20=
+ }        blockquote {            padding: 0 12px;            pad=
+ding: 0 0.8rem;        }        blockquote > :first-child {     =20=
+      margin-top: 0;        }        blockquote > :last-child { =20=
+          margin-bottom: 0;        }        img {            bord=
+er: 0;            max-width: 100%;            height: auto !impor=
+tant;            margin: 2px 0;        }        table {         =20=
+  border-collapse: collapse;            border: 1px solid #bbbbbb=
+;        }        td, th {            padding: 4px 8px;         =20=
+  border-collapse: collapse;            border: 1px solid #bbbbbb=
+;			        }        @media only screen and (-webkit-max-device-w=
+idth: 1024px), only screen and (-o-max-device-width: 1024px), onl=
+y screen and (max-device-width: 1024px), only screen and (-webkit=
+-min-device-pixel-ratio: 3), only screen and (-o-min-device-pixel=
+-ratio: 3), only screen and (min-device-pixel-ratio: 3) {       =20=
+    html, body {                font-size: 17px;            }   =20=
+        body {                line-height: 1.7;                pa=
+dding: 0.75rem 0.9375rem;                color: #353c47;        =20=
+   }            h1 {                font-size: 2.125rem;        =20=
+   }            h2 {                font-size: 1.875rem;        =20=
+   }            h3 {                font-size: 1.625rem;        =20=
+   }            h4 {                font-size: 1.375rem;        =20=
+   }            h5 {                font-size: 1.125rem;        =20=
+   }            h6 {                color: inherit;            }=20=
+           ul, ol {                padding-left: 2.5rem;        =20=
+   }            blockquote {                padding: 0 0.9375rem;=
+            }        }</style></head>=0A=0A<body spellcheck=3D"fa=
+lse" ><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;"><b><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(255, 0, 0);">vendor/mediatek/proprieta=
+ry/bootable/bootloader/lk/arch/arm/crt0.S</span></b></span><div><=
+/div><div><span data-wiz-span=3D"data-wiz-span"><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">/*</span></font></div><div><fo=
+nt color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">&nbsp;* Copyright (c)=
+ 2008 Travis Geiselbrecht</span></font></div><div><font color=3D"=
+#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem; color: rgb(0, 0, 0);">&nbsp;*</span></font></div><div=
+><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">&nbsp;* Permiss=
+ion is hereby granted, free of charge, to any person obtaining</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0,=
+ 0);">&nbsp;* a copy of this software and associated documentatio=
+n files</span></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=
+ rgb(0, 0, 0);">&nbsp;* (the "Software"), to deal in the Software=
+ without restriction,</span></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">&nbsp;* including without limitatio=
+n the rights to use, copy, modify, merge,</span></font></div><div=
+><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">&nbsp;* publish=
+, distribute, sublicense, and/or sell copies of the Software,</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">&nbsp;* and to permit persons to whom the Software is furnishe=
+d to do so,</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0);">&nbsp;* subject to the following conditions:<=
+/span></font></div><div><font color=3D"#ff0000"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=20=
+0, 0);">&nbsp;*</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+; color: rgb(0, 0, 0);">&nbsp;* The above copyright notice and th=
+is permission notice shall be</span></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; color: rgb(0, 0, 0);">&nbsp;* included in all cop=
+ies or substantial portions of the Software.</span></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">&nbsp;*</spa=
+n></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">&nbsp;* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF=20=
+ANY KIND,</span></font></div><div><font color=3D"#ff0000"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">&nbsp;* EXPRESS OR IMPLIED, INCLUDING BUT NOT L=
+IMITED TO THE WARRANTIES OF</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">&nbsp;* MERCHANTABILITY, FITNE=
+SS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">&nbsp;*=20=
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR=20=
+ANY</span></font></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb=
+(0, 0, 0);">&nbsp;* CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN=
+ AN ACTION OF CONTRACT,</span></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem; color: rgb(0, 0, 0);">&nbsp;* TORT OR OTHERWISE, ARISIN=
+G FROM, OUT OF OR IN CONNECTION WITH THE</span></font></div><div>=
+<font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">&nbsp;* SOFTWARE=
+ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</span></font></div=
+><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">&nbsp;*/</=
+span></font></div><div><font color=3D"#ff0000"><br></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#define DSB=20=
+.byte 0x4f, 0xf0, 0x7f, 0xf5</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">#define ISB .byte 0x6f, 0xf0,=20=
+0x7f, 0xf5</span></font></div><div><font color=3D"#ff0000"><br></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">=
+.section ".text.boot" &nbsp;<b><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 255);">--&gt;=D4=DA</span></b></spa=
+n></font><b><span style=3D"font-size: 13.005px; line-height: 20.8=
+08px;"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 255);">vendor/mediatek/proprietary/bootable/bootloader/lk/a=
+rch/arm/</span></span><span style=3D"font-size: 13.005px; line-he=
+ight: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 255);">system-onesegment.ld=A3=A8system-twosegmen=
+t.ld=A3=A9=D6=D0=B6=A8=D2=E5=A3=AC=B2=BC=BE=D6=BD=C5=B1=BE=A3=AC=D0=
+=E8=D2=AA=D6=D8=B5=E3=C1=CB=BD=E2=D2=BB=CF=C2</span></span></b></=
+div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.globl=20=
+_start</span></font></div><div><font color=3D"#ff0000"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=20=
+rgb(0, 0, 0);">_start:</span></font></div><div><font color=3D"#ff=
+0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">b<=
+/span><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">re=
+set</span></font></div><div><font color=3D"#ff0000"><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">b</span><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">arm_undefined</span></=
+font></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span>=
+</span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem; color: rgb(0, 0, 0);">b</span><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span>=
+</span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem; color: rgb(0, 0, 0);">arm_syscall</span></font></div><d=
+iv><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">b</span><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">arm_prefetch_abort</span></font></div><div><fon=
+t color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb=
+(0, 0, 0);">b</span><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb=
+(0, 0, 0);">arm_data_abort</span></font></div><div><font color=3D=
+"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">b</span><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">arm_reserved</span></font></div><div><font color=3D"#ff0000"><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=20=
+rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">b</span><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=20=
+rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">arm_irq</s=
+pan></font></div><div><font color=3D"#ff0000"><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; color: rgb(0, 0, 0);">b</span><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; color: rgb(0, 0, 0);">arm_fiq</span></font></div>=
+<div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">/*pre-loader to uboot argument=
+ Location*/</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0);">.global BOOT_ARGUMENT_LOCATION</span></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">BOOT_A=
+RGUMENT_LOCATION:</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; color: rgb(0, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp; .word 0x000=
+00000</span></font></div><div><font color=3D"#ff0000"><br></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">reset=
+:</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0=
+, 0, 0);">&nbsp; ldr &nbsp; &nbsp; r6, =3DBOOT_ARGUMENT_LOCATION&=
+nbsp;</span></font></div><div><font color=3D"#ff0000"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: r=
+gb(0, 0, 0);">&nbsp; str &nbsp; &nbsp; r4, [r6]&nbsp;</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#if=
+def ARM_CPU_CORTEX_A7</span></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp; /*Enabl=
+e SMP bit*/</span></font></div><div><font color=3D"#ff0000"><span=
+ class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb=
+(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">mrc &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; p15, 0, r0, c1, c0, 1</span></fo=
+nt></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-sp=
+an" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">orr</span><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span=
+></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">r0, r0, #0x40</span></font></div=
+><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" styl=
+e=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=20=
+color: rgb(0, 0, 0);">mcr</span><span class=3D"Apple-tab-span" st=
+yle=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m; color: rgb(0, 0, 0);">p15, 0, r0, c1, c0, 1</span></font></div=
+><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#endif</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">#ifdef ENABLE_TRUSTZONE</span></font></div><div><font color=3D=
+"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">/*Add reference to TZ symbol so linker includes it in final ima=
+ge */</span></font></div><div><font color=3D"#ff0000"><span class=
+=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0,=
+ 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">ldr r7, =3D_binary_tz=
+bsp_tzbsp_bin_start</span></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem; color: rgb(0, 0, 0);">#endif</span></font></div><div><font=20=
+color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-s=
+pace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0=
+, 0, 0);">/* do some cpu setup */</span></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem; color: rgb(0, 0, 0);">#if ARM_WITH_CP15</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">&nbsp; &nbsp; &nbsp; &nbsp; /* Read SCTLR */</span></font></di=
+v><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" sty=
+le=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ color: rgb(0, 0, 0);">mrc</span><span class=3D"Apple-tab-span" s=
+tyle=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; color: rgb(0, 0, 0);">p15, 0, r0, c1, c0, 0</span></font></di=
+v><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" sty=
+le=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+; color: rgb(0, 0, 0);">/* XXX this is currently for arm926, revi=
+st with armv6 cores */</span></font></div><div><font color=3D"#ff=
+0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">/=
+* new thumb behavior, low exception vectors, i/d cache disable, m=
+mu disabled */</span></font></div><div><font color=3D"#ff0000"><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=20=
+rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">bic</span>=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color=
+: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">r0, r0,=
+ #(1&lt;&lt;15| 1&lt;&lt;13 | 1&lt;&lt;12)</span></font></div><di=
+v><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">bic</span><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; col=
+or: rgb(0, 0, 0);">r0, r0, #(1&lt;&lt;2 | 1&lt;&lt;0)</span></fon=
+t></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">/* enable alignment faults */</span=
+></font></div><div><font color=3D"#ff0000"><span class=3D"Apple-t=
+ab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</sp=
+an></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">orr</span><span class=3D"Apple=
+-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; color: rgb(0, 0, 0);">r0, r0, #(1&lt;&lt;1)</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">&nbsp; &nbsp; &nbsp; &nbsp; /* Write SCTLR */</span></font></d=
+iv><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" st=
+yle=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+; color: rgb(0, 0, 0);">mcr</span><span class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">p15, 0, r0, c1, c0, 0</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#ifdef E=
+NABLE_TRUSTZONE</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+; color: rgb(0, 0, 0);">&nbsp; /*nkazi: not needed ? Setting VBAR=
+ to location of new vector table : 0x80000 &nbsp; &nbsp; &nbsp;*/=
+</span></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=
+ 0, 0);">&nbsp;ldr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r0,=20=
+=3D0x00080000</span></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=20=
+color: rgb(0, 0, 0);">&nbsp;mcr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; p15, 0, r0, c12, c0, 0</span></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem; color: rgb(0, 0, 0);">#endif</span></font></div=
+><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#endif</sp=
+an></font></div><div><font color=3D"#ff0000"><br></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#if WITH_CPU_E=
+ARLY_INIT</span></font></div><div><font color=3D"#ff0000"><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0=
+, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">/* call platfor=
+m/arch/etc specific init code */</span></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem; color: rgb(0, 0, 0);">#ifndef ENABLE_TRUSTZONE=
+</span></font></div><div><font color=3D"#ff0000"><span class=3D"A=
+pple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);"=
+>	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem; color: rgb(0, 0, 0);">/* Not needed when Trust=
+Zone is the first bootloader that runs.*/</span></font></div><div=
+><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color=
+: rgb(0, 0, 0);">bl __cpu_early_init</span></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">#endif</span></font><=
+/div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; color: rgb(0, 0, 0);">/* declare return address as global to=20=
+avoid using stack */</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem; color: rgb(0, 0, 0);">.globl _cpu_early_init_complete</spa=
+n></font></div><div><font color=3D"#ff0000"><span class=3D"Apple-=
+tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</s=
+pan></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem; color: rgb(0, 0, 0);">_cpu_early_init_complete:</sp=
+an></font></div><div><font color=3D"#ff0000"><br></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#endif</span><=
+/font></div><div><font color=3D"#ff0000"><br></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#if (!ENABLE_NANDW=
+RITE)</span></font></div><div><font color=3D"#ff0000"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: r=
+gb(0, 0, 0);">#if WITH_CPU_WARM_BOOT</span></font></div><div><fon=
+t color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb=
+(0, 0, 0);">ldr </span><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=20=
+rgb(0, 0, 0);">r0, warm_boot_tag</span></font></div><div><font co=
+lor=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-spa=
+ce:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=20=
+0, 0);">cmp </span><span class=3D"Apple-tab-span" style=3D"white-=
+space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(=
+0, 0, 0);">r0, #1</span></font></div><div><font color=3D"#ff0000"=
+><br></font></div><div><font color=3D"#ff0000"><span class=3D"App=
+le-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">=09=
+</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem; color: rgb(0, 0, 0);">/* if set, warm boot */</s=
+pan></font></div><div><font color=3D"#ff0000"><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	<=
+/span></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; color: rgb(0, 0, 0);">ldreq </span><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">pc, =3DBASE_ADDR</span=
+></font></div><div><font color=3D"#ff0000"><br></font></div><div>=
+<font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"w=
+hite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=
+ rgb(0, 0, 0);">mov </span><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">r0, #1</span></font></div><div><font color=3D"#=
+ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">=
+str</span><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">r0, warm_boot_tag</span></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem; color: rgb(0, 0, 0);">#endif</span></font></div><div><font=20=
+color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">#endif</span></font></=
+div><div><font color=3D"#ff0000"><br></font></div><div><font colo=
+r=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space=
+:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0,=
+ 0);">/* see if we need to relocate */</span></font></div><div><f=
+ont color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"whi=
+te-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: r=
+gb(0, 0, 0);">mov</span><span class=3D"Apple-tab-span" style=3D"w=
+hite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color=
+: rgb(0, 0, 0);">r0, pc</span></font></div><div><font color=3D"#f=
+f0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">s=
+ub</span><span class=3D"Apple-tab-span" style=3D"white-space:pre"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">r0, r0, #(.Laddr - _start)</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">.Laddr:</span></font></div><di=
+v><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">ldr</span><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; col=
+or: rgb(0, 0, 0);">r1, =3D_start</span></font></div><div><font co=
+lor=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-spa=
+ce:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=20=
+0, 0);">cmp</span><span class=3D"Apple-tab-span" style=3D"white-s=
+pace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">		</span></span><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(=
+0, 0, 0);">r0, r1</span></font></div><div><font color=3D"#ff0000"=
+><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">beq</sp=
+an><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.Lst=
+ack_setup</span></font></div><div><font color=3D"#ff0000"><br></f=
+ont></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-s=
+pan" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span><=
+/span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem; color: rgb(0, 0, 0);">/* we need to relocate ourselves t=
+o the proper spot */</span></font></div><div><font color=3D"#ff00=
+00"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; c=
+olor: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">ldr<=
+/span><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">r=
+2, =3D__data_end</span><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span></font></d=
+iv><div><font color=3D"#ff0000"><br></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; color: rgb(0, 0, 0);">.Lrelocate_loop:</span></fo=
+nt></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-sp=
+an" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">ldr</span><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span=
+></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">r3, [r0], #4</span></font></div>=
+<div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; col=
+or: rgb(0, 0, 0);">str</span><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0);">r3, [r1], #4</span></font></div><div><font co=
+lor=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-spa=
+ce:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=20=
+0, 0);">cmp</span><span class=3D"Apple-tab-span" style=3D"white-s=
+pace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">		</span></span><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(=
+0, 0, 0);">r1, r2</span></font></div><div><font color=3D"#ff0000"=
+><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">bne</sp=
+an><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.Lre=
+locate_loop</span></font></div><div><font color=3D"#ff0000"><br><=
+/font></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span=
+></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">/* we're relocated, jump to the=20=
+right address */</span></font></div><div><font color=3D"#ff0000">=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color=
+: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">ldr</spa=
+n><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; col=
+or: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">r0, =3D=
+.Lstack_setup</span></font></div><div><font color=3D"#ff0000"><sp=
+an class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: r=
+gb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">bx</span><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=20=
+rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">r0</span>=
+</font></div><div><font color=3D"#ff0000"><br></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.ltorg</span></fo=
+nt></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#i=
+f WITH_CPU_WARM_BOOT</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem; color: rgb(0, 0, 0);">warm_boot_tag:</span></font></div><d=
+iv><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">.word 0</span></font></div><div><font color=3D"=
+#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem; color: rgb(0, 0, 0);">#endif</span></font></div><div>=
+<font color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">.Lstack_setup:</span></font></div><=
+div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">/* set up the stack for irq, fiq, abort, undefi=
+ned, system/user, and lastly supervisor mode */</span></font></di=
+v><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" sty=
+le=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ color: rgb(0, 0, 0);">mrs &nbsp; &nbsp; r0, cpsr</span></font></=
+div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" s=
+tyle=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m; color: rgb(0, 0, 0);">bic &nbsp; &nbsp; r0, r0, #0x1f</span></=
+font></div><div><font color=3D"#ff0000"><br></font></div><div><fo=
+nt color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"whit=
+e-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rg=
+b(0, 0, 0);">ldr</span><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=
+ rgb(0, 0, 0);">r2, =3Dabort_stack_top</span></font></div><div><f=
+ont color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"whi=
+te-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: r=
+gb(0, 0, 0);">orr &nbsp; &nbsp; r1, r0, #0x12 // irq</span></font=
+></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span=
+" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem; color: rgb(0, 0, 0);">msr &nbsp; &nbsp; cpsr_c, r1</span></=
+font></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span>=
+</span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem; color: rgb(0, 0, 0);">ldr</span><span class=3D"Apple-ta=
+b-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</sp=
+an></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">r13, =3Dirq_save_spot</span><s=
+pan class=3D"Apple-tab-span" style=3D"white-space:pre"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=20=
+rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">/* save a=
+ pointer to a temporary dumping spot used during irq delivery */<=
+/span></font></div><div><font color=3D"#ff0000"><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">=
+	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem; color: rgb(0, 0, 0);"> &nbsp; &nbsp;</span></fo=
+nt></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-sp=
+an" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">orr &nbsp; &nbsp; r1, r0, #0x11 //=20=
+fiq</span></font></div><div><font color=3D"#ff0000"><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">msr &nbsp; &nbsp; cpsr=
+_c, r1</span></font></div><div><font color=3D"#ff0000"><span clas=
+s=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0=
+, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">mov</span><span cl=
+ass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=
+ 0, 0);">		</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">sp, r2</span></=
+font></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span>=
+</span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem; color: rgb(0, 0, 0);"> &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp;</span></font></div><div><font color=3D"#ff0000"><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0=
+, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">orr &nbsp; &nbs=
+p; r1, r0, #0x17 // abort</span></font></div><div><font color=3D"=
+#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);"=
+>msr &nbsp; &nbsp; cpsr_c, r1</span></font></div><div><font color=
+=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:=
+pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">mov</span><span class=3D"Apple-tab-span" style=3D"white-space:=
+pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0,=
+ 0);">sp, r2</span></font></div><div><font color=3D"#ff0000"><spa=
+n class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rg=
+b(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);"> &nbsp; &nbs=
+p;</span></font></div><div><font color=3D"#ff0000"><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">orr &nbsp; &nbsp; r1,=20=
+r0, #0x1b // undefined</span></font></div><div><font color=3D"#ff=
+0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">ms=
+r &nbsp; &nbsp; cpsr_c, r1</span></font></div><div><font color=3D=
+"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">mov</span><span class=3D"Apple-tab-span" style=3D"white-space:p=
+re"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem; color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">sp, r2</span></font></div><div><font color=3D"#ff0000"><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0=
+, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);"> &nbsp; &nbsp;<=
+/span></font></div><div><font color=3D"#ff0000"><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">=
+	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem; color: rgb(0, 0, 0);">orr &nbsp; &nbsp; r1, r0,=
+ #0x1f // system</span></font></div><div><font color=3D"#ff0000">=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color=
+: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">msr &nbs=
+p; &nbsp; cpsr_c, r1</span></font></div><div><font color=3D"#ff00=
+00"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; c=
+olor: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">mov<=
+/span><span class=3D"Apple-tab-span" style=3D"white-space:pre"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+ color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">s=
+p, r2</span></font></div><div><font color=3D"#ff0000"><br></font>=
+</div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span"=
+ style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">orr</span><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">r1, r0, #0x13 // supervisor</span><=
+/font></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span=
+></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">msr</span><span class=3D"Apple-t=
+ab-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</s=
+pan></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem; color: rgb(0, 0, 0);">cpsr_c, r1</span></font></div=
+><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" styl=
+e=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=20=
+color: rgb(0, 0, 0);">mov</span><span class=3D"Apple-tab-span" st=
+yle=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></span>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m; color: rgb(0, 0, 0);">sp, r2</span></font></div><div><font col=
+or=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><spa=
+n class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rg=
+b(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">/* copy the=20=
+initialized data segment out of rom if necessary */</span></font>=
+</div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span"=
+ style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">ldr</span><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">r0, =3D__data_start_rom</span></fon=
+t></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></s=
+pan><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem; color: rgb(0, 0, 0);">ldr</span><span class=3D"Apple-tab-s=
+pan" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span>=
+</span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem; color: rgb(0, 0, 0);">r1, =3D__data_start</span></font>=
+</div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span"=
+ style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">ldr</span><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">r2, =3D__data_end</span></font></di=
+v><div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">cmp</span><span class=3D"Apple-tab-span" style=3D"white-space:p=
+re"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem; color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">r0, r1</span></font></div><div><font color=3D"#ff0000"><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0=
+, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">beq</span><span=
+ class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb=
+(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.L__do_bss</=
+span></font></div><div><font color=3D"#ff0000"><br></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.L__copy_loo=
+p:</span></font></div><div><font color=3D"#ff0000"><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">cmp</span><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">		</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">r1, r2</span></font><=
+/div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; color: rgb(0, 0, 0);">ldrlt</span><span class=3D"Apple-tab-sp=
+an" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></=
+span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">r3, [r0], #4</span></font></div><di=
+v><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">strlt</span><span class=3D"Apple-tab-span" styl=
+e=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=20=
+color: rgb(0, 0, 0);">r3, [r1], #4</span></font></div><div><font=20=
+color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-s=
+pace:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0=
+, 0, 0);">blt</span><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem; color: rgb(0, 0, 0);">		</span></span><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rg=
+b(0, 0, 0);">.L__copy_loop</span></font></div><div><font color=3D=
+"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=
+ rgb(0, 0, 0);">.L__do_bss:</span></font></div><div><font color=3D=
+"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">/* clear out the bss */</span></font></div><div><font color=3D"=
+#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space:pre"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);"=
+>ldr</span><span class=3D"Apple-tab-span" style=3D"white-space:pr=
+e"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.86=
+7rem; color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">r0, =3D__bss_start</span></font></div><div><font color=3D"#ff0=
+000"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=20=
+color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">ldr=
+</span><span class=3D"Apple-tab-span" style=3D"white-space:pre"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem=
+; color: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">=
+r1, =3D_end</span></font></div><div><font color=3D"#ff0000"><span=
+ class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb=
+(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">mov</span><sp=
+an class=3D"Apple-tab-span" style=3D"white-space:pre"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: r=
+gb(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">r2, #0</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+;">.L__bss_loop:</span></font></div><div><font color=3D"#ff0000">=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color=
+: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">cmp</spa=
+n><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; col=
+or: rgb(0, 0, 0);">		</span></span><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">r0, r=
+1</span></font></div><div><font color=3D"#ff0000"><span class=3D"=
+Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);=
+">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D"f=
+ont-size: 0.867rem; color: rgb(0, 0, 0);">strlt</span><span class=
+=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0,=
+ 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">r2, [r0], #4</span></=
+font></div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span>=
+</span><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+0.867rem; color: rgb(0, 0, 0);">blt</span><span class=3D"Apple-ta=
+b-span" style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</sp=
+an></span><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">.L__bss_loop</span></font></di=
+v><div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">#if defined(ARM_CPU_CORTEX_A8)=
+ || defined(ARM_CPU_CORTEX_A9)</span></font></div><div><font colo=
+r=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-space=
+:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0=
+.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0,=
+ 0);">DSB</span></font></div><div><font color=3D"#ff0000"><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0=
+, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">ISB</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">#en=
+dif</span></font></div><div><font color=3D"#ff0000"><br></font></=
+div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" s=
+tyle=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m; color: rgb(0, 0, 0);">bl</span><span class=3D"Apple-tab-span"=20=
+style=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">		</span></spa=
+n><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem; color: rgb(0, 0, 0);">kmain</span></font></div><div><font co=
+lor=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"white-spa=
+ce:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">	</span></span><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=20=
+0, 0);">b</span><span class=3D"Apple-tab-span" style=3D"white-spa=
+ce:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem; color: rgb(0, 0, 0);">		</span></span><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=
+ 0, 0);">.</span></font></div><div><font color=3D"#ff0000"><br></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">=
+.ltorg</span></font></div><div><font color=3D"#ff0000"><br></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.bss=
+</span></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0,=
+ 0, 0);">.align 2</span></font></div><div><font color=3D"#ff0000"=
+><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; colo=
+r: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wiz-=
+span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">/* the=20=
+abort stack is for unrecoverable errors.</span></font></div><div>=
+<font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"w=
+hite-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color:=
+ rgb(0, 0, 0);"> * also note the initial working stack is set to=20=
+here.</span></font></div><div><font color=3D"#ff0000"><span class=
+=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0,=
+ 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);"> * when the threading=
+ system starts up it'll switch to a new&nbsp;</span></font></div>=
+<div><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">	</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; col=
+or: rgb(0, 0, 0);"> * dynamically allocated stack, so we don't ne=
+ed it for very long</span></font></div><div><font color=3D"#ff000=
+0"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);"> */</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0=
+, 0);">abort_stack:</span></font></div><div><font color=3D"#ff000=
+0"><span class=3D"Apple-tab-span" style=3D"white-space:pre"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0);">	</span></span><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.skip=
+ 1024</span></font></div><div><font color=3D"#ff0000"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: r=
+gb(0, 0, 0);">abort_stack_top:</span></font></div><div><font colo=
+r=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0);">.section ".rodata"</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.align 2</span></f=
+ont></div><div><font color=3D"#ff0000"><br></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem; color: rgb(0, 0, 0);">/* define the heap en=
+d as read-only data containing the end defined in the</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">&nb=
+sp;* linker script. other archs that use dynamic memory length di=
+scovery can make</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m; color: rgb(0, 0, 0);">&nbsp;* this read-write and update it du=
+ring init.</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; col=
+or: rgb(0, 0, 0);">&nbsp;*/</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem; color: rgb(0, 0, 0);">.global _heap_end</span></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">_hea=
+p_end:</span></font></div><div><font color=3D"#ff0000"><span clas=
+s=3D"Apple-tab-span" style=3D"white-space:pre"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0=
+, 0);">	</span></span><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">.int _end_of_ram</=
+span></font></div><div style=3D"color: rgb(255, 0, 0);"><br></div=
+></span></div></body></html>
+
+------=_Next_Part_0138474406.190--
+
+------=_Next_Part_0415423218.035--
+

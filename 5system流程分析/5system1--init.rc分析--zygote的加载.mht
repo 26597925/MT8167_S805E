@@ -1,0 +1,1869 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?NXN5c3RlbTEtLWluaXQucmO31s72LS16eWdvdGW1xLzT1Ng=?=
+Date: Date: Mon, 23 Oct 2017 08:44:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0415570263.931"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0415570263.931
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0138523421.308"
+
+
+------=_Next_Part_0138523421.308
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0138523421.308
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A<title>5system1--=
+init.rc=B7=D6=CE=F6--zygote=B5=C4=BC=D3=D4=D8</title>=0A    <!--m=
+ark |wiz_custom_css| for wizeditor replace it-->=0A<style id=3D"w=
+iz_custom_css">html, body {            font-size: 15px;        }=20=
+       body {            font-family: Helvetica, 'Hiragino Sans G=
+B', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, Sim=
+Hei, arial, sans-serif;            line-height: 1.6;            m=
+argin: 0;            padding: 20px 15px;            padding: 1.33=
+rem 1rem;        }        h1, h2, h3, h4, h5, h6 {            mar=
+gin: 20px 0 10px;            margin: 1.33rem 0 0.667rem;        =20=
+   padding: 0;            font-weight: bold;        }        h1 {=
+            font-size: 21px;            font-size: 1.4rem;      =20=
+ }        h2 {            font-size: 20px;            font-size:=20=
+1.33rem;        }        h3 {            font-size: 18px;       =20=
+    font-size: 1.2rem;        }        h4 {            font-size:=
+ 17px;            font-size: 1.13rem;        }        h5 {      =20=
+     font-size: 15px;            font-size: 1rem;        }      =20=
+ h6 {            font-size: 15px;            font-size: 1rem;   =20=
+        color: #777777;            margin: 1rem 0;        }     =20=
+  div, p, ul, ol, dl, li {            margin: 0;        }       =20=
+blockquote, table, pre, code {            margin: 8px 0;        }=
+        ul, ol {            padding-left: 32px;            paddin=
+g-left: 2.13rem;        }        blockquote {            padding:=
+ 0 12px;            padding: 0 0.8rem;        }        blockquote=
+ > :first-child {            margin-top: 0;        }        block=
+quote > :last-child {            margin-bottom: 0;        }     =20=
+  img {            border: 0;            max-width: 100%;       =20=
+    height: auto !important;            margin: 2px 0;        } =20=
+      table {            border-collapse: collapse;            bo=
+rder: 1px solid #bbbbbb;        }        td, th {            padd=
+ing: 4px 8px;            border-collapse: collapse;            bo=
+rder: 1px solid #bbbbbb;			        }        @media only screen an=
+d (-webkit-max-device-width: 1024px), only screen and (-o-max-dev=
+ice-width: 1024px), only screen and (max-device-width: 1024px), o=
+nly screen and (-webkit-min-device-pixel-ratio: 3), only screen a=
+nd (-o-min-device-pixel-ratio: 3), only screen and (min-device-pi=
+xel-ratio: 3) {            html, body {                font-size:=
+ 17px;            }            body {                line-height:=
+ 1.7;                padding: 0.75rem 0.9375rem;                c=
+olor: #353c47;            }            h1 {                font-s=
+ize: 2.125rem;            }            h2 {                font-s=
+ize: 1.875rem;            }            h3 {                font-s=
+ize: 1.625rem;            }            h4 {                font-s=
+ize: 1.375rem;            }            h5 {                font-s=
+ize: 1.125rem;            }            h6 {                color:=
+ inherit;            }            ul, ol {                padding=
+-left: 2.5rem;            }            blockquote {             =20=
+  padding: 0 0.9375rem;            }        }</style></head>=0A=0A=
+<body spellcheck=3D"false" ><div><div><span data-wiz-span=3D"data=
+-wiz-span"><b style=3D"line-height: 1.6; color: rgb(255, 0, 0);">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">=CE=C4=BC=FE=C2=B7=BE=B6=A3=BAsystem/core/rootdir/</span></b>=
+<b><span data-wiz-span=3D"data-wiz-span"><font color=3D"#ff0000">=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">i=
+nit.zygote64_32.rc</span></span></font><br></span></b></span></di=
+v><div><span data-wiz-span=3D"data-wiz-span"><div><font color=3D"=
+#ff0000"><span style=3D"font-size: 13.005px; line-height: 20.808p=
+x;"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.8=
+67rem; color: rgb(0, 0, 0);"><b><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 255); background-color: rgb(255, 2=
+55, 0);">service zygote /system/bin/app_process64 -Xzygote /syste=
+m/bin --zygote --<span data-wiz-span=3D"data-wiz-span" style=3D"b=
+ackground-color: rgb(255, 255, 0);">start-system-server --socket-=
+name=3Dzygote &nbsp;--&gt;=D7=F7=CE=AA=D2=BB=B8=F6=B7=FE=CE=F1=C0=
+=B4=C6=F4=B6=AF=A3=A8=D4=B4=CE=C4=BC=FE=CE=AA=A3=BA</span></span>=
+</b></span></span></font><font color=3D"#0000ff"><span style=3D"f=
+ont-size: 13.005px; line-height: 20.808px;"><b><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"background-color: rgb(255, 255, 0);"=
+>frameworks/base/cmds/app_process/app_main.cpp</span></b></span><=
+/font><b style=3D"font-size: 0.867rem; line-height: 20.808px;"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 255=
+); background-color: rgb(255, 255, 0);">=A3=A9</span></b></div><d=
+iv><font color=3D"#ff0000"><span style=3D"font-size: 13.005px; li=
+ne-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem; color: rgb(0, 0, 0); background-color: r=
+gb(255, 255, 0);">&nbsp; &nbsp; class main</span></span></font></=
+div><div><font color=3D"#ff0000"><span style=3D"font-size: 13.005=
+px; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"font-size: 0.867rem; color: rgb(0, 0, 0); background-co=
+lor: rgb(255, 255, 0);">&nbsp; &nbsp; socket zygote stream 660 ro=
+ot system</span></span></font></div><div><font color=3D"#ff0000">=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0); background-color: rgb(255, 255, 0);">&nbsp; &n=
+bsp; onrestart write /sys/android_power/request_state wake</span>=
+</span></font></div><div><font color=3D"#ff0000"><span style=3D"f=
+ont-size: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0)=
+; background-color: rgb(255, 255, 0);">&nbsp; &nbsp; onrestart wr=
+ite /sys/power/state on</span></span></font></div><div><font colo=
+r=3D"#ff0000"><span style=3D"font-size: 13.005px; line-height: 20=
+.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem; color: rgb(0, 0, 0); background-color: rgb(255, 255,=20=
+0);">&nbsp; &nbsp; onrestart restart audioserver</span></span></f=
+ont></div><div><font color=3D"#ff0000"><span style=3D"font-size:=20=
+13.005px; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0); backgro=
+und-color: rgb(255, 255, 0);">&nbsp; &nbsp; onrestart restart cam=
+eraserver</span></span></font></div><div><font color=3D"#ff0000">=
+<span style=3D"font-size: 13.005px; line-height: 20.808px;"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem; co=
+lor: rgb(0, 0, 0); background-color: rgb(255, 255, 0);">&nbsp; &n=
+bsp; onrestart restart media</span></span></font></div><div><font=
+ color=3D"#ff0000"><span style=3D"font-size: 13.005px; line-heigh=
+t: 20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem; color: rgb(0, 0, 0); background-color: rgb(255,=20=
+255, 0);">&nbsp; &nbsp; onrestart restart netd</span></span></fon=
+t></div><div><font color=3D"#ff0000"><span style=3D"font-size: 13=
+.005px; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0); backgroun=
+d-color: rgb(255, 255, 0);">&nbsp; &nbsp; writepid /dev/cpuset/fo=
+reground/tasks /dev/stune/foreground/tasks</span></span></font></=
+div><div><font color=3D"#ff0000"><span style=3D"font-size: 13.005=
+px; line-height: 20.808px;"><br></span></font></div><div><font co=
+lor=3D"#ff0000"><span style=3D"font-size: 13.005px; line-height:=20=
+20.808px;"><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem; color: rgb(0, 0, 0);">service zygote_secondary /sys=
+tem/bin/app_process32 -Xzygote /system/bin --zygote --socket-name=
+=3Dzygote_secondary</span></span></font></div><div><font color=3D=
+"#ff0000"><span style=3D"font-size: 13.005px; line-height: 20.808=
+px;"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(0, 0, 0);">&nbsp; &nbsp; class main</span></sp=
+an></font></div><div><font color=3D"#ff0000"><span style=3D"font-=
+size: 13.005px; line-height: 20.808px;"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">=
+&nbsp; &nbsp; socket zygote_secondary stream 660 root system</spa=
+n></span></font></div><div><font color=3D"#ff0000"><span style=3D=
+"font-size: 13.005px; line-height: 20.808px;"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem; color: rgb(0, 0,=
+ 0);">&nbsp; &nbsp; onrestart restart zygote</span></span></font>=
+</div><div><font color=3D"#ff0000"><span style=3D"font-size: 13.0=
+05px; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"font-size: 0.867rem; color: rgb(0, 0, 0);">&nbsp; &nb=
+sp; writepid /dev/cpuset/foreground/tasks /dev/stune/foreground/t=
+asks</span></span></font></div><div style=3D"font-weight: bold; c=
+olor: rgb(255, 0, 0); font-size: 0.867rem;"><br></div></span></di=
+v><div><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+255, 0, 0);"><b><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-size: 0.867rem;">=CE=C4=BC=FE=C2=B7=BE=B6=A3=BAsystem/core/roo=
+tdir/init.rc</span></b></span><br></div><div><span data-wiz-span=3D=
+"data-wiz-span"><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;"># Copyright (C) 2012 The Android Open Source Project</span></f=
+ont></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">#=
+</span></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.=
+867rem;"># IMPORTANT: Do not create world writable files or direc=
+tories.</span></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;"># This is a common source of Android security bug=
+s.</span></font></div><div><font color=3D"#ff0000"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=20=
+0.867rem;">#</span></font></div><div><font color=3D"#ff0000"><br>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">import /init.environ.rc</span></font></div><div><font color=3D"=
+#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rg=
+b(0, 0, 0); font-size: 0.867rem;">import /init.usb.rc</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">imp=
+ort /init.${ro.hardware}.rc</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;"><b><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 255);"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">import /init.${</s=
+pan><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255=
+, 0, 0); font-size: 0.867rem;">ro.zygote</span><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">}.rc &nbsp;--&=
+gt;</span></span></b></span></font><b style=3D"font-size: 13.005p=
+x; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(255, 0, 0); font-size: 0.867rem;">ro.zygote=D4=
+=DA</span></b><b style=3D"font-size: 13.005px; line-height: 20.80=
+8px; color: rgb(0, 0, 255);"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-size: 0.867rem;">device/linaro/hikey/device.mk=CE=
+=C4=BC=FE=D6=D0=B6=A8=D2=E5=A3=AC=CF=B8=BD=DA=C8=E7=CF=C2=A3=BA</=
+span></b><b style=3D"font-size: 13.005px; line-height: 20.808px;=20=
+color: rgb(0, 0, 255);"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">PRODUCT_DEFAULT_PROPERTY_OVERRIDES +=3D=
+ </span><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb=
+(255, 0, 0); font-size: 0.867rem;">ro.zygote=3Dzygote64_32&nbsp;<=
+/span></b></div><div><span style=3D"line-height: 1.6;"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp;=
+ &nbsp;&nbsp;</span></span><span style=3D"line-height: 1.6;"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+&nbsp; &nbsp;&nbsp;</span></span><span style=3D"line-height: 1.6;=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;">&nbsp; &nbsp;&nbsp;</span></span><span style=3D"line-height=
+: 1.6;"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=
+ 0.867rem;">&nbsp; &nbsp;&nbsp;</span></span><span style=3D"line-=
+height: 1.6;"><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">&nbsp; &nbsp;&nbsp;</span></span><span style=3D=
+"line-height: 1.6;"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp;&nbsp;</span></span><span sty=
+le=3D"line-height: 1.6;"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">&nbsp; &nbsp;&nbsp;</span></span><sp=
+an style=3D"line-height: 1.6;"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;&nbsp;</span></sp=
+an><span style=3D"line-height: 1.6;"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;&nbsp;</spa=
+n></span><span style=3D"line-height: 1.6;"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;&nbsp=
+;</span></span><span style=3D"line-height: 1.6;"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp=
+; </span><b><span data-wiz-span=3D"data-wiz-span" style=3D"color:=
+ rgb(0, 0, 255); font-size: 0.867rem;">--&gt;</span></b></span><b=
+ style=3D"font-size: 13.005px; line-height: 20.808px; color: rgb(=
+0, 0, 255);"><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 255); font-size: 0.867rem;">PRODUCT_COPY_FILES +=3D s=
+ystem/core/rootdir/init.zygote64_32.rc:root/init.zygote64_32.rc=A3=
+=A8=BD=E8=D6=FA</span></b><b style=3D"font-size: 13.005px; line-h=
+eight: 20.808px; color: rgb(0, 0, 255);"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 255); font-size: 0.867rem=
+;">PRODUCT_COPY_FILES =BD=AB</span></b><b style=3D"font-size: 13.=
+005px; line-height: 20.808px; color: rgb(0, 0, 255);"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 255); font-s=
+ize: 0.867rem;">init.zygote64_32.rc=B8=B4=D6=C6=B5=BD=B8=F9=C4=BF=
+=C2=BC=CF=C2</span></b><b style=3D"font-size: 13.005px; line-heig=
+ht: 20.808px; color: rgb(0, 0, 255);"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 255); font-size: 0.867rem;">=
+=A3=A9</span></b></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=
+ 0.867rem;">import /init.trace.rc</span></font></div><div><font c=
+olor=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=
+ font-size: 0.867rem;">on early-init</span></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Set i=
+nit and its forked children's oom_adj.</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; writ=
+e /proc/1/oom_score_adj -1000</span></font></div><div><font color=
+=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; # Apply strict SELinux checking=20=
+of PROT_EXEC on mmap/mprotect calls.</span></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /=
+sys/fs/selinux/checkreqprot 0</span></font></div><div><font color=
+=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; # Set the security context for t=
+he init process.</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; # This should occur before=
+ anything else (e.g. ueventd) is started.</span></font></div><div=
+><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; s=
+etcon u:r:init:s0</span></font></div><div><font color=3D"#ff0000"=
+><br></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; # Set the security context of /adb_keys if p=
+resent.</span></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;">&nbsp; &nbsp; restorecon /adb_keys</span></font><=
+/div><div><font color=3D"#ff0000"><br></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; start ueven=
+td</span></font></div><div><font color=3D"#ff0000"><br></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &=
+nbsp; # create mountpoints</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /mnt 0775=20=
+root system</span></font></div><div><font color=3D"#ff0000"><br><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>on init</span></font></div><div><font color=3D"#ff0000"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-=
+size: 0.867rem;">&nbsp; &nbsp; sysclktz 0</span></font></div><div=
+><font color=3D"#ff0000"><br></font></div><div><font color=3D"#ff=
+0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;">loglevel 6 ####</span></font></div=
+><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nb=
+sp; write /proc/bootprof "INIT: on init start" ####</span></font>=
+</div><div><font color=3D"#ff0000"><br></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Backward=
+ compatibility</span></font></div><div><font color=3D"#ff0000"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=
+ font-size: 0.867rem;">&nbsp; &nbsp; symlink /system/etc /etc</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; symlink /sys/kernel/debug /d</span></font></div>=
+<div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Right now vend=
+or lives on the same filesystem as system,</span></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=20=
+# but someday that may change.</span></font></div><div><font colo=
+r=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; symlink /sys=
+tem/vendor /vendor</span></font></div><div><font color=3D"#ff0000=
+"><br></font></div><div><font color=3D"#ff0000"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.8=
+67rem;">&nbsp; &nbsp; # Create cgroup mount point for cpu account=
+ing</span></font></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=
+ 0.867rem;">&nbsp; &nbsp; mkdir /acct</span></font></div><div><fo=
+nt color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mount c=
+group none /acct cpuacct</span></font></div><div><font color=3D"#=
+ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb=
+(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /acct/uid</s=
+pan></font></div><div><font color=3D"#ff0000"><br></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ # Create cgroup mount point for memory</span></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mou=
+nt tmpfs none /sys/fs/cgroup mode=3D0750,uid=3D0,gid=3D1000</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; mkdir /sys/fs/cgroup/memory 0750 root system</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; mount cgroup none /sys/fs/cgroup/memory memory</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; write /sys/fs/cgroup/memory/memory.move_char=
+ge_at_immigrate 1</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">&nbsp; &nbsp; chown root system /sys/fs=
+/cgroup/memory/tasks</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0660 /sys/fs/cgr=
+oup/memory/tasks</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /sys/fs/cgroup/memor=
+y/sw 0750 root system</span></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=
+ 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /sys/fs/cgroup/=
+memory/sw/memory.swappiness 100</span></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /sys/=
+fs/cgroup/memory/sw/memory.move_charge_at_immigrate 1</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; chown root system /sys/fs/cgroup/memory/sw/tasks</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; chmod 0660 /sys/fs/cgroup/memory/sw/tasks</span>=
+</font></div><div><font color=3D"#ff0000"><br></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkd=
+ir /system</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; mkdir /data 0771 system system</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; mkdir /cache 0770 system cache</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; mkdir /config 0500 root root</span></font></div><div><fo=
+nt color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">&nbsp; &nbsp; # See storage config det=
+ails at http://source.android.com/tech/storage/</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; mkdir /mnt/shell 0700 shell shell</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdi=
+r /mnt/media_rw 0700 media_rw media_rw</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdi=
+r /storage 0751 root sdcard_r</span></font></div><div><font color=
+=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; # Directory for putting things o=
+nly root should see.</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /mnt/secure 0700=
+ root root</span></font></div><div><font color=3D"#ff0000"><br></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">=
+&nbsp; &nbsp; # Directory for staging bindmounts</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &=
+nbsp; mkdir /mnt/secure/staging 0700 root root</span></font></div=
+><div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Directory-targ=
+et for where the secure container</span></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # imagefi=
+le directory will be bind-mounted</span></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /mn=
+t/secure/asec &nbsp;0700 root root</span></font></div><div><font=20=
+color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; # Secure container public m=
+ount points.</span></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; mkdir /mnt/asec &nbsp;0700 roo=
+t system</span></font></div><div><font color=3D"#ff0000"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-=
+size: 0.867rem;">&nbsp; &nbsp; mount tmpfs tmpfs /mnt/asec mode=3D=
+0755,gid=3D1000</span></font></div><div><font color=3D"#ff0000"><=
+br></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; # Filesystem image public mount points.</span></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">=
+&nbsp; &nbsp; mkdir /mnt/obb 0700 root system</span></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; mount tmpfs tmpfs /mnt/obb mode=3D0755,gid=3D1000</span></font=
+></div><div><font color=3D"#ff0000"><br></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # memory=20=
+control cgroup</span></font></div><div><font color=3D"#ff0000"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=
+ font-size: 0.867rem;">&nbsp; &nbsp; mkdir /dev/memcg 0700 root s=
+ystem</span></font></div><div><font color=3D"#ff0000"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-siz=
+e: 0.867rem;">&nbsp; &nbsp; mount cgroup none /dev/memcg memory</=
+span></font></div><div><font color=3D"#ff0000"><br></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp=
+; write /proc/sys/kernel/panic_on_oops 1</span></font></div><div>=
+<font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; wr=
+ite /proc/sys/kernel/hung_task_timeout_secs 0</span></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; write /proc/cpu/alignment 4</span></font></div><div><font colo=
+r=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /proc/=
+sys/kernel/sched_latency_ns 10000000</span></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /=
+proc/sys/kernel/sched_wakeup_granularity_ns 2000000</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; write /proc/sys/kernel/sched_compat_yield 1</span></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbs=
+p; &nbsp; write /proc/sys/kernel/sched_child_runs_first 0</span><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; write /proc/sys/kernel/randomize_va_space 2</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; write /proc/sys/kernel/kptr_restrict 2</span></fo=
+nt></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&n=
+bsp; &nbsp; write /proc/sys/vm/mmap_min_addr 32768</span></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=
+ &nbsp; write /proc/sys/net/ipv4/ping_group_range "0 2147483647"<=
+/span></font></div><div><font color=3D"#ff0000"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.8=
+67rem;">&nbsp; &nbsp; write /proc/sys/net/unix/max_dgram_qlen 300=
+</span></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.=
+867rem;">&nbsp; &nbsp; write /proc/sys/kernel/sched_rt_runtime_us=
+ 950000</span></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;">&nbsp; &nbsp; write /proc/sys/kernel/sched_rt_per=
+iod_us 1000000</span></font></div><div><font color=3D"#ff0000"><b=
+r></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; # reflect fwmark from incoming packets onto gene=
+rated replies</span></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; write /proc/sys/net/ipv4/fwma=
+rk_reflect 1</span></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; write /proc/sys/net/ipv6/fwmar=
+k_reflect 1</span></font></div><div><font color=3D"#ff0000"><br><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; # set fwmark on accepted sockets</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; write /proc/sys/net/ipv4/tcp_fwmark_accept 1</span></font></=
+div><div><font color=3D"#ff0000"><br></font></div><div><font colo=
+r=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Create cgr=
+oup mount points for process groups</span></font></div><div><font=
+ color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /=
+dev/cpuctl</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; mount cgroup none /dev/cpuctl cp=
+u</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; chown system system /dev/cpuctl</span></f=
+ont></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&=
+nbsp; &nbsp; chown system system /dev/cpuctl/tasks</span></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=
+ &nbsp; chmod 0666 /dev/cpuctl/tasks</span></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /=
+dev/cpuctl/cpu.shares 1024</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /dev/cpuct=
+l/cpu.rt_runtime_us 800000</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /dev/cpuct=
+l/cpu.rt_period_us 1000000</span></font></div><div><font color=3D=
+"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;">&nbsp; &nbsp; mkdir /dev/cpuctl/bg_non_interactiv=
+e</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; chown system system /dev/cpuctl/bg_non_in=
+teractive/tasks</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; chmod 0666 /dev/cpuctl/bg_n=
+on_interactive/tasks</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # 5.0 %</span></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=
+ &nbsp; write /dev/cpuctl/bg_non_interactive/cpu.shares 52</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; write /dev/cpuctl/bg_non_interactive/cpu.rt_runti=
+me_us 700000</span></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; write /dev/cpuctl/bg_non_inter=
+active/cpu.rt_period_us 1000000</span></font></div><div><font col=
+or=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; # qtaguid will limit access to=
+ specific data based on group memberships.</span></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=20=
+# &nbsp; net_bw_acct grants impersonation of socket owners.</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; # &nbsp; net_bw_stats grants access to other app=
+s' detailed tagged-socket stats.</span></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown root=
+ net_bw_acct /proc/net/xt_qtaguid/ctrl</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chow=
+n root net_bw_stats /proc/net/xt_qtaguid/stats</span></font></div=
+><div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Allow everybod=
+y to read the xt_qtaguid resource tracking misc dev.</span></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbs=
+p; &nbsp; # This is needed by any process that uses socket taggin=
+g.</span></font></div><div><font color=3D"#ff0000"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=20=
+0.867rem;">&nbsp; &nbsp; chmod 0644 /dev/xt_qtaguid</span></font>=
+</div><div><font color=3D"#ff0000"><br></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Create l=
+ocation for fs_mgr to store abbreviated output from filesystem</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem;">&nbsp; &nbsp; # checker programs.</span></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkd=
+ir /dev/fscklogs 0770 root system</span></font></div><div><font c=
+olor=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=
+ font-size: 0.867rem;">&nbsp; &nbsp; # pstore/ramoops previous co=
+nsole log</span></font></div><div><font color=3D"#ff0000"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font=
+-size: 0.867rem;">&nbsp; &nbsp; mount pstore pstore /sys/fs/pstor=
+e</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; chown system log /sys/fs/pstore/console-r=
+amoops</span></font></div><div><font color=3D"#ff0000"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-si=
+ze: 0.867rem;">&nbsp; &nbsp; chmod 0440 /sys/fs/pstore/console-ra=
+moops</span></font></div><div><font color=3D"#ff0000"><br></font>=
+</div><div><font color=3D"#ff0000"><span class=3D"Apple-tab-span"=
+ style=3D"white-space: pre;"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">	</span></s=
+pan><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;"># ion device</span></font></div><div=
+><font color=3D"#ff0000"><span class=3D"Apple-tab-span" style=3D"=
+white-space: pre;"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">	</span></span><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">chmod 0666 /dev/ion</span></font></div><div><f=
+ont color=3D"#ff0000"><br></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 0); font-size: 0.867rem;"># Healthd can trigger a full boot fro=
+m charger mode by signaling this</span></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;"># property when the powe=
+r button is held.</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">on property:sys.boot_from_charger_mode=3D=
+1</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; class_stop charger</span></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=20=
+trigger late-init</span></font></div><div><font color=3D"#ff0000"=
+><br></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;"># Load properties from /system/ + /factory after fs mount.=
+</span></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.=
+867rem;">on load_all_props_action</span></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; load_all_=
+props</span></font></div><div><font color=3D"#ff0000"><br></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"># Ind=
+icate to fw loaders that the relevant mounts are up.</span></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">on f=
+irmware_mounts_complete</span></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; rm /dev/.booting</s=
+pan></font></div><div><font color=3D"#ff0000"><br></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"># Mount files=
+ystems and start core system services.</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">on late-init</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; trigger early-fs</span></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; trigger f=
+s</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; trigger post-fs</span></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; tri=
+gger post-fs-data</span></font></div><div><font color=3D"#ff0000"=
+><br></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; # Load properties from /system/ + /factory a=
+fter fs mount. Place</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # this in another acti=
+on so that the load will be scheduled after the prior</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; # issued fs triggers have completed.</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; trigger load_all_props_action</span></font></div><div><font=20=
+color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; # Remove a file to wake up=20=
+anything waiting for firmware.</span></font></div><div><font colo=
+r=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; trigger firm=
+ware_mounts_complete</span></font></div><div><font color=3D"#ff00=
+00"><br></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; trigger early-boot</span></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=20=
+trigger boot</span></font></div><div><font color=3D"#ff0000"><br>=
+</font></div><div><font color=3D"#ff0000"><br></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">on post-fs</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; # once everything is setup, no need to modify /</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; mount rootfs rootfs / ro remount</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; # mount shared so changes propagate into child namespa=
+ces</span></font></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=
+ 0.867rem;">&nbsp; &nbsp; mount rootfs rootfs / shared rec</span>=
+</font></div><div><font color=3D"#ff0000"><br></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # W=
+e chown/chmod /cache again so because mount is run as root + defa=
+ults</span></font></div><div><font color=3D"#ff0000"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size=
+: 0.867rem;">&nbsp; &nbsp; chown system cache /cache</span></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbs=
+p; &nbsp; chmod 0770 /cache</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # We restorecon=20=
+/cache in case the cache partition has been reset.</span></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=
+ &nbsp; restorecon_recursive /cache</span></font></div><div><font=
+ color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; # This may have been creat=
+ed by the recovery system with odd permissions</span></font></div=
+><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nb=
+sp; chown system cache /cache/recovery</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmo=
+d 0770 /cache/recovery</span></font></div><div><font color=3D"#ff=
+0000"><br></font></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=
+ 0.867rem;">&nbsp; &nbsp; #change permissions on vmallocinfo so w=
+e can grab it from bugreports</span></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown root lo=
+g /proc/vmallocinfo</span></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0440 /proc/vmallo=
+cinfo</span></font></div><div><font color=3D"#ff0000"><br></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; chown root log /proc/slabinfo</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmo=
+d 0440 /proc/slabinfo</span></font></div><div><font color=3D"#ff0=
+000"><br></font></div><div><font color=3D"#ff0000"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=20=
+0.867rem;">&nbsp; &nbsp; #change permissions on kmsg &amp; sysrq-=
+trigger so bugreports can grab kthread stacks</span></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; chown root system /proc/kmsg</span></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0440=20=
+/proc/kmsg</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; chown root system /proc/sysrq-tr=
+igger</span></font></div><div><font color=3D"#ff0000"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-siz=
+e: 0.867rem;">&nbsp; &nbsp; chmod 0220 /proc/sysrq-trigger</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; chown system log /proc/last_kmsg</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &=
+nbsp; chmod 0440 /proc/last_kmsg</span></font></div><div><font co=
+lor=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; # make the selinux kernel pol=
+icy world-readable</span></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0444 /sys/fs/selin=
+ux/policy</span></font></div><div><font color=3D"#ff0000"><br></f=
+ont></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&=
+nbsp; &nbsp; # create the lost+found directories, so as to enforc=
+e our permissions</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /cache/lost+found 0=
+770 root root</span></font></div><div><font color=3D"#ff0000"><br=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">on post-fs-data</span></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">&nbsp; &nbsp; # We chown/chmod /data a=
+gain so because mount is run as root + defaults</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; chown system system /data</span></font></div><div><font colo=
+r=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0771 /=
+data</span></font></div><div><font color=3D"#ff0000"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size=
+: 0.867rem;">&nbsp; &nbsp; # We restorecon /data in case the user=
+data partition has been reset.</span></font></div><div><font colo=
+r=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; restorecon /=
+data</span></font></div><div><font color=3D"#ff0000"><br></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=
+ &nbsp; # Avoid predictable entropy pool. Carry over entropy from=
+ previous boot.</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; copy /data/system/entropy.d=
+at /dev/urandom</span></font></div><div><font color=3D"#ff0000"><=
+br></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; # Create dump dir and collect dumps.</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; # Do this before we mount cache so eventually we can u=
+se cache for</span></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; # storing dumps on platforms w=
+hich do not have a dedicated dump partition.</span></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp=
+; mkdir /data/dontpanic 0750 root log</span></font></div><div><fo=
+nt color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">&nbsp; &nbsp; # Collect apanic data, f=
+ree resources and re-arm trigger</span></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; copy /proc=
+/apanic_console /data/dontpanic/apanic_console</span></font></div=
+><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nb=
+sp; chown root log /data/dontpanic/apanic_console</span></font></=
+div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=20=
+&nbsp; chmod 0640 /data/dontpanic/apanic_console</span></font></d=
+iv><div><font color=3D"#ff0000"><br></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; copy /proc/ap=
+anic_threads /data/dontpanic/apanic_threads</span></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ chown root log /data/dontpanic/apanic_threads</span></font></div=
+><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nb=
+sp; chmod 0640 /data/dontpanic/apanic_threads</span></font></div>=
+<div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /proc/apan=
+ic_console 1</span></font></div><div><font color=3D"#ff0000"><br>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; # create basic filesystem structure</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; mkdir /data/misc 01771 system misc</span></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ mkdir /data/misc/adb 02750 system shell</span></font></div><div>=
+<font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mk=
+dir /data/misc/bluedroid 0770 bluetooth net_bt_stack</span></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbs=
+p; &nbsp; mkdir /data/misc/bluetooth 0770 system system</span></f=
+ont></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&=
+nbsp; &nbsp; mkdir /data/misc/keystore 0700 keystore keystore</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; mkdir /data/misc/keychain 0771 system system</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; mkdir /data/misc/net 0750 root shell</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; mkdir /data/misc/radio 0770 system radio</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; mkdir /data/misc/sms 0770 system radio</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; mkdir /data/misc/zoneinfo 0775 system system</span></font></=
+div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=20=
+&nbsp; mkdir /data/misc/vpn 0770 system vpn</span></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ mkdir /data/misc/shared_relro 0771 shared_relro shared_relro</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; mkdir /data/misc/systemkeys 0700 system system</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; mkdir /data/misc/wifi 0770 wifi wifi</span><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; mkdir /data/misc/wifi/sockets 0770 wifi wifi</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; mkdir /data/misc/wifi/wpa_supplicant 0770 wifi w=
+ifi</span></font></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=
+ 0.867rem;">&nbsp; &nbsp; mkdir /data/misc/ethernet 0770 system s=
+ystem</span></font></div><div><font color=3D"#ff0000"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-siz=
+e: 0.867rem;">&nbsp; &nbsp; mkdir /data/misc/dhcp 0770 dhcp dhcp<=
+/span></font></div><div><font color=3D"#ff0000"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.8=
+67rem;">&nbsp; &nbsp; mkdir /data/misc/user 0771 root root</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; # give system access to wpa_supplicant.conf for b=
+ackup and restore</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0660 /data/misc/wif=
+i/wpa_supplicant.conf</span></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=
+ 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/local 075=
+1 root root</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/misc/media 0700 med=
+ia media</span></font></div><div><font color=3D"#ff0000"><br></fo=
+nt></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&n=
+bsp; &nbsp; # For security reasons, /data/local/tmp should always=
+ be empty.</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; # Do not place files or director=
+ies in /data/local/tmp</span></font></div><div><font color=3D"#ff=
+0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/local/tm=
+p 0771 shell shell</span></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/data 0771 sy=
+stem system</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/app-private 0771 sy=
+stem system</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/app-asec 0700 root=20=
+root</span></font></div><div><font color=3D"#ff0000"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size=
+: 0.867rem;">&nbsp; &nbsp; mkdir /data/app-lib 0771 system system=
+</span></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.=
+867rem;">&nbsp; &nbsp; mkdir /data/app 0771 system system</span><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; mkdir /data/property 0700 root root</span></font><=
+/div><div><font color=3D"#ff0000"><br></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # create da=
+lvik-cache, so as to enforce our permissions</span></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp=
+; mkdir /data/dalvik-cache 0771 root root</span></font></div><div=
+><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; m=
+kdir /data/dalvik-cache/profiles 0711 system system</span></font>=
+</div><div><font color=3D"#ff0000"><br></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # create r=
+esource-cache and double-check the perms</span></font></div><div>=
+<font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mk=
+dir /data/resource-cache 0771 system system</span></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ chown system system /data/resource-cache</span></font></div><div=
+><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; c=
+hmod 0771 /data/resource-cache</span></font></div><div><font colo=
+r=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; # create the lost+found directo=
+ries, so as to enforce our permissions</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdi=
+r /data/lost+found 0770 root root</span></font></div><div><font c=
+olor=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=
+ font-size: 0.867rem;">&nbsp; &nbsp; # create directory for DRM p=
+lug-ins - give drm the read/write access to</span></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ # the following directory.</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/drm=20=
+0770 drm drm ####</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">&nbsp; &nbsp; # mkdir /data/drm 0774 dr=
+m system ####</span></font></div><div><font color=3D"#ff0000"><br=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; # create directory for MediaDrm plug-ins - give=20=
+drm the read/write access to</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # the following=20=
+directory.</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/mediadrm 0770 mediad=
+rm mediadrm</span></font></div><div><font color=3D"#ff0000"><br><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; mkdir /data/adb 0700 root root</span></font></div>=
+<div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # symlink to bug=
+report storage location</span></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; symlink /data/data/=
+com.android.shell/files/bugreports /data/bugreports</span></font>=
+</div><div><font color=3D"#ff0000"><br></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Separate=
+ location for storing security policy files on data</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; mkdir /data/security 0711 system system</span></font></d=
+iv><div><font color=3D"#ff0000"><br></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # add for med=
+iaserver data</span></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; mkdir /data/mediaserver 0775=20=
+media media</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; restorecon /data/mediaserver</s=
+pan></font></div><div><font color=3D"#ff0000"><br></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ # Reload policy from /data/security if present.</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &=
+nbsp; setprop selinux.reload_policy 1</span></font></div><div><fo=
+nt color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">&nbsp; &nbsp; # Set SELinux security c=
+ontexts on upgrade or policy update.</span></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; restore=
+con_recursive /data</span></font></div><div><font color=3D"#ff000=
+0"><br></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.=
+867rem;">&nbsp; &nbsp; # If there is no fs-post-data action in th=
+e init.&lt;device&gt;.rc file, you</span></font></div><div><font=20=
+color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # must u=
+ncomment this line, otherwise encrypted filesystems</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; # won't work.</span></font></div><div><font color=3D"#ff=
+0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Set indication (ch=
+ecked by vold) that we have finished this action</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &=
+nbsp; #setprop vold.post_fs_data_done 1</span></font></div><div><=
+font color=3D"#ff0000"><br></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">on boot</span></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # basic=
+ network init</span></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; ifup lo</span></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ hostname localhost</span></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 0); font-size: 0.867rem;">&nbsp; &nbsp; domainname localdomain<=
+/span></font></div><div><font color=3D"#ff0000"><br></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; # set RLIMIT_NICE to allow priorities from 19 to -20</span></f=
+ont></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&=
+nbsp; &nbsp; setrlimit 13 40 40</span></font></div><div><font col=
+or=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; # Memory management. &nbsp;Bas=
+ic kernel parameters, and allow the high</span></font></div><div>=
+<font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; #=20=
+level system server to be able to adjust the kernel OOM driver</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem;">&nbsp; &nbsp; # parameters to match how it is managing thin=
+gs.</span></font></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=
+ 0.867rem;">&nbsp; &nbsp; write /proc/sys/vm/overcommit_memory 1<=
+/span></font></div><div><font color=3D"#ff0000"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.8=
+67rem;">&nbsp; &nbsp; write /proc/sys/vm/min_free_order_shift 4</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; chown root system /sys/module/lowmemorykille=
+r/parameters/adj</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0220 /sys/module/low=
+memorykiller/parameters/adj</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown root syste=
+m /sys/module/lowmemorykiller/parameters/minfree</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &=
+nbsp; chmod 0220 /sys/module/lowmemorykiller/parameters/minfree</=
+span></font></div><div><font color=3D"#ff0000"><br></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp=
+; # Tweak background writeout</span></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /proc/s=
+ys/vm/dirty_expire_centisecs 200</span></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /pro=
+c/sys/vm/dirty_background_ratio &nbsp;5</span></font></div><div><=
+font color=3D"#ff0000"><br></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Permissions for Syst=
+em Server and daemons.</span></font></div><div><font color=3D"#ff=
+0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown radio system /=
+sys/android_power/state</span></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown radio system=20=
+/sys/android_power/request_state</span></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown radi=
+o system /sys/android_power/acquire_full_wake_lock</span></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=
+ &nbsp; chown radio system /sys/android_power/acquire_partial_wak=
+e_lock</span></font></div><div><font color=3D"#ff0000"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-si=
+ze: 0.867rem;">&nbsp; &nbsp; chown radio system /sys/android_powe=
+r/release_wake_lock</span></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown system system /sy=
+s/power/autosleep</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">&nbsp; &nbsp; chown system system /sys/=
+power/state</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; chown system system /sys/power/=
+wakeup_count</span></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; chown radio system /sys/power/=
+wake_lock</span></font></div><div><font color=3D"#ff0000"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font=
+-size: 0.867rem;">&nbsp; &nbsp; chown radio system /sys/power/wak=
+e_unlock</span></font></div><div><font color=3D"#ff0000"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-=
+size: 0.867rem;">&nbsp; &nbsp; chmod 0660 /sys/power/state</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; chmod 0660 /sys/power/wake_lock</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; chmod 0660 /sys/power/wake_unlock</span></font></div><div><f=
+ont color=3D"#ff0000"><br></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown system system /sy=
+s/devices/system/cpu/cpufreq/interactive/timer_rate</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; chmod 0660 /sys/devices/system/cpu/cpufreq/interactive/t=
+imer_rate</span></font></div><div><font color=3D"#ff0000"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font=
+-size: 0.867rem;">&nbsp; &nbsp; chown system system /sys/devices/=
+system/cpu/cpufreq/interactive/timer_slack</span></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=20=
+chmod 0660 /sys/devices/system/cpu/cpufreq/interactive/timer_slac=
+k</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; chown system system /sys/devices/system/c=
+pu/cpufreq/interactive/min_sample_time</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmo=
+d 0660 /sys/devices/system/cpu/cpufreq/interactive/min_sample_tim=
+e</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; chown system system /sys/devices/system/c=
+pu/cpufreq/interactive/hispeed_freq</span></font></div><div><font=
+ color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0=
+660 /sys/devices/system/cpu/cpufreq/interactive/hispeed_freq</spa=
+n></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; chown system system /sys/devices/system/cpu/cpuf=
+req/interactive/target_loads</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0660 /sys/=
+devices/system/cpu/cpufreq/interactive/target_loads</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; chown system system /sys/devices/system/cpu/cpufreq/inte=
+ractive/go_hispeed_load</span></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0660 /sys/dev=
+ices/system/cpu/cpufreq/interactive/go_hispeed_load</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; chown system system /sys/devices/system/cpu/cpufreq/inte=
+ractive/above_hispeed_delay</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0660 /sys/=
+devices/system/cpu/cpufreq/interactive/above_hispeed_delay</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; chown system system /sys/devices/system/cpu/cpufr=
+eq/interactive/boost</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0660 /sys/device=
+s/system/cpu/cpufreq/interactive/boost</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chow=
+n system system /sys/devices/system/cpu/cpufreq/interactive/boost=
+pulse</span></font></div><div><font color=3D"#ff0000"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-siz=
+e: 0.867rem;">&nbsp; &nbsp; chown system system /sys/devices/syst=
+em/cpu/cpufreq/interactive/input_boost</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmo=
+d 0660 /sys/devices/system/cpu/cpufreq/interactive/input_boost</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem;">&nbsp; &nbsp; chown system system /sys/devices/system/cpu/c=
+pufreq/interactive/boostpulse_duration</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmo=
+d 0660 /sys/devices/system/cpu/cpufreq/interactive/boostpulse_dur=
+ation</span></font></div><div><font color=3D"#ff0000"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-siz=
+e: 0.867rem;">&nbsp; &nbsp; chown system system /sys/devices/syst=
+em/cpu/cpufreq/interactive/io_is_busy</span></font></div><div><fo=
+nt color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chmod 0=
+660 /sys/devices/system/cpu/cpufreq/interactive/io_is_busy</span>=
+</font></div><div><font color=3D"#ff0000"><br></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # A=
+ssume SMP uses shared cpufreq policy for all CPUs</span></font></=
+div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=20=
+&nbsp; chown system system /sys/devices/system/cpu/cpu0/cpufreq/s=
+caling_max_freq</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; chmod 0660 /sys/devices/sys=
+tem/cpu/cpu0/cpufreq/scaling_max_freq</span></font></div><div><fo=
+nt color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">&nbsp; &nbsp; chown system system /sys=
+/class/timed_output/vibrator/enable</span></font></div><div><font=
+ color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown s=
+ystem system /sys/class/leds/keyboard-backlight/brightness</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; chown system system /sys/class/leds/lcd-backlight=
+/brightness</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;">&nbsp; &nbsp; chown system system /sys/class/=
+leds/button-backlight/brightness</span></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown syst=
+em system /sys/class/leds/jogball-backlight/brightness</span></fo=
+nt></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&n=
+bsp; &nbsp; chown system system /sys/class/leds/red/brightness</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem;">&nbsp; &nbsp; chown system system /sys/class/leds/green/bri=
+ghtness</span></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;">&nbsp; &nbsp; chown system system /sys/class/leds=
+/blue/brightness</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; chown system system /sys/c=
+lass/leds/red/device/grpfreq</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown system sys=
+tem /sys/class/leds/red/device/grppwm</span></font></div><div><fo=
+nt color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown s=
+ystem system /sys/class/leds/red/device/blink</span></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; chown system system /sys/class/timed_output/vibrator/enable</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem;">&nbsp; &nbsp; chown system system /sys/module/sco/parameter=
+s/disable_esco</span></font></div><div><font color=3D"#ff0000"><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=
+ font-size: 0.867rem;">&nbsp; &nbsp; chown system system /sys/ker=
+nel/ipv4/tcp_wmem_min</span></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=
+ 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown system system /=
+sys/kernel/ipv4/tcp_wmem_def</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown system sys=
+tem /sys/kernel/ipv4/tcp_wmem_max</span></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; chown sys=
+tem system /sys/kernel/ipv4/tcp_rmem_min</span></font></div><div>=
+<font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; ch=
+own system system /sys/kernel/ipv4/tcp_rmem_def</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; chown system system /sys/kernel/ipv4/tcp_rmem_max</span></fo=
+nt></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&n=
+bsp; &nbsp; chown root radio /proc/cmdline</span></font></div><di=
+v><font color=3D"#ff0000"><br></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # Define default in=
+itial receive window size in segments.</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; setp=
+rop net.tcp.default_init_rwnd 60</span></font></div><div><font co=
+lor=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; class_start core</span></font=
+></div><div><font color=3D"#ff0000"><br></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 0); font-size: 0.867rem;">on nonencrypted</span><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; class_start main</span></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class_start=
+ late_start</span></font></div><div><font color=3D"#ff0000"><br><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>on property:vold.decrypt=3Dtrigger_default_encryption</span></fo=
+nt></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&n=
+bsp; &nbsp; start defaultcrypto</span></font></div><div><font col=
+or=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">on property:vold.decrypt=3Dtrigger_encryptio=
+n</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; start surfaceflinger</span></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp=
+; start encrypt</span></font></div><div><font color=3D"#ff0000"><=
+br></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">on property:sys.init_log_level=3D*</span></font></div><div><fo=
+nt color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; logleve=
+l ${sys.init_log_level}</span></font></div><div><font color=3D"#f=
+f0000"><br></font></div><div><font color=3D"#ff0000"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size=
+: 0.867rem;">on charger</span></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class_start charger=
+</span></font></div><div><font color=3D"#ff0000"><br></font></div=
+><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">on propert=
+y:vold.decrypt=3Dtrigger_reset_main</span></font></div><div><font=
+ color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class_r=
+eset main</span></font></div><div><font color=3D"#ff0000"><br></f=
+ont></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">o=
+n property:vold.decrypt=3Dtrigger_load_persist_props</span></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbs=
+p; &nbsp; load_persist_props</span></font></div><div><font color=3D=
+"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;">on property:vold.decrypt=3Dtrigger_post_fs_data</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; trigger post-fs-data</span></font></div><div=
+><font color=3D"#ff0000"><br></font></div><div><font color=3D"#ff=
+0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;">on property:vold.decrypt=3Dtrigger=
+_restart_min_framework</span></font></div><div><font color=3D"#ff=
+0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class_start main</sp=
+an></font></div><div><font color=3D"#ff0000"><br></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">on property:vo=
+ld.decrypt=3Dtrigger_restart_framework</span></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; clas=
+s_start main</span></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; class_start late_start</span><=
+/font></div><div><font color=3D"#ff0000"><br></font></div><div><f=
+ont color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">on property:vold.d=
+ecrypt=3Dtrigger_shutdown_framework</span></font></div><div><font=
+ color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class_r=
+eset late_start</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; class_reset main</span></fo=
+nt></div><div><font color=3D"#ff0000"><br></font></div><div><font=
+ color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">on property:sys.power=
+ctl=3D*</span></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;">&nbsp; &nbsp; powerctl ${sys.powerctl}</span></fo=
+nt></div><div><font color=3D"#ff0000"><br></font></div><div><font=
+ color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;"># system server canno=
+t write to /proc/sys files,</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;"># and chown/chmod does not wor=
+k for /proc/sys/ entries.</span></font></div><div><font color=3D"=
+#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rg=
+b(0, 0, 0); font-size: 0.867rem;"># So proxy writes through init.=
+</span></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.=
+867rem;">on property:sys.sysctl.extra_free_kbytes=3D*</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; write /proc/sys/vm/extra_free_kbytes ${sys.sysctl.extr=
+a_free_kbytes}</span></font></div><div><font color=3D"#ff0000"><b=
+r></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;"># "tcp_default_init_rwnd" Is too long!</span></font></div><div=
+><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">on property:sys=
+.sysctl.tcp_def_init_rwnd=3D*</span></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; write /proc/s=
+ys/net/ipv4/tcp_default_init_rwnd ${sys.sysctl.tcp_def_init_rwnd}=
+</span></font></div><div><font color=3D"#ff0000"><br></font></div=
+><div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">## Daemon processes to be run=20=
+by init.</span></font></div><div><font color=3D"#ff0000"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-=
+size: 0.867rem;">##</span></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 0); font-size: 0.867rem;">service ueventd /sbin/ueventd</span><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; class core</span></font></div><div><font color=3D"=
+#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rg=
+b(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; critical</span></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">=
+&nbsp; &nbsp; seclabel u:r:ueventd:s0</span></font></div><div><fo=
+nt color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">service logd /system/bin/logd</span></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">=
+&nbsp; &nbsp; class core</span></font></div><div><font color=3D"#=
+ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb=
+(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; socket logd stream=
+ 0666 logd logd</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; socket logdr seqpacket 0666=
+ logd logd</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; socket logdw dgram 0222 logd log=
+d</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; seclabel u:r:logd:s0</span></font></div><=
+div><font color=3D"#ff0000"><br></font></div><div><font color=3D"=
+#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rg=
+b(0, 0, 0); font-size: 0.867rem;">service healthd /sbin/healthd</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; class core</span></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; critical</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem;">&nbsp; &nbsp; seclabel u:r:healthd:s0</span></font></div><d=
+iv><font color=3D"#ff0000"><br></font></div><div><font color=3D"#=
+ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb=
+(0, 0, 0); font-size: 0.867rem;">service console /system/bin/sh</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; class core</span></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; console</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; disabled</span></font></div><div><font color=3D"=
+#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rg=
+b(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; user shell</span>=
+</font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=
+">&nbsp; &nbsp; seclabel u:r:shell:s0</span></font></div><div><fo=
+nt color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">on property:ro.debuggable=3D1</span></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">=
+&nbsp; &nbsp; start console</span></font></div><div><font color=3D=
+"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;"># adbd is controlled via property triggers in ini=
+t.&lt;platform&gt;.usb.rc</span></font></div><div><font color=3D"=
+#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rg=
+b(0, 0, 0); font-size: 0.867rem;">service adbd /sbin/adbd --root_=
+seclabel=3Du:r:su:s0</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class core</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; socket adbd stream 660 system system</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; disabled</span></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; seclabel u:r:adbd:s0</span></=
+font></div><div><font color=3D"#ff0000"><br></font></div><div><fo=
+nt color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;"># adbd on at boot in=20=
+emulator</span></font></div><div><font color=3D"#ff0000"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-=
+size: 0.867rem;">on property:ro.kernel.qemu=3D1</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &n=
+bsp; start adbd</span></font></div><div><font color=3D"#ff0000"><=
+br></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">service lmkd /system/bin/lmkd</span></font></div><div><font co=
+lor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"co=
+lor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class core=
+</span></font></div><div><font color=3D"#ff0000"><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.=
+867rem;">&nbsp; &nbsp; critical</span></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; socket lmkd=
+ seqpacket 0660 system system</span></font></div><div><font color=
+=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem; background-color: rgb(255, 255, 0);">service se=
+rvicemanager /system/bin/servicemanager</span></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem; background-color:=20=
+rgb(255, 255, 0);">&nbsp; &nbsp; class core</span></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem; background-col=
+or: rgb(255, 255, 0);">&nbsp; &nbsp; user system</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem; backgroun=
+d-color: rgb(255, 255, 0);">&nbsp; &nbsp; group system</span></fo=
+nt></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem; bac=
+kground-color: rgb(255, 255, 0);">&nbsp; &nbsp; critical</span></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem; b=
+ackground-color: rgb(255, 255, 0);">&nbsp; &nbsp; onrestart resta=
+rt healthd</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;"><b><span data-wiz-span=3D"data-wiz-span" style=
+=3D"color: rgb(0, 0, 255); font-size: 0.867rem; background-color:=
+ rgb(255, 255, 0);">&nbsp; &nbsp; onrestart restart zygote</span>=
+</b></span></font></div><div><font color=3D"#ff0000"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size=
+: 0.867rem; background-color: rgb(255, 255, 0);">&nbsp; &nbsp; on=
+restart restart media</span></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=
+ 0, 0); font-size: 0.867rem; background-color: rgb(255, 255, 0);"=
+>&nbsp; &nbsp; onrestart restart surfaceflinger</span></font></di=
+v><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem; background=
+-color: rgb(255, 255, 0);">&nbsp; &nbsp; onrestart restart drm</s=
+pan></font></div><div><font color=3D"#ff0000"><br></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">service vold=20=
+/system/bin/vold</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; class core</span></font></=
+div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=20=
+&nbsp; socket vold stream 0660 root mount</span></font></div><div=
+><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; i=
+oprio be 2</span></font></div><div><font color=3D"#ff0000"><br></=
+font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">=
+service netd /system/bin/netd</span></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class main</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem;">&nbsp; &nbsp; socket netd stream 0660 root system</span></f=
+ont></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&=
+nbsp; &nbsp; socket dnsproxyd stream 0660 root inet</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; socket mdns stream 0660 root system</span></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp=
+; socket fwmarkd stream 0660 root inet</span></font></div><div><f=
+ont color=3D"#ff0000"><br></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 0); font-size: 0.867rem;">service debuggerd /system/bin/debugge=
+rd</span></font></div><div><font color=3D"#ff0000"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=20=
+0.867rem;">&nbsp; &nbsp; class main</span></font></div><div><font=
+ color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">service debuggerd64 /system/bin/debugger=
+d64</span></font></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=
+ 0.867rem;">&nbsp; &nbsp; class main</span></font></div><div><fon=
+t color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">service ril-daemon /system/bin/rild</sp=
+an></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; class main</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; socket rild stre=
+am 660 root radio</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">&nbsp; &nbsp; socket rild-debug stream=20=
+660 radio system</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; user root</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &=
+nbsp; group radio cache inet misc audio log</span></font></div><d=
+iv><font color=3D"#ff0000"><br></font></div><div><font color=3D"#=
+ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb=
+(0, 0, 0); font-size: 0.867rem; background-color: rgb(255, 255, 0=
+);">service surfaceflinger /system/bin/surfaceflinger</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem; back=
+ground-color: rgb(255, 255, 0);">&nbsp; &nbsp; class core</span><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;=20=
+background-color: rgb(255, 255, 0);">&nbsp; &nbsp; user system</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem; background-color: rgb(255, 255, 0);">&nbsp; &nbsp; group gra=
+phics drmrpc</span></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem; background-color: rgb(255, 255, 0);">&nbsp; &=
+nbsp; onrestart restart zygote</span></font></div><div><font colo=
+r=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;">#make sure drm server has rights to read and=20=
+write sdcard ####</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;">service drm /system/bin/drmserver</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; class main</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; user drm</span><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; # group drm system inet drmrpc ####</span></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=
+ &nbsp; group drm system inet drmrpc sdcard_r ####</span></font><=
+/div><div><font color=3D"#ff0000"><br></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">service media /system/bin=
+/mediaserver</span></font></div><div><font color=3D"#ff0000"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); f=
+ont-size: 0.867rem;">&nbsp; &nbsp; class main</span></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; user root ####</span></font></div><div><font color=3D"#ff0000"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=20=
+0); font-size: 0.867rem;"># &nbsp; google default ####</span></fo=
+nt></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">#=20=
+&nbsp; user media &nbsp; &nbsp;####</span></font></div><div><font=
+ color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; group a=
+udio camera inet net_bt net_bt_admin net_bw_acct drmrpc mediadrm=20=
+media sdcard_r system net_bt_stack ####</span></font></div><div><=
+font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"># &nbsp; google d=
+efault ####</span></font></div><div><font color=3D"#ff0000"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 0.867rem;"># &nbsp; group audio camera inet net_bt net_b=
+t_admin net_bw_acct drmrpc mediadrm ####</span></font></div><div>=
+<font color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=
+ 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; ioprio rt 4</span></f=
+ont></div><div><font color=3D"#ff0000"><br></font></div><div><fon=
+t color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"color: rgb(0, 0, 0); font-size: 0.867rem;"># One shot invocation=
+ to deal with encrypted volume.</span></font></div><div><font col=
+or=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"col=
+or: rgb(0, 0, 0); font-size: 0.867rem;">service defaultcrypto /sy=
+stem/bin/vdc --wait cryptfs mountdefaultencrypted</span></font></=
+div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=20=
+&nbsp; disabled</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; oneshot</span></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; # vold will set vold.decrypt to trigger_restart_framework (def=
+ault</span></font></div><div><font color=3D"#ff0000"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size=
+: 0.867rem;">&nbsp; &nbsp; # encryption) or trigger_restart_min_f=
+ramework (other encryption)</span></font></div><div><font color=3D=
+"#ff0000"><br></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;"># One shot invocation to encrypt unencrypted volu=
+mes</span></font></div><div><font color=3D"#ff0000"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=
+ 0.867rem;">service encrypt /system/bin/vdc --wait cryptfs enable=
+crypto inplace default</span></font></div><div><font color=3D"#ff=
+0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; disabled</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; oneshot</span></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">&nbsp; &nbsp; # vold will set vold.dec=
+rypt to trigger_restart_framework (default</span></font></div><di=
+v><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=20=
+# encryption)</span></font></div><div><font color=3D"#ff0000"><br=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">service bootanim /system/bin/bootanimation</span></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; class core</span></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; user graphics</span></font></=
+div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-=
+span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"># &nbsp=
+; &nbsp;group graphics audio ####</span></font></div><div><font c=
+olor=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"c=
+olor: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; group gra=
+phics media audio ####</span></font></div><div><font color=3D"#ff=
+0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0=
+, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; disabled</span></fon=
+t></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nb=
+sp; &nbsp; oneshot</span></font></div><div><font color=3D"#ff0000=
+"><br></font></div><div><font color=3D"#ff0000"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.8=
+67rem;">service installd /system/bin/installd</span></font></div>=
+<div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbs=
+p; class main</span></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; socket installd stream 600 sy=
+stem system</span></font></div><div><font color=3D"#ff0000"><br><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>service flash_recovery /system/bin/install-recovery.sh</span></f=
+ont></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&=
+nbsp; &nbsp; class main</span></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; seclabel u:r:instal=
+l_recovery:s0</span></font></div><div><font color=3D"#ff0000"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0);=20=
+font-size: 0.867rem;">&nbsp; &nbsp; oneshot</span></font></div><d=
+iv><font color=3D"#ff0000"><br></font></div><div><font color=3D"#=
+ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb=
+(0, 0, 0); font-size: 0.867rem;">service racoon /system/bin/racoo=
+n</span></font></div><div><font color=3D"#ff0000"><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0=
+.867rem;">&nbsp; &nbsp; class main</span></font></div><div><font=20=
+color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; socket r=
+acoon stream 600 system system</span></font></div><div><font colo=
+r=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; # IKE uses U=
+DP port 500. Racoon will setuid to vpn after binding the port.</s=
+pan></font></div><div><font color=3D"#ff0000"><span data-wiz-span=
+=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867=
+rem;">&nbsp; &nbsp; group vpn net_admin inet</span></font></div><=
+div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp=
+; disabled</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; oneshot</span></font></div><div>=
+<font color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0=
+000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=
+ 0, 0); font-size: 0.867rem;">service mtpd /system/bin/mtpd</span=
+></font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem=
+;">&nbsp; &nbsp; class main</span></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; socket mtpd stre=
+am 600 system system</span></font></div><div><font color=3D"#ff00=
+00"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0,=20=
+0, 0); font-size: 0.867rem;">&nbsp; &nbsp; user vpn</span></font>=
+</div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp=
+; &nbsp; group vpn net_admin inet net_raw</span></font></div><div=
+><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; d=
+isabled</span></font></div><div><font color=3D"#ff0000"><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-s=
+ize: 0.867rem;">&nbsp; &nbsp; oneshot</span></font></div><div><fo=
+nt color=3D"#ff0000"><br></font></div><div><font color=3D"#ff0000=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0,=
+ 0); font-size: 0.867rem;">service keystore /system/bin/keystore=20=
+/data/misc/keystore</span></font></div><div><font color=3D"#ff000=
+0"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0=
+, 0); font-size: 0.867rem;">&nbsp; &nbsp; class main</span></font=
+></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-w=
+iz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbs=
+p; &nbsp; user keystore</span></font></div><div><font color=3D"#f=
+f0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(=
+0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; group keystore drmr=
+pc</span></font></div><div><font color=3D"#ff0000"><br></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">service=20=
+dumpstate /system/bin/dumpstate -s</span></font></div><div><font=20=
+color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"=
+color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; class ma=
+in</span></font></div><div><font color=3D"#ff0000"><span data-wiz=
+-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size:=20=
+0.867rem;">&nbsp; &nbsp; socket dumpstate stream 0660 shell log</=
+span></font></div><div><font color=3D"#ff0000"><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.86=
+7rem;">&nbsp; &nbsp; disabled</span></font></div><div><font color=
+=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp; oneshot</span=
+></font></div><div><font color=3D"#ff0000"><br></font></div><div>=
+<font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">service mdnsd /s=
+ystem/bin/mdnsd</span></font></div><div><font color=3D"#ff0000"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0)=
+; font-size: 0.867rem;">&nbsp; &nbsp; class main</span></font></d=
+iv><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &=
+nbsp; user mdnsr</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; group inet net_raw</span><=
+/font></div><div><font color=3D"#ff0000"><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;"=
+>&nbsp; &nbsp; socket mdnsd stream 0660 mdnsr inet</span></font><=
+/div><div><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp;=
+ &nbsp; disabled</span></font></div><div><font color=3D"#ff0000">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0=
+); font-size: 0.867rem;">&nbsp; &nbsp; oneshot</span></font></div=
+><div><font color=3D"#ff0000"><br></font></div><div><font color=3D=
+"#ff0000"><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(0, 0, 0); font-size: 0.867rem;">service pre-recovery /system/b=
+in/uncrypt</span></font></div><div><font color=3D"#ff0000"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); fon=
+t-size: 0.867rem;">&nbsp; &nbsp; class main</span></font></div><d=
+iv><font color=3D"#ff0000"><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(0, 0, 0); font-size: 0.867rem;">&nbsp; &nbsp;=
+ disabled</span></font></div><div><font color=3D"#ff0000"><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"color: rgb(0, 0, 0); font=
+-size: 0.867rem;">&nbsp; &nbsp; oneshot</span></font></div><div s=
+tyle=3D"color: rgb(255, 0, 0);"><br></div></span></div></div></bo=
+dy></html>
+
+------=_Next_Part_0138523421.308--
+
+------=_Next_Part_0415570263.931--
+

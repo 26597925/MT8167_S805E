@@ -1,0 +1,232 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?MLHg0uvB97PMMi0tbHVuY2i6r8r9t9bO9g==?=
+Date: Date: Mon, 23 Oct 2017 08:42:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0415202577.169"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0415202577.169
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0138400859.724"
+
+
+------=_Next_Part_0138400859.724
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0138400859.724
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A<title>0=B1=E0=D2=
+=EB=C1=F7=B3=CC2--lunch=BA=AF=CA=FD=B7=D6=CE=F6</title>=0A    <!-=
+-mark |wiz_custom_css| for wizeditor replace it-->=0A<style id=3D=
+"wiz_custom_css">html, body {            font-size: 15px;       =20=
+}        body {            font-family: Helvetica, 'Hiragino Sans=
+ GB', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, S=
+imHei, arial, sans-serif;            line-height: 1.6;          =20=
+ margin: 0;            padding: 20px 15px;            padding: 1.=
+33rem 1rem;        }        h1, h2, h3, h4, h5, h6 {            m=
+argin: 20px 0 10px;            margin: 1.33rem 0 0.667rem;      =20=
+     padding: 0;            font-weight: bold;        }        h1=
+ {            font-size: 21px;            font-size: 1.4rem;    =20=
+   }        h2 {            font-size: 20px;            font-size=
+: 1.33rem;        }        h3 {            font-size: 18px;     =20=
+      font-size: 1.2rem;        }        h4 {            font-siz=
+e: 17px;            font-size: 1.13rem;        }        h5 {    =20=
+       font-size: 15px;            font-size: 1rem;        }    =20=
+   h6 {            font-size: 15px;            font-size: 1rem; =20=
+          color: #777777;            margin: 1rem 0;        }   =20=
+    div, p, ul, ol, dl, li {            margin: 0;        }     =20=
+  blockquote, table, pre, code {            margin: 8px 0;      =20=
+ }        ul, ol {            padding-left: 32px;            padd=
+ing-left: 2.13rem;        }        blockquote {            paddin=
+g: 0 12px;            padding: 0 0.8rem;        }        blockquo=
+te > :first-child {            margin-top: 0;        }        blo=
+ckquote > :last-child {            margin-bottom: 0;        }   =20=
+    img {            border: 0;            max-width: 100%;     =20=
+      height: auto !important;            margin: 2px 0;        }=
+        table {            border-collapse: collapse;           =20=
+border: 1px solid #bbbbbb;        }        td, th {            pa=
+dding: 4px 8px;            border-collapse: collapse;           =20=
+border: 1px solid #bbbbbb;			        }        @media only screen=20=
+and (-webkit-max-device-width: 1024px), only screen and (-o-max-d=
+evice-width: 1024px), only screen and (max-device-width: 1024px),=
+ only screen and (-webkit-min-device-pixel-ratio: 3), only screen=
+ and (-o-min-device-pixel-ratio: 3), only screen and (min-device-=
+pixel-ratio: 3) {            html, body {                font-siz=
+e: 17px;            }            body {                line-heigh=
+t: 1.7;                padding: 0.75rem 0.9375rem;              =20=
+ color: #353c47;            }            h1 {                font=
+-size: 2.125rem;            }            h2 {                font=
+-size: 1.875rem;            }            h3 {                font=
+-size: 1.625rem;            }            h4 {                font=
+-size: 1.375rem;            }            h5 {                font=
+-size: 1.125rem;            }            h6 {                colo=
+r: inherit;            }            ul, ol {                paddi=
+ng-left: 2.5rem;            }            blockquote {           =20=
+    padding: 0 0.9375rem;            }        }</style></head>=0A=
+=0A<body spellcheck=3D"false" ><div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">function lunch()</sp=
+an></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font=
+-size: 0.867rem;">{</span></div><div><span data-wiz-span=3D"data-=
+wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; local answ=
+er</span></div><div><br></div><div><span data-wiz-span=3D"data-wi=
+z-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; if [ "$1" ]=20=
+; then</span></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; answer=3D=
+$1</span></div><div><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-size: 0.867rem;">&nbsp; &nbsp; else</span></div><div><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&n=
+bsp; &nbsp; &nbsp; &nbsp; print_lunch_menu</span></div><div><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&=
+nbsp; &nbsp; &nbsp; &nbsp; echo -n "Which would you like? [aosp_a=
+rm-eng] "</span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; read a=
+nswer</span></div><div><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"font-size: 0.867rem;">&nbsp; &nbsp; fi</span></div><div><br>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">&nbsp; &nbsp; local selection=3D</span></div><div>=
+<br></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 0.867rem;">&nbsp; &nbsp; if [ -z "$answer" ]</span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem;">&nbsp; &nbsp; then</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbs=
+p; &nbsp; selection=3Daosp_arm-eng</span></div><div><span data-wi=
+z-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &n=
+bsp; elif (echo -n $answer | grep -q -e "^[0-9][0-9]*$")</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">&nbsp; &nbsp; then</span></div><div><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp=
+; &nbsp; &nbsp; if [ $answer -le ${#LUNCH_MENU_CHOICES[@]} ]</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; then</span></div><di=
+v><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867=
+rem;"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; selection=3D${=
+LUNCH_MENU_CHOICES[$(($answer-1))]} &nbsp;--&gt;$(())=CA=FD=D1=A7=
+=D4=CB=CB=E3=A3=AC=C0=EF=C3=E6=B5=C4=B1=E4=C1=BF=BF=C9=D2=D4shiyo=
+ng$=BD=F8=D0=D0=D2=FD=D3=C3=A3=AC=D2=B2=BF=C9=D2=D4=B2=BB=CA=B9=D3=
+=C3$=BE=CD=D6=B1=BD=D3=CA=B9=D3=C3=A3=AC=C8=F4=CA=B9=D3=C3(())=A3=
+=AC=D4=F2=B1=D8=D0=EB=D3=C3$=B6=D4=B1=E4=C1=BF=BD=F8=D0=D0=D2=FD=D3=
+=C3</b></span></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; fi</span=
+></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;"><b>&nbsp; &nbsp; elif (echo -n $answer | grep -q=20=
+-e "^[^\-][^\-]*-[^\-][^\-]*$") &nbsp;--&gt;-q=BE=B2=C4=AC=CA=E4=B3=
+=F6=A3=AC=B2=BB=CF=D4=CA=BE=CA=E4=B3=F6=D0=C5=CF=A2=A3=AC-e=D5=FD=
+=D4=F2=B1=ED=B4=EF=CA=BD=A3=AC=C6=A5=C5=E4=C4=A3=CA=BD=A3=ACok=D4=
+=F2=B7=B5=BB=D80=A3=AC=D7=A2=D2=E2=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=D6=
+=D0[]=C0=EF=C3=E6=B5=C4^=B1=ED=CA=BE=C5=C5=B3=FD=B5=C4=D2=E2=CB=BC=
+</b></span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; then</span></div><div><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;"=
+>&nbsp; &nbsp; &nbsp; &nbsp; selection=3D$answer</span></div><div=
+><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867r=
+em;">&nbsp; &nbsp; fi</span></div><div><br></div><div><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp;=20=
+&nbsp; if [ -z "$selection" ]</span></div><div><span data-wiz-spa=
+n=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=20=
+then</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; echo</span>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; echo "Invalid lunch co=
+mbo: $answer"</span></div><div><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; re=
+turn 1</span></div><div><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"font-size: 0.867rem;">&nbsp; &nbsp; fi</span></div><div><br=
+></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-s=
+ize: 0.867rem;">&nbsp; &nbsp; export TARGET_BUILD_APPS=3D</span><=
+/div><div><br></div><div><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D"font-size: 0.867rem;">&nbsp; &nbsp; local variant=3D$(echo=
+ -n $selection | sed -e "s/^[^\-]*-//")</span></div><div><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbs=
+p; &nbsp; check_variant $variant</span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbs=
+p; if [ $? -ne 0 ]</span></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; then</span>=
+</div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-si=
+ze: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; echo</span></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m;">&nbsp; &nbsp; &nbsp; &nbsp; echo "** Invalid variant: '$varia=
+nt'"</span></div><div><span data-wiz-span=3D"data-wiz-span" style=
+=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; echo "** Mu=
+st be one of ${VARIANT_CHOICES[@]}"</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &=
+nbsp; &nbsp; &nbsp; variant=3D</span></div><div><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp;=
+ fi</span></div><div><br></div><div><span data-wiz-span=3D"data-w=
+iz-span" style=3D"font-size: 0.867rem;"><b>&nbsp; &nbsp; local pr=
+oduct=3D$(echo -n $selection | sed -e "s/-.*$//") &nbsp;--&gt;=B7=
+=C7=B3=A3=D6=D8=D2=AA=A3=AC=BA=F3=C3=E6product=BB=E1=B8=B3=D6=B5=B8=
+=F8TARGET_PRODUCT=B2=A2=D2=FD=D3=C3=B5=BD=D5=FB=B8=F6=CF=B5=CD=B3=
+=D6=D0=CA=B9=D3=C3=A3=AC=B1=C8=C8=E7lunch&nbsp;</b></span><span s=
+tyle=3D"font-size: 13.005px; line-height: 20.808px;"><b>full_jasz=
+8167_tb_n-userdebug=A3=AC=D4=F2</b></span><b style=3D"font-size:=20=
+13.005px; line-height: 20.808px;"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"color: rgb(255, 0, 0);">TARGET_PRODUCT=3D</span><=
+/b><b style=3D"font-size: 13.005px; line-height: 20.808px;"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);"=
+>full_jasz8167_tb_n</span></b></div><div><span data-wiz-span=3D"d=
+ata-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; TARGET=
+_PRODUCT=3D$product \</span></div><div><span data-wiz-span=3D"dat=
+a-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; TARGET_B=
+UILD_VARIANT=3D$variant \</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;"><b><span data-wiz-=
+span=3D"data-wiz-span" style=3D"color: rgb(255, 0, 0);">&nbsp; &n=
+bsp; build_build_var_cache &nbsp;--&gt;=D6=D8=B5=E3=B7=D6=CE=F6</=
+span></b></span></div><div><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-size: 0.867rem;">&nbsp; &nbsp; if [ $? -ne 0 ]</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">&nbsp; &nbsp; then</span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &=
+nbsp; &nbsp; &nbsp; echo</span></div><div><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbsp=
+; &nbsp; echo "** Don't have a product spec for: '$product'"</spa=
+n></div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-=
+size: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; echo "** Do you have=
+ the right repo manifest?"</span></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; &nbs=
+p; &nbsp; product=3D</span></div><div><span data-wiz-span=3D"data=
+-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; fi</span>=
+</div><div><br></div><div><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"font-size: 0.867rem;">&nbsp; &nbsp; if [ -z "$product" -o=
+ -z "$variant" ]</span></div><div><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; then</span></=
+div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size=
+: 0.867rem;">&nbsp; &nbsp; &nbsp; &nbsp; echo</span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;=
+">&nbsp; &nbsp; &nbsp; &nbsp; return 1</span></div><div><span dat=
+a-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp=
+; &nbsp; fi</span></div><div><br></div><div><span data-wiz-span=3D=
+"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; expo=
+rt TARGET_PRODUCT=3D$product</span></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp; &nbsp; e=
+xport TARGET_BUILD_VARIANT=3D$variant</span></div><div><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">&nbsp;=
+ &nbsp; export TARGET_BUILD_TYPE=3Drelease</span></div><div><br><=
+/div><div><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 0.867rem;">&nbsp; &nbsp; echo</span></div><div><br></div><div>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867re=
+m; color: rgb(255, 0, 0);"><b>&nbsp; &nbsp; set_stuff_for_environ=
+ment &nbsp; &nbsp;--&gt;=D6=D8=B5=E3=B7=D6=CE=F6</b></span></div>=
+<div><span data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.=
+867rem; color: rgb(255, 0, 0);"><b>&nbsp; &nbsp; printconfig &nbs=
+p; &nbsp;--&gt;=D6=D8=B5=E3=B7=D6=CE=F6</b></span></div><div><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-size: 0.867rem;">=
+<b>&nbsp; &nbsp; destroy_build_var_cache &nbsp; &nbsp;--&gt;=D6=D8=
+=B5=E3=B7=D6=CE=F6</b></span></div><div><span data-wiz-span=3D"da=
+ta-wiz-span" style=3D"font-size: 0.867rem;">}</span></div></div><=
+/body></html>
+
+------=_Next_Part_0138400859.724--
+
+------=_Next_Part_0415202577.169--
+
